@@ -376,8 +376,10 @@ void CACHE_REPLACEMENT_STATE::UpdateSRRIP(UINT32 setIndex, INT32 updateWayID,
       replSet[updateWayID].blockRRPV = 2;
   }
 
-  PrintRequest(setIndex, updateWayID, PC, cacheHit);
-  PrintCacheReplStatus(replSet, updateWayID, cacheHit, _sign, SHCT_flag, sign_flag);
+  if (isOJ) {
+    PrintRequest(setIndex, updateWayID, PC, cacheHit);
+    PrintCacheReplStatus(replSet, updateWayID, cacheHit, _sign, SHCT_flag, sign_flag);
+  }
   IncrementTimer();
 }
 

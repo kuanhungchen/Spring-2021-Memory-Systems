@@ -57,6 +57,7 @@ class CACHE_REPLACEMENT_STATE
 
     // CONTESTANTS:  Add extra state for cache here
     UINT32 *mySHCT;
+    bool isOJ = false;
 
   public:
 
@@ -70,7 +71,7 @@ class CACHE_REPLACEMENT_STATE
 
     void   SetReplacementPolicy( UINT32 _pol ) { replPolicy = _pol; }
     void   IncrementTimer() { mytimer++; }
-
+    void   SetOJ(bool x) { isOJ = x; }
 
     void   InitSHCT(UINT32 _num_shct);
 
