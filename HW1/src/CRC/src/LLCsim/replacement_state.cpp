@@ -39,6 +39,7 @@ CACHE_REPLACEMENT_STATE::CACHE_REPLACEMENT_STATE( UINT32 _sets, UINT32 _assoc, U
     replPolicy = _pol;
 
     mytimer    = 0;
+    isOJ = false;
 
     InitReplacementState();
 }

@@ -57,7 +57,7 @@ class CACHE_REPLACEMENT_STATE
 
     // CONTESTANTS:  Add extra state for cache here
     UINT32 *mySHCT;
-    bool isOJ = false;
+    bool isOJ;
 
   public:
 
