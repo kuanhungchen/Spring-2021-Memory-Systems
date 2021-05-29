@@ -1,1 +1,0 @@
-#define CRC_KIT
