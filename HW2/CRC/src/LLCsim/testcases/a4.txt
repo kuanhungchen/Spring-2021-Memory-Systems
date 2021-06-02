@@ -1,0 +1,3004 @@
+16
+4
+2
+20
+500
+0 100117 14 Hit 0
+RRPV:      (0) 3 3 3
+Signature: 0 0 0 0
+outcome:   (1) 0 0 0
+SHCT:      (2) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+1 100049 2 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (9) 0 0 0
+outcome:   (0) 0 0 0
+SHCT:      (1) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+2 100038 11 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (18) 0 0 0
+outcome:   (0) 0 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+3 100009 9 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (9) 0 0 0
+outcome:   (0) 0 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+4 100069 12 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (9) 0 0 0
+outcome:   (0) 0 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+5 100036 6 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (16) 0 0 0
+outcome:   (0) 0 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+6 100005 0 Hit 0
+RRPV:      (0) 3 3 3
+Signature: 0 0 0 0
+outcome:   (1) 0 0 0
+SHCT:      (1) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+7 100020 6 Replace 1
+RRPV:      2 (3) 3 3
+Signature: 16 (0) 0 0
+outcome:   0 (0) 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+8 100041 4 Hit 0
+RRPV:      (0) 3 3 3
+Signature: 0 0 0 0
+outcome:   (1) 0 0 0
+SHCT:      (1) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+9 100138 5 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (18) 0 0 0
+outcome:   (0) 0 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+10 100182 4 Replace 1
+RRPV:      0 (2) 3 3
+Signature: 0 (2) 0 0
+outcome:   1 (0) 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+11 100163 15 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (3) 0 0 0
+outcome:   (0) 0 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+12 100016 4 Replace 2
+RRPV:      0 2 (2) 3
+Signature: 0 2 (16) 0
+outcome:   1 0 (0) 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+13 100097 15 Replace 1
+RRPV:      2 (2) 3 3
+Signature: 3 (17) 0 0
+outcome:   0 (0) 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+14 100177 3 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (17) 0 0 0
+outcome:   (0) 0 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+15 100087 12 Replace 1
+RRPV:      2 (2) 3 3
+Signature: 9 (7) 0 0
+outcome:   0 (0) 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+16 100064 6 Replace 1
+RRPV:      2 (2) 3 3
+Signature: 16 (4) 0 0
+outcome:   0 (0) 0 0
+SHCT:      (0) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+17 100138 4 Hit 1
+RRPV:      0 (0) 2 3
+Signature: 0 2 16 0
+outcome:   1 (1) 0 0
+SHCT:      0 1 (2) 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+18 100020 0 Replace 1
+RRPV:      0 (3) 3 3
+Signature: 0 (0) 0 0
+outcome:   1 (0) 0 0
+SHCT:      (0) 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+19 100051 9 Replace 1
+RRPV:      2 (2) 3 3
+Signature: 9 (11) 0 0
+outcome:   0 (0) 0 0
+SHCT:      (0) 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+20 100178 15 Hit 1
+RRPV:      2 (0) 3 3
+Signature: 3 17 0 0
+outcome:   0 (1) 0 0
+SHCT:      0 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 (2) 1 1
+
+21 100086 7 Hit 3
+RRPV:      3 3 3 (0)
+Signature: 0 0 0 0
+outcome:   0 0 0 (1)
+SHCT:      (1) 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1
+
+22 100187 14 Hit 2
+RRPV:      0 3 (0) 3
+Signature: 0 0 0 0
+outcome:   1 0 (1) 0
+SHCT:      (2) 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1
+
+23 100133 13 Hit 0
+RRPV:      (0) 3 3 3
+Signature: 0 0 0 0
+outcome:   (1) 0 0 0
+SHCT:      (3) 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1
+
+24 100131 3 Hit 3
+RRPV:      2 3 3 (0)
+Signature: 17 0 0 0
+outcome:   0 0 0 (1)
+SHCT:      (3) 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1
+
+25 100031 6 Replace 2
+RRPV:      2 2 (2) 3
+Signature: 16 4 (11) 0
+outcome:   0 0 (0) 0
+SHCT:      (2) 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1
+
+26 100187 14 Replace 1
+RRPV:      0 (2) 0 3
+Signature: 0 (7) 0 0
+outcome:   1 (0) 1 0
+SHCT:      (1) 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1
+
+27 100081 2 Hit 0
+RRPV:      (0) 3 3 3
+Signature: 9 0 0 0
+outcome:   (1) 0 0 0
+SHCT:      1 1 2 1 1 1 1 1 1 (2) 1 1 1 1 1 1 1 2 1 1
+
+28 100157 14 Replace 3
+RRPV:      0 2 0 (2)
+Signature: 0 7 0 (17)
+outcome:   1 0 1 (0)
+SHCT:      (0) 1 2 1 1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 1
+
+29 100087 15 Replace 2
+RRPV:      2 0 (2) 3
+Signature: 3 17 (7) 0
+outcome:   0 1 (0) 0
+SHCT:      (0) 1 2 1 1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 1
+
+30 100163 14 Replace 1
+RRPV:      1 (2) 1 3
+Signature: 0 (3) 0 17
+outcome:   1 (0) 1 0
+SHCT:      0 1 2 1 1 1 1 (0) 1 2 1 1 1 1 1 1 1 2 1 1
+
+31 100013 0 Replace 1
+RRPV:      0 (2) 3 3
+Signature: 0 (13) 0 0
+outcome:   1 (0) 0 0
+SHCT:      (0) 1 2 1 1 1 1 0 1 2 1 1 1 1 1 1 1 2 1 1
+
+32 100043 13 Hit 2
+RRPV:      0 3 (0) 3
+Signature: 0 0 0 0
+outcome:   1 0 (1) 0
+SHCT:      (1) 1 2 1 1 1 1 0 1 2 1 1 1 1 1 1 1 2 1 1
+
+33 100077 7 Hit 0
+RRPV:      (0) 3 3 0
+Signature: 0 0 0 0
+outcome:   (1) 0 0 1
+SHCT:      (2) 1 2 1 1 1 1 0 1 2 1 1 1 1 1 1 1 2 1 1
+
+34 100078 3 Hit 1
+RRPV:      2 (0) 3 0
+Signature: 17 0 0 0
+outcome:   0 (1) 0 1
+SHCT:      (3) 1 2 1 1 1 1 0 1 2 1 1 1 1 1 1 1 2 1 1
+
+35 100100 2 Hit 1
+RRPV:      0 (0) 3 3
+Signature: 9 0 0 0
+outcome:   1 (1) 0 0
+SHCT:      (3) 1 2 1 1 1 1 0 1 2 1 1 1 1 1 1 1 2 1 1
+
+36 100039 6 Hit 2
+RRPV:      2 2 (0) 3
+Signature: 16 4 11 0
+outcome:   0 0 (1) 0
+SHCT:      3 1 2 1 1 1 1 0 1 2 1 (2) 1 1 1 1 1 2 1 1
+
+37 100159 0 Hit 1
+RRPV:      0 (0) 3 3
+Signature: 0 13 0 0
+outcome:   1 (1) 0 0
+SHCT:      3 1 2 1 1 1 1 0 1 2 1 2 1 (2) 1 1 1 2 1 1
+
+38 100167 4 Hit 3
+RRPV:      0 0 2 (0)
+Signature: 0 2 16 0
+outcome:   1 1 0 (1)
+SHCT:      (3) 1 2 1 1 1 1 0 1 2 1 2 1 2 1 1 1 2 1 1
+
+39 100182 8 Hit 0
+RRPV:      (0) 3 3 3
+Signature: 0 0 0 0
+outcome:   (1) 0 0 0
+SHCT:      (3) 1 2 1 1 1 1 0 1 2 1 2 1 2 1 1 1 2 1 1
+
+40 100015 15 Replace 3
+RRPV:      2 0 2 (2)
+Signature: 3 17 7 (15)
+outcome:   0 1 0 (0)
+SHCT:      (2) 1 2 1 1 1 1 0 1 2 1 2 1 2 1 1 1 2 1 1
+
+41 100157 4 Hit 0
+RRPV:      (0) 0 2 0
+Signature: 0 2 16 0
+outcome:   (1) 1 0 1
+SHCT:      (3) 1 2 1 1 1 1 0 1 2 1 2 1 2 1 1 1 2 1 1
+
+42 100064 3 Replace 2
+RRPV:      2 0 (2) 0
+Signature: 17 0 (4) 0
+outcome:   0 1 (0) 1
+SHCT:      (2) 1 2 1 1 1 1 0 1 2 1 2 1 2 1 1 1 2 1 1
+
+43 100032 9 Hit 1
+RRPV:      2 (0) 3 3
+Signature: 9 11 0 0
+outcome:   0 (1) 0 0
+SHCT:      2 1 2 1 1 1 1 0 1 2 1 (3) 1 2 1 1 1 2 1 1
+
+44 100050 8 Replace 1
+RRPV:      0 (2) 3 3
+Signature: 0 (10) 0 0
+outcome:   1 (0) 0 0
+SHCT:      (1) 1 2 1 1 1 1 0 1 2 1 3 1 2 1 1 1 2 1 1
+
+45 100183 2 Hit 2
+RRPV:      0 0 (0) 3
+Signature: 9 0 0 0
+outcome:   1 1 (1) 0
+SHCT:      (2) 1 2 1 1 1 1 0 1 2 1 3 1 2 1 1 1 2 1 1
+
+46 100192 14 Hit 3
+RRPV:      1 2 1 (0)
+Signature: 0 3 0 17
+outcome:   1 0 1 (1)
+SHCT:      2 1 2 1 1 1 1 0 1 2 1 3 1 2 1 1 1 (3) 1 1
+
+47 100029 7 Replace 1
+RRPV:      0 (2) 3 0
+Signature: 0 (9) 0 0
+outcome:   1 (0) 0 1
+SHCT:      (1) 1 2 1 1 1 1 0 1 2 1 3 1 2 1 1 1 3 1 1
+
+48 100123 10 Hit 1
+RRPV:      3 (0) 3 3
+Signature: 0 0 0 0
+outcome:   0 (1) 0 0
+SHCT:      (2) 1 2 1 1 1 1 0 1 2 1 3 1 2 1 1 1 3 1 1
+
+49 100016 12 Replace 2
+RRPV:      2 2 (2) 3
+Signature: 9 7 (16) 0
+outcome:   0 0 (0) 0
+SHCT:      (1) 1 2 1 1 1 1 0 1 2 1 3 1 2 1 1 1 3 1 1
+
+50 100124 3 Hit 1
+RRPV:      2 (0) 2 0
+Signature: 17 0 4 0
+outcome:   0 (1) 0 1
+SHCT:      (2) 1 2 1 1 1 1 0 1 2 1 3 1 2 1 1 1 3 1 1
+
+51 100104 4 Replace 2
+RRPV:      1 1 (2) 1
+Signature: 0 2 (4) 0
+outcome:   1 1 (0) 1
+SHCT:      2 1 2 1 1 1 1 0 1 2 1 3 1 2 1 1 (0) 3 1 1
+
+52 100194 3 Hit 2
+RRPV:      2 0 (0) 0
+Signature: 17 0 4 0
+outcome:   0 1 (1) 1
+SHCT:      2 1 2 1 (2) 1 1 0 1 2 1 3 1 2 1 1 0 3 1 1
+
+53 100044 5 Replace 1
+RRPV:      2 (2) 3 3
+Signature: 18 (4) 0 0
+outcome:   0 (0) 0 0
+SHCT:      (1) 1 2 1 2 1 1 0 1 2 1 3 1 2 1 1 0 3 1 1
+
+54 100095 1 Hit 1
+RRPV:      3 (0) 3 3
+Signature: 0 0 0 0
+outcome:   0 (1) 0 0
+SHCT:      (2) 1 2 1 2 1 1 0 1 2 1 3 1 2 1 1 0 3 1 1
+
+55 100160 11 Hit 2
+RRPV:      2 3 (0) 3
+Signature: 18 0 0 0
+outcome:   0 0 (1) 0
+SHCT:      (3) 1 2 1 2 1 1 0 1 2 1 3 1 2 1 1 0 3 1 1
+
+56 100032 4 Replace 2
+RRPV:      2 2 (2) 2
+Signature: 0 2 (12) 0
+outcome:   1 1 (0) 1
+SHCT:      3 1 2 1 (1) 1 1 0 1 2 1 3 1 2 1 1 0 3 1 1
+
+57 100056 14 Replace 1
+RRPV:      2 (3) 2 1
+Signature: 0 (16) 0 17
+outcome:   1 (0) 1 1
+SHCT:      3 1 2 (0) 1 1 1 0 1 2 1 3 1 2 1 1 0 3 1 1
+
+58 100097 15 Replace 0
+RRPV:      (2) 1 3 3
+Signature: (17) 17 7 15
+outcome:   (0) 1 0 0
+SHCT:      3 1 2 (0) 1 1 1 0 1 2 1 3 1 2 1 1 0 3 1 1
+
+59 100095 15 Hit 2
+RRPV:      2 1 (0) 3
+Signature: 17 17 7 15
+outcome:   0 1 (1) 0
+SHCT:      3 1 2 0 1 1 1 (1) 1 2 1 3 1 2 1 1 0 3 1 1
+
+60 100058 14 Hit 3
+RRPV:      2 3 2 (0)
+Signature: 0 16 0 17
+outcome:   1 0 1 (1)
+SHCT:      3 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 (3) 1 1
+
+61 100168 8 Replace 2
+RRPV:      0 2 (2) 3
+Signature: 0 10 (8) 0
+outcome:   1 0 (0) 0
+SHCT:      (2) 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+62 100040 12 Replace 3
+RRPV:      2 2 2 (2)
+Signature: 9 7 16 (0)
+outcome:   0 0 0 (0)
+SHCT:      (1) 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+63 100124 7 Replace 2
+RRPV:      0 2 (2) 0
+Signature: 0 9 (4) 0
+outcome:   1 0 (0) 1
+SHCT:      (0) 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+64 100021 13 Replace 1
+RRPV:      0 (2) 0 3
+Signature: 0 (1) 0 0
+outcome:   1 (0) 1 0
+SHCT:      (0) 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+65 100017 14 Hit 0
+RRPV:      (0) 3 2 0
+Signature: 0 16 0 17
+outcome:   (1) 0 1 1
+SHCT:      (1) 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+66 100198 11 Replace 1
+RRPV:      2 (2) 0 3
+Signature: 18 (18) 0 0
+outcome:   0 (0) 1 0
+SHCT:      (0) 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+67 100146 10 Replace 0
+RRPV:      (2) 0 3 3
+Signature: (6) 0 0 0
+outcome:   (0) 1 0 0
+SHCT:      (0) 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+68 100086 14 Hit 0
+RRPV:      (0) 3 2 0
+Signature: 0 16 0 17
+outcome:   (1) 0 1 1
+SHCT:      (1) 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+69 100078 15 Hit 0
+RRPV:      (0) 1 0 3
+Signature: 17 17 7 15
+outcome:   (1) 1 1 0
+SHCT:      1 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 (3) 1 1
+
+70 100069 0 Replace 2
+RRPV:      0 0 (2) 3
+Signature: 0 13 (9) 0
+outcome:   1 1 (0) 0
+SHCT:      (0) 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+71 100066 5 Replace 2
+RRPV:      2 2 (2) 3
+Signature: 18 4 (6) 0
+outcome:   0 0 (0) 0
+SHCT:      (0) 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+72 100032 10 Replace 2
+RRPV:      2 0 (2) 3
+Signature: 6 0 (12) 0
+outcome:   0 1 (0) 0
+SHCT:      (0) 1 2 0 1 1 1 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+73 100142 10 Hit 0
+RRPV:      (0) 0 2 3
+Signature: 6 0 12 0
+outcome:   (1) 1 0 0
+SHCT:      0 1 2 0 1 1 (2) 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+74 100030 2 Replace 3
+RRPV:      0 0 0 (2)
+Signature: 9 0 0 (10)
+outcome:   1 1 1 (0)
+SHCT:      (0) 1 2 0 1 1 2 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+75 100009 9 Replace 2
+RRPV:      2 0 (2) 3
+Signature: 9 11 (9) 0
+outcome:   0 1 (0) 0
+SHCT:      (0) 1 2 0 1 1 2 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+76 100107 6 Hit 3
+RRPV:      2 2 0 (0)
+Signature: 16 4 11 0
+outcome:   0 0 1 (1)
+SHCT:      (1) 1 2 0 1 1 2 1 1 2 1 3 1 2 1 1 0 3 1 1
+
+77 100027 14 Replace 1
+RRPV:      0 (2) 2 0
+Signature: 0 (7) 0 17
+outcome:   1 (0) 1 1
+SHCT:      1 1 2 0 1 1 2 1 1 2 1 3 1 2 1 1 (0) 3 1 1
+
+78 100186 6 Hit 0
+RRPV:      (0) 2 0 0
+Signature: 16 4 11 0
+outcome:   (1) 0 1 1
+SHCT:      1 1 2 0 1 1 2 1 1 2 1 3 1 2 1 1 (1) 3 1 1
+
+79 100178 4 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (18) 2 12 0
+outcome:   (0) 1 0 1
+SHCT:      1 1 2 0 1 1 2 1 1 2 1 3 1 2 1 1 1 3 1 1
+
+80 100151 14 Replace 1
+RRPV:      1 (2) 3 1
+Signature: 0 (11) 0 17
+outcome:   1 (0) 1 1
+SHCT:      1 1 2 0 1 1 2 (0) 1 2 1 3 1 2 1 1 1 3 1 1
+
+81 100142 9 Replace 3
+RRPV:      2 0 2 (2)
+Signature: 9 11 9 (2)
+outcome:   0 1 0 (0)
+SHCT:      (0) 1 2 0 1 1 2 0 1 2 1 3 1 2 1 1 1 3 1 1
+
+82 100180 13 Hit 0
+RRPV:      (0) 2 0 3
+Signature: 0 1 0 0
+outcome:   (1) 0 1 0
+SHCT:      (1) 1 2 0 1 1 2 0 1 2 1 3 1 2 1 1 1 3 1 1
+
+83 100130 14 Hit 1
+RRPV:      1 (0) 3 1
+Signature: 0 11 0 17
+outcome:   1 (1) 1 1
+SHCT:      1 1 2 0 1 1 2 0 1 2 1 (3) 1 2 1 1 1 3 1 1
+
+84 100113 14 Hit 1
+RRPV:      1 (0) 3 1
+Signature: 0 11 0 17
+outcome:   1 (1) 1 1
+SHCT:      1 1 2 0 1 1 2 0 1 2 1 (3) 1 2 1 1 1 3 1 1
+
+85 100055 10 Replace 3
+RRPV:      0 0 2 (2)
+Signature: 6 0 12 (15)
+outcome:   1 1 0 (0)
+SHCT:      (0) 1 2 0 1 1 2 0 1 2 1 3 1 2 1 1 1 3 1 1
+
+86 100065 11 Hit 1
+RRPV:      2 (0) 0 3
+Signature: 18 18 0 0
+outcome:   0 (1) 1 0
+SHCT:      0 1 2 0 1 1 2 0 1 2 1 3 1 2 1 1 1 3 (2) 1
+
+87 100071 9 Replace 0
+RRPV:      (2) 1 3 3
+Signature: (11) 11 9 2
+outcome:   (0) 1 0 0
+SHCT:      0 1 2 0 1 1 2 0 1 (1) 1 3 1 2 1 1 1 3 2 1
+
+88 100184 8 Replace 3
+RRPV:      0 2 2 (2)
+Signature: 0 10 8 (4)
+outcome:   1 0 0 (0)
+SHCT:      (0) 1 2 0 1 1 2 0 1 1 1 3 1 2 1 1 1 3 2 1
+
+89 100015 4 Hit 2
+RRPV:      2 3 (0) 3
+Signature: 18 2 12 0
+outcome:   0 1 (1) 1
+SHCT:      0 1 2 0 1 1 2 0 1 1 1 3 (2) 2 1 1 1 3 2 1
+
+90 100126 13 Hit 1
+RRPV:      0 (0) 0 3
+Signature: 0 1 0 0
+outcome:   1 (1) 1 0
+SHCT:      0 (2) 2 0 1 1 2 0 1 1 1 3 2 2 1 1 1 3 2 1
+
+91 100118 0 Replace 3
+RRPV:      0 0 2 (2)
+Signature: 0 13 9 (18)
+outcome:   1 1 0 (0)
+SHCT:      (0) 2 2 0 1 1 2 0 1 1 1 3 2 2 1 1 1 3 2 1
+
+92 100086 5 Hit 0
+RRPV:      (0) 2 2 3
+Signature: 18 4 6 0
+outcome:   (1) 0 0 0
+SHCT:      0 2 2 0 1 1 2 0 1 1 1 3 2 2 1 1 1 3 (3) 1
+
+93 100021 11 Replace 3
+RRPV:      2 0 0 (2)
+Signature: 18 18 0 (1)
+outcome:   0 1 1 (0)
+SHCT:      (0) 2 2 0 1 1 2 0 1 1 1 3 2 2 1 1 1 3 3 1
+
+94 100118 6 Replace 1
+RRPV:      1 (2) 1 1
+Signature: 16 (18) 11 0
+outcome:   1 (0) 1 1
+SHCT:      0 2 2 0 (0) 1 2 0 1 1 1 3 2 2 1 1 1 3 3 1
+
+95 100094 7 Replace 1
+RRPV:      1 (2) 3 1
+Signature: 0 (14) 4 0
+outcome:   1 (0) 0 1
+SHCT:      0 2 2 0 0 1 2 0 1 (0) 1 3 2 2 1 1 1 3 3 1
+
+96 100045 1 Replace 0
+RRPV:      (2) 0 3 3
+Signature: (5) 0 0 0
+outcome:   (0) 1 0 0
+SHCT:      (0) 2 2 0 0 1 2 0 1 0 1 3 2 2 1 1 1 3 3 1
+
+97 100187 11 Hit 1
+RRPV:      2 (0) 0 2
+Signature: 18 18 0 1
+outcome:   0 (1) 1 0
+SHCT:      0 2 2 0 0 1 2 0 1 0 1 3 2 2 1 1 1 3 (3) 1
+
+98 100116 11 Hit 0
+RRPV:      (0) 0 0 2
+Signature: 18 18 0 1
+outcome:   (1) 1 1 0
+SHCT:      0 2 2 0 0 1 2 0 1 0 1 3 2 2 1 1 1 3 (3) 1
+
+99 100029 13 Hit 2
+RRPV:      0 0 (0) 3
+Signature: 0 1 0 0
+outcome:   1 1 (1) 0
+SHCT:      (1) 2 2 0 0 1 2 0 1 0 1 3 2 2 1 1 1 3 3 1
+
+100 100134 14 Replace 2
+RRPV:      1 0 (2) 1
+Signature: 0 11 (14) 17
+outcome:   1 1 (0) 1
+SHCT:      1 2 2 0 0 1 2 0 1 0 1 3 2 2 1 1 1 3 3 1
+
+101 100064 9 Hit 3
+RRPV:      2 1 3 (0)
+Signature: 11 11 9 2
+outcome:   0 1 0 (1)
+SHCT:      1 2 (3) 0 0 1 2 0 1 0 1 3 2 2 1 1 1 3 3 1
+
+102 100048 6 Replace 1
+RRPV:      2 (2) 2 2
+Signature: 16 (8) 11 0
+outcome:   1 (0) 1 1
+SHCT:      1 2 3 0 0 1 2 0 1 0 1 3 2 2 1 1 1 3 (2) 1
+
+103 100026 4 Replace 1
+RRPV:      2 (2) 0 3
+Signature: 18 (6) 12 0
+outcome:   0 (0) 1 1
+SHCT:      1 2 3 0 0 1 2 0 1 0 1 3 2 2 1 1 1 3 2 1
+
+104 100021 2 Replace 3
+RRPV:      1 1 1 (2)
+Signature: 9 0 0 (1)
+outcome:   1 1 1 (0)
+SHCT:      1 2 3 0 0 1 2 0 1 0 (0) 3 2 2 1 1 1 3 2 1
+
+105 100055 13 Hit 3
+RRPV:      0 0 0 (0)
+Signature: 0 1 0 0
+outcome:   1 1 1 (1)
+SHCT:      (2) 2 3 0 0 1 2 0 1 0 0 3 2 2 1 1 1 3 2 1
+
+106 100114 13 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (14) 1 0 0
+outcome:   (0) 1 1 1
+SHCT:      2 2 3 0 0 1 2 0 1 0 0 3 2 2 1 1 1 3 2 1
+
+107 100122 3 Hit 0
+RRPV:      (0) 0 0 0
+Signature: 17 0 4 0
+outcome:   (1) 1 1 1
+SHCT:      2 2 3 0 0 1 2 0 1 0 0 3 2 2 1 1 1 (3) 2 1
+
+108 100006 3 Hit 3
+RRPV:      0 0 0 (0)
+Signature: 17 0 4 0
+outcome:   1 1 1 (1)
+SHCT:      (3) 2 3 0 0 1 2 0 1 0 0 3 2 2 1 1 1 3 2 1
+
+109 100130 15 Replace 3
+RRPV:      0 1 0 (3)
+Signature: 17 17 7 (10)
+outcome:   1 1 1 (0)
+SHCT:      3 2 3 0 0 1 2 0 1 0 0 3 2 2 1 (0) 1 3 2 1
+
+110 100199 15 Hit 3
+RRPV:      0 1 0 (0)
+Signature: 17 17 7 10
+outcome:   1 1 1 (1)
+SHCT:      3 2 3 0 0 1 2 0 1 0 (1) 3 2 2 1 0 1 3 2 1
+
+111 100103 11 Hit 2
+RRPV:      0 0 (0) 2
+Signature: 18 18 0 1
+outcome:   1 1 (1) 0
+SHCT:      (3) 2 3 0 0 1 2 0 1 0 1 3 2 2 1 0 1 3 2 1
+
+112 100160 14 Hit 2
+RRPV:      1 0 (0) 1
+Signature: 0 11 14 17
+outcome:   1 1 (1) 1
+SHCT:      3 2 3 0 0 1 2 0 1 0 1 3 2 2 (2) 0 1 3 2 1
+
+113 100111 14 Replace 0
+RRPV:      (2) 2 2 3
+Signature: (11) 11 14 17
+outcome:   (0) 1 1 1
+SHCT:      3 2 3 0 0 1 2 0 1 0 1 3 2 2 2 0 1 3 2 1
+
+114 100173 8 Replace 1
+RRPV:      1 (2) 3 3
+Signature: 0 (13) 8 4
+outcome:   1 (0) 0 0
+SHCT:      3 2 3 0 0 1 2 0 1 0 (0) 3 2 2 2 0 1 3 2 1
+
+115 100116 9 Hit 0
+RRPV:      (0) 1 3 0
+Signature: 11 11 9 2
+outcome:   (1) 1 0 1
+SHCT:      3 2 3 0 0 1 2 0 1 0 0 (3) 2 2 2 0 1 3 2 1
+
+116 100045 0 Replace 2
+RRPV:      1 1 (2) 3
+Signature: 0 13 (5) 18
+outcome:   1 1 (0) 0
+SHCT:      3 2 3 0 0 1 2 0 1 (0) 0 3 2 2 2 0 1 3 2 1
+
+117 100059 1 Replace 2
+RRPV:      2 0 (2) 3
+Signature: 5 0 (19) 0
+outcome:   0 1 (0) 0
+SHCT:      (2) 2 3 0 0 1 2 0 1 0 0 3 2 2 2 0 1 3 2 1
+
+118 100086 15 Replace 1
+RRPV:      2 (2) 2 2
+Signature: 17 (6) 7 10
+outcome:   1 (0) 1 1
+SHCT:      2 2 3 0 0 1 2 0 1 0 0 3 2 2 2 0 1 3 2 1
+
+119 100003 12 Replace 0
+RRPV:      (3) 3 3 3
+Signature: (3) 7 16 0
+outcome:   (0) 0 0 0
+SHCT:      2 2 3 0 0 1 2 0 1 (0) 0 3 2 2 2 0 1 3 2 1
+
+120 100065 7 Hit 3
+RRPV:      1 2 3 (0)
+Signature: 0 14 4 0
+outcome:   1 0 0 (1)
+SHCT:      (3) 2 3 0 0 1 2 0 1 0 0 3 2 2 2 0 1 3 2 1
+
+121 100161 6 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (1) 8 11 0
+outcome:   (0) 0 1 1
+SHCT:      3 2 3 0 0 1 2 0 1 0 0 3 2 2 2 0 1 3 2 1
+
+122 100040 13 Replace 1
+RRPV:      2 (2) 3 3
+Signature: 14 (0) 0 0
+outcome:   0 (0) 1 1
+SHCT:      3 2 3 0 0 1 2 0 1 0 0 3 2 2 2 0 1 3 2 1
+
+123 100018 9 Hit 1
+RRPV:      0 (0) 3 0
+Signature: 11 11 9 2
+outcome:   1 (1) 0 1
+SHCT:      3 2 3 0 0 1 2 0 1 0 0 (3) 2 2 2 0 1 3 2 1
+
+124 100154 13 Hit 0
+RRPV:      (0) 2 3 3
+Signature: 14 0 0 0
+outcome:   (1) 0 1 1
+SHCT:      3 2 3 0 0 1 2 0 1 0 0 3 2 2 (3) 0 1 3 2 1
+
+125 100113 1 Hit 2
+RRPV:      2 0 (0) 3
+Signature: 5 0 19 0
+outcome:   0 1 (1) 0
+SHCT:      3 2 3 0 0 1 2 0 1 0 0 3 2 2 3 0 1 3 2 (2)
+
+126 100180 9 Replace 2
+RRPV:      0 0 (2) 0
+Signature: 11 11 (0) 2
+outcome:   1 1 (0) 1
+SHCT:      3 2 3 0 0 1 2 0 1 (0) 0 3 2 2 3 0 1 3 2 2
+
+127 100188 2 Hit 2
+RRPV:      1 1 (0) 2
+Signature: 9 0 0 1
+outcome:   1 1 (1) 0
+SHCT:      (3) 2 3 0 0 1 2 0 1 0 0 3 2 2 3 0 1 3 2 2
+
+128 100073 11 Hit 0
+RRPV:      (0) 0 0 2
+Signature: 18 18 0 1
+outcome:   (1) 1 1 0
+SHCT:      3 2 3 0 0 1 2 0 1 0 0 3 2 2 3 0 1 3 (3) 2
+
+129 100199 1 Hit 2
+RRPV:      2 0 (0) 3
+Signature: 5 0 19 0
+outcome:   0 1 (1) 0
+SHCT:      3 2 3 0 0 1 2 0 1 0 0 3 2 2 3 0 1 3 3 (3)
+
+130 100006 14 Replace 3
+RRPV:      2 2 2 (2)
+Signature: 11 11 14 (6)
+outcome:   0 1 1 (0)
+SHCT:      3 2 3 0 0 1 2 0 1 0 0 3 2 2 3 0 1 3 3 3
+
+131 100145 12 Hit 0
+RRPV:      (0) 3 3 3
+Signature: 3 7 16 0
+outcome:   (1) 0 0 0
+SHCT:      3 2 3 (1) 0 1 2 0 1 0 0 3 2 2 3 0 1 3 3 3
+
+132 100049 3 Replace 0
+RRPV:      (3) 3 3 3
+Signature: (9) 0 4 0
+outcome:   (0) 1 1 1
+SHCT:      3 2 3 1 0 1 2 0 1 0 0 3 2 2 3 0 1 3 3 3
+
+133 100165 14 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (5) 11 14 6
+outcome:   (0) 1 1 0
+SHCT:      3 2 3 1 0 1 2 0 1 0 0 (2) 2 2 3 0 1 3 3 3
+
+134 100130 1 Hit 0
+RRPV:      (0) 0 0 3
+Signature: 5 0 19 0
+outcome:   (1) 1 1 0
+SHCT:      3 2 3 1 0 (2) 2 0 1 0 0 2 2 2 3 0 1 3 3 3
+
+135 100162 6 Replace 1
+RRPV:      2 (2) 3 3
+Signature: 1 (2) 11 0
+outcome:   0 (0) 1 1
+SHCT:      3 2 3 1 0 2 2 0 (0) 0 0 2 2 2 3 0 1 3 3 3
+
+136 100108 1 Replace 3
+RRPV:      0 0 0 (3)
+Signature: 5 0 19 (8)
+outcome:   1 1 1 (0)
+SHCT:      (2) 2 3 1 0 2 2 0 0 0 0 2 2 2 3 0 1 3 3 3
+
+137 100004 12 Replace 1
+RRPV:      0 (3) 3 3
+Signature: 3 (4) 16 0
+outcome:   1 (0) 0 0
+SHCT:      2 2 3 1 0 2 2 (0) 0 0 0 2 2 2 3 0 1 3 3 3
+
+138 100138 8 Replace 2
+RRPV:      1 2 (2) 3
+Signature: 0 13 (18) 4
+outcome:   1 0 (0) 0
+SHCT:      2 2 3 1 0 2 2 0 (0) 0 0 2 2 2 3 0 1 3 3 3
+
+139 100058 13 Hit 0
+RRPV:      (0) 2 3 3
+Signature: 14 0 0 0
+outcome:   (1) 0 1 1
+SHCT:      2 2 3 1 0 2 2 0 0 0 0 2 2 2 (3) 0 1 3 3 3
+
+140 100024 15 Hit 1
+RRPV:      2 (0) 2 2
+Signature: 17 6 7 10
+outcome:   1 (1) 1 1
+SHCT:      2 2 3 1 0 2 (3) 0 0 0 0 2 2 2 3 0 1 3 3 3
+
+141 100110 5 Replace 3
+RRPV:      0 2 2 (3)
+Signature: 18 4 6 (10)
+outcome:   1 0 0 (0)
+SHCT:      (1) 2 3 1 0 2 3 0 0 0 0 2 2 2 3 0 1 3 3 3
+
+142 100168 5 Hit 1
+RRPV:      0 (0) 2 3
+Signature: 18 4 6 10
+outcome:   1 (1) 0 0
+SHCT:      1 2 3 1 (1) 2 3 0 0 0 0 2 2 2 3 0 1 3 3 3
+
+143 100169 0 Hit 1
+RRPV:      1 (0) 2 3
+Signature: 0 13 5 18
+outcome:   1 (1) 0 0
+SHCT:      1 2 3 1 1 2 3 0 0 0 0 2 2 (3) 3 0 1 3 3 3
+
+144 100124 7 Replace 2
+RRPV:      1 2 (3) 0
+Signature: 0 14 (4) 0
+outcome:   1 0 (0) 1
+SHCT:      1 2 3 1 (0) 2 3 0 0 0 0 2 2 3 3 0 1 3 3 3
+
+145 100150 13 Replace 2
+RRPV:      0 2 (3) 3
+Signature: 14 0 (10) 0
+outcome:   1 0 (0) 1
+SHCT:      1 2 3 1 0 2 3 0 0 0 0 2 2 3 3 0 1 3 3 3
+
+146 100056 11 Replace 3
+RRPV:      1 1 1 (2)
+Signature: 18 18 0 (16)
+outcome:   1 1 1 (0)
+SHCT:      1 (1) 3 1 0 2 3 0 0 0 0 2 2 3 3 0 1 3 3 3
+
+147 100108 10 Replace 2
+RRPV:      1 1 (3) 3
+Signature: 6 0 (8) 15
+outcome:   1 1 (0) 0
+SHCT:      1 1 3 1 0 2 3 0 0 0 0 2 (1) 3 3 0 1 3 3 3
+
+148 100143 11 Replace 3
+RRPV:      2 2 2 (2)
+Signature: 18 18 0 (3)
+outcome:   1 1 1 (0)
+SHCT:      1 1 3 1 0 2 3 0 0 0 0 2 1 3 3 0 (0) 3 3 3
+
+149 100128 0 Replace 3
+RRPV:      1 0 2 (3)
+Signature: 0 13 5 (8)
+outcome:   1 1 0 (0)
+SHCT:      1 1 3 1 0 2 3 0 0 0 0 2 1 3 3 0 0 3 (2) 3
+
+150 100016 1 Hit 2
+RRPV:      0 0 (0) 3
+Signature: 5 0 19 8
+outcome:   1 1 (1) 0
+SHCT:      1 1 3 1 0 2 3 0 0 0 0 2 1 3 3 0 0 3 2 (3)
+
+151 100009 1 Hit 2
+RRPV:      0 0 (0) 3
+Signature: 5 0 19 8
+outcome:   1 1 (1) 0
+SHCT:      1 1 3 1 0 2 3 0 0 0 0 2 1 3 3 0 0 3 2 (3)
+
+152 100147 5 Hit 1
+RRPV:      0 (0) 2 3
+Signature: 18 4 6 10
+outcome:   1 (1) 0 0
+SHCT:      1 1 3 1 (1) 2 3 0 0 0 0 2 1 3 3 0 0 3 2 3
+
+153 100005 3 Hit 2
+RRPV:      3 3 (0) 3
+Signature: 9 0 4 0
+outcome:   0 1 (1) 1
+SHCT:      1 1 3 1 (2) 2 3 0 0 0 0 2 1 3 3 0 0 3 2 3
+
+154 100025 6 Hit 3
+RRPV:      2 2 3 (0)
+Signature: 1 2 11 0
+outcome:   0 0 1 (1)
+SHCT:      (2) 1 3 1 2 2 3 0 0 0 0 2 1 3 3 0 0 3 2 3
+
+155 100100 1 Hit 3
+RRPV:      0 0 0 (0)
+Signature: 5 0 19 8
+outcome:   1 1 1 (1)
+SHCT:      2 1 3 1 2 2 3 0 (1) 0 0 2 1 3 3 0 0 3 2 3
+
+156 100036 11 Replace 0
+RRPV:      (3) 3 3 3
+Signature: (16) 18 0 3
+outcome:   (0) 1 1 0
+SHCT:      2 1 3 1 2 2 3 0 1 0 0 2 1 3 3 0 0 3 2 3
+
+157 100038 8 Hit 1
+RRPV:      1 (0) 2 3
+Signature: 0 13 18 4
+outcome:   1 (1) 0 0
+SHCT:      2 1 3 1 2 2 3 0 1 0 0 2 1 (3) 3 0 0 3 2 3
+
+158 100035 6 Replace 2
+RRPV:      2 2 (3) 0
+Signature: 1 2 (15) 0
+outcome:   0 0 (0) 1
+SHCT:      2 1 3 1 2 2 3 0 1 0 0 2 1 3 3 0 0 3 2 3
+
+159 100107 10 Replace 2
+RRPV:      1 1 (3) 3
+Signature: 6 0 (7) 15
+outcome:   1 1 (0) 0
+SHCT:      2 1 3 1 2 2 3 0 (0) 0 0 2 1 3 3 0 0 3 2 3
+
+160 100145 9 Hit 1
+RRPV:      0 (0) 2 0
+Signature: 11 11 0 2
+outcome:   1 (1) 0 1
+SHCT:      2 1 3 1 2 2 3 0 0 0 0 (3) 1 3 3 0 0 3 2 3
+
+161 100142 1 Hit 2
+RRPV:      0 0 (0) 0
+Signature: 5 0 19 8
+outcome:   1 1 (1) 1
+SHCT:      2 1 3 1 2 2 3 0 0 0 0 3 1 3 3 0 0 3 2 (3)
+
+162 100148 15 Hit 3
+RRPV:      2 0 2 (0)
+Signature: 17 6 7 10
+outcome:   1 1 1 (1)
+SHCT:      2 1 3 1 2 2 3 0 0 0 (1) 3 1 3 3 0 0 3 2 3
+
+163 100115 12 Hit 3
+RRPV:      0 3 3 (0)
+Signature: 3 4 16 0
+outcome:   1 0 0 (1)
+SHCT:      (3) 1 3 1 2 2 3 0 0 0 1 3 1 3 3 0 0 3 2 3
+
+164 100063 6 Hit 2
+RRPV:      2 2 (0) 0
+Signature: 1 2 15 0
+outcome:   0 0 (1) 1
+SHCT:      3 1 3 1 2 2 3 0 0 0 1 3 1 3 3 (1) 0 3 2 3
+
+165 100041 13 Replace 2
+RRPV:      0 2 (2) 3
+Signature: 14 0 (1) 0
+outcome:   1 0 (0) 1
+SHCT:      3 1 3 1 2 2 3 0 0 0 (0) 3 1 3 3 1 0 3 2 3
+
+166 100144 15 Replace 0
+RRPV:      (2) 1 3 1
+Signature: (4) 6 7 10
+outcome:   (0) 1 1 1
+SHCT:      3 1 3 1 2 2 3 0 0 0 0 3 1 3 3 1 0 3 2 3
+
+167 100016 11 Replace 0
+RRPV:      (3) 3 3 3
+Signature: (16) 18 0 3
+outcome:   (0) 1 1 0
+SHCT:      3 1 3 1 2 2 3 0 0 0 0 3 1 3 3 1 (0) 3 2 3
+
+168 100018 2 Hit 1
+RRPV:      1 (0) 0 2
+Signature: 9 0 0 1
+outcome:   1 (1) 1 0
+SHCT:      (3) 1 3 1 2 2 3 0 0 0 0 3 1 3 3 1 0 3 2 3
+
+169 100100 8 Hit 3
+RRPV:      1 0 2 (0)
+Signature: 0 13 18 4
+outcome:   1 1 0 (1)
+SHCT:      3 1 3 1 (3) 2 3 0 0 0 0 3 1 3 3 1 0 3 2 3
+
+170 100177 2 Hit 3
+RRPV:      1 0 0 (0)
+Signature: 9 0 0 1
+outcome:   1 1 1 (1)
+SHCT:      3 (2) 3 1 3 2 3 0 0 0 0 3 1 3 3 1 0 3 2 3
+
+171 100117 5 Replace 3
+RRPV:      0 0 2 (2)
+Signature: 18 4 6 (17)
+outcome:   1 1 0 (0)
+SHCT:      3 2 3 1 3 2 3 0 0 0 (0) 3 1 3 3 1 0 3 2 3
+
+172 100101 0 Hit 3
+RRPV:      1 0 2 (0)
+Signature: 0 13 5 8
+outcome:   1 1 0 (1)
+SHCT:      3 2 3 1 3 2 3 0 (1) 0 0 3 1 3 3 1 0 3 2 3
+
+173 100072 14 Replace 1
+RRPV:      2 (2) 3 3
+Signature: 5 (12) 14 6
+outcome:   0 (0) 1 0
+SHCT:      3 2 3 1 3 2 3 0 1 0 0 3 1 3 3 1 0 3 2 3
+
+174 100067 9 Replace 2
+RRPV:      1 1 (3) 1
+Signature: 11 11 (7) 2
+outcome:   1 1 (0) 1
+SHCT:      (2) 2 3 1 3 2 3 0 1 0 0 3 1 3 3 1 0 3 2 3
+
+175 100029 5 Hit 0
+RRPV:      (0) 0 2 2
+Signature: 18 4 6 17
+outcome:   (1) 1 0 0
+SHCT:      2 2 3 1 3 2 3 0 1 0 0 3 1 3 3 1 0 3 (3) 3
+
+176 100043 4 Replace 3
+RRPV:      2 2 0 (2)
+Signature: 18 6 12 (3)
+outcome:   0 0 1 (0)
+SHCT:      2 2 3 1 3 2 3 0 1 0 0 3 1 3 3 1 0 3 3 3
+
+177 100074 10 Replace 2
+RRPV:      1 1 (2) 3
+Signature: 6 0 (14) 15
+outcome:   1 1 (0) 0
+SHCT:      2 2 3 1 3 2 3 (0) 1 0 0 3 1 3 3 1 0 3 3 3
+
+178 100036 12 Replace 1
+RRPV:      0 (3) 3 0
+Signature: 3 (16) 16 0
+outcome:   1 (0) 0 1
+SHCT:      2 2 3 1 (2) 2 3 0 1 0 0 3 1 3 3 1 0 3 3 3
+
+179 100171 6 Hit 2
+RRPV:      2 2 (0) 0
+Signature: 1 2 15 0
+outcome:   0 0 (1) 1
+SHCT:      2 2 3 1 2 2 3 0 1 0 0 3 1 3 3 (2) 0 3 3 3
+
+180 100004 7 Hit 0
+RRPV:      (0) 2 3 0
+Signature: 0 14 4 0
+outcome:   (1) 0 0 1
+SHCT:      (3) 2 3 1 2 2 3 0 1 0 0 3 1 3 3 2 0 3 3 3
+
+181 100159 1 Hit 0
+RRPV:      (0) 0 0 0
+Signature: 5 0 19 8
+outcome:   (1) 1 1 1
+SHCT:      3 2 3 1 2 (3) 3 0 1 0 0 3 1 3 3 2 0 3 3 3
+
+182 100158 14 Replace 2
+RRPV:      2 2 (2) 3
+Signature: 5 12 (18) 6
+outcome:   0 0 (0) 0
+SHCT:      3 2 3 1 2 3 3 0 1 0 0 3 1 3 3 2 0 3 3 3
+
+183 100177 15 Replace 2
+RRPV:      2 1 (2) 1
+Signature: 4 6 (17) 10
+outcome:   0 1 (0) 1
+SHCT:      3 2 3 1 2 3 3 0 1 0 0 3 1 3 3 2 0 3 3 3
+
+184 100199 4 Replace 0
+RRPV:      (2) 3 1 3
+Signature: (19) 6 12 3
+outcome:   (0) 0 1 0
+SHCT:      3 2 3 1 2 3 3 0 1 0 0 3 1 3 3 2 0 3 (2) 3
+
+185 100083 14 Hit 3
+RRPV:      2 2 2 (0)
+Signature: 5 12 18 6
+outcome:   0 0 0 (1)
+SHCT:      3 2 3 1 2 3 (3) 0 1 0 0 3 1 3 3 2 0 3 2 3
+
+186 100156 2 Hit 1
+RRPV:      1 (0) 0 0
+Signature: 9 0 0 1
+outcome:   1 (1) 1 1
+SHCT:      (3) 2 3 1 2 3 3 0 1 0 0 3 1 3 3 2 0 3 2 3
+
+187 100037 5 Replace 2
+RRPV:      1 1 (2) 3
+Signature: 18 4 (17) 17
+outcome:   1 1 (0) 0
+SHCT:      3 2 3 1 2 3 (2) 0 1 0 0 3 1 3 3 2 0 3 2 3
+
+188 100079 0 Hit 2
+RRPV:      1 0 (0) 0
+Signature: 0 13 5 8
+outcome:   1 1 (1) 1
+SHCT:      3 2 3 1 2 (3) 2 0 1 0 0 3 1 3 3 2 0 3 2 3
+
+189 100004 9 Replace 2
+RRPV:      1 1 (2) 1
+Signature: 11 11 (4) 2
+outcome:   1 1 (0) 1
+SHCT:      3 2 3 1 2 3 2 (0) 1 0 0 3 1 3 3 2 0 3 2 3
+
+190 100024 11 Hit 2
+RRPV:      3 3 (0) 3
+Signature: 16 18 0 3
+outcome:   0 1 (1) 0
+SHCT:      (3) 2 3 1 2 3 2 0 1 0 0 3 1 3 3 2 0 3 2 3
+
+191 100171 6 Hit 2
+RRPV:      2 2 (0) 0
+Signature: 1 2 15 0
+outcome:   0 0 (1) 1
+SHCT:      3 2 3 1 2 3 2 0 1 0 0 3 1 3 3 (3) 0 3 2 3
+
+192 100069 6 Hit 3
+RRPV:      2 2 0 (0)
+Signature: 1 2 15 0
+outcome:   0 0 1 (1)
+SHCT:      (3) 2 3 1 2 3 2 0 1 0 0 3 1 3 3 3 0 3 2 3
+
+193 100048 13 Replace 3
+RRPV:      0 2 2 (2)
+Signature: 14 0 1 (8)
+outcome:   1 0 0 (0)
+SHCT:      3 2 3 1 2 3 2 0 1 0 0 3 1 3 3 3 0 3 2 3
+
+194 100170 0 Replace 0
+RRPV:      (3) 2 2 2
+Signature: (10) 13 5 8
+outcome:   (0) 1 1 1
+SHCT:      3 2 3 1 2 3 2 0 1 0 0 3 1 3 3 3 0 3 2 3
+
+195 100115 12 Replace 1
+RRPV:      0 (2) 3 0
+Signature: 3 (15) 16 0
+outcome:   1 (0) 0 1
+SHCT:      3 2 3 1 2 3 2 0 1 0 0 3 1 3 3 3 (0) 3 2 3
+
+196 100088 11 Replace 0
+RRPV:      (2) 3 0 3
+Signature: (8) 18 0 3
+outcome:   (0) 1 1 0
+SHCT:      3 2 3 1 2 3 2 0 1 0 0 3 1 3 3 3 (0) 3 2 3
+
+197 100163 0 Hit 2
+RRPV:      3 2 (0) 2
+Signature: 10 13 5 8
+outcome:   0 1 (1) 1
+SHCT:      3 2 3 1 2 (3) 2 0 1 0 0 3 1 3 3 3 0 3 2 3
+
+198 100087 8 Replace 2
+RRPV:      2 1 (3) 1
+Signature: 0 13 (7) 4
+outcome:   1 1 (0) 1
+SHCT:      3 2 3 1 2 3 2 0 1 0 0 3 1 3 3 3 0 3 (1) 3
+
+199 100140 12 Hit 3
+RRPV:      0 2 3 (0)
+Signature: 3 15 16 0
+outcome:   1 0 0 (1)
+SHCT:      (3) 2 3 1 2 3 2 0 1 0 0 3 1 3 3 3 0 3 1 3
+
+200 100187 4 Replace 1
+RRPV:      2 (3) 1 3
+Signature: 19 (7) 12 3
+outcome:   0 (0) 1 0
+SHCT:      3 2 3 1 2 3 (1) 0 1 0 0 3 1 3 3 3 0 3 1 3
+
+201 100039 11 Hit 3
+RRPV:      2 3 0 (0)
+Signature: 8 18 0 3
+outcome:   0 1 1 (1)
+SHCT:      3 2 3 (2) 2 3 1 0 1 0 0 3 1 3 3 3 0 3 1 3
+
+202 100010 13 Replace 1
+RRPV:      1 (3) 3 3
+Signature: 14 (10) 1 8
+outcome:   1 (0) 0 0
+SHCT:      (2) 2 3 2 2 3 1 0 1 0 0 3 1 3 3 3 0 3 1 3
+
+203 100101 1 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (1) 0 19 8
+outcome:   (0) 1 1 1
+SHCT:      2 2 3 2 2 3 1 0 1 0 0 3 1 3 3 3 0 3 1 3
+
+204 100001 12 Hit 1
+RRPV:      0 (0) 3 0
+Signature: 3 15 16 0
+outcome:   1 (1) 0 1
+SHCT:      2 2 3 2 2 3 1 0 1 0 0 3 1 3 3 (3) 0 3 1 3
+
+205 100093 6 Replace 0
+RRPV:      (2) 3 1 1
+Signature: (13) 2 15 0
+outcome:   (0) 0 1 1
+SHCT:      2 (1) 3 2 2 3 1 0 1 0 0 3 1 3 3 3 0 3 1 3
+
+206 100004 1 Replace 1
+RRPV:      2 (2) 3 3
+Signature: 1 (4) 19 8
+outcome:   0 (0) 1 1
+SHCT:      2 1 3 2 2 3 1 0 1 0 0 3 1 3 3 3 0 3 1 3
+
+207 100119 13 Hit 0
+RRPV:      (0) 3 3 3
+Signature: 14 10 1 8
+outcome:   (1) 0 0 0
+SHCT:      2 1 3 2 2 3 1 0 1 0 0 3 1 3 (3) 3 0 3 1 3
+
+208 100155 13 Replace 1
+RRPV:      0 (2) 3 3
+Signature: 14 (15) 1 8
+outcome:   1 (0) 0 0
+SHCT:      2 1 3 2 2 3 1 0 1 0 (0) 3 1 3 3 3 0 3 1 3
+
+209 100047 0 Hit 1
+RRPV:      3 (0) 0 2
+Signature: 10 13 5 8
+outcome:   0 (1) 1 1
+SHCT:      2 1 3 2 2 3 1 0 1 0 0 3 1 (3) 3 3 0 3 1 3
+
+210 100067 6 Replace 1
+RRPV:      2 (3) 1 1
+Signature: 13 (7) 15 0
+outcome:   0 (0) 1 1
+SHCT:      2 1 (2) 2 2 3 1 0 1 0 0 3 1 3 3 3 0 3 1 3
+
+211 100003 15 Replace 0
+RRPV:      (2) 2 3 2
+Signature: (3) 6 17 10
+outcome:   (0) 1 0 1
+SHCT:      2 1 2 2 (1) 3 1 0 1 0 0 3 1 3 3 3 0 3 1 3
+
+212 100007 13 Hit 0
+RRPV:      (0) 2 3 3
+Signature: 14 15 1 8
+outcome:   (1) 0 0 0
+SHCT:      2 1 2 2 1 3 1 0 1 0 0 3 1 3 (3) 3 0 3 1 3
+
+213 100111 15 Hit 3
+RRPV:      2 2 3 (0)
+Signature: 3 6 17 10
+outcome:   0 1 0 (1)
+SHCT:      2 1 2 2 1 3 1 0 1 0 (1) 3 1 3 3 3 0 3 1 3
+
+214 100161 6 Replace 1
+RRPV:      2 (2) 1 1
+Signature: 13 (1) 15 0
+outcome:   0 (0) 1 1
+SHCT:      2 1 2 2 1 3 1 (0) 1 0 1 3 1 3 3 3 0 3 1 3
+
+215 100147 9 Replace 2
+RRPV:      2 2 (3) 2
+Signature: 11 11 (7) 2
+outcome:   1 1 (0) 1
+SHCT:      2 1 2 2 (0) 3 1 0 1 0 1 3 1 3 3 3 0 3 1 3
+
+216 100196 10 Hit 0
+RRPV:      (0) 1 2 3
+Signature: 6 0 14 15
+outcome:   (1) 1 0 0
+SHCT:      2 1 2 2 0 3 (2) 0 1 0 1 3 1 3 3 3 0 3 1 3
+
+217 100004 4 Replace 1
+RRPV:      2 (3) 1 3
+Signature: 19 (4) 12 3
+outcome:   0 (0) 1 0
+SHCT:      2 1 2 2 0 3 2 (0) 1 0 1 3 1 3 3 3 0 3 1 3
+
+218 100111 4 Hit 3
+RRPV:      2 3 1 (0)
+Signature: 19 4 12 3
+outcome:   0 0 1 (1)
+SHCT:      2 1 2 (3) 0 3 2 0 1 0 1 3 1 3 3 3 0 3 1 3
+
+219 100080 11 Replace 1
+RRPV:      2 (2) 0 0
+Signature: 8 (0) 0 3
+outcome:   0 (0) 1 1
+SHCT:      2 1 2 3 0 3 2 0 1 0 1 3 1 3 3 3 0 3 1 3
+
+220 100060 14 Replace 0
+RRPV:      (2) 3 3 1
+Signature: (0) 12 18 6
+outcome:   (0) 0 0 1
+SHCT:      2 1 2 3 0 (2) 2 0 1 0 1 3 1 3 3 3 0 3 1 3
+
+221 100062 15 Hit 1
+RRPV:      2 (0) 3 0
+Signature: 3 6 17 10
+outcome:   0 (1) 0 1
+SHCT:      2 1 2 3 0 2 (3) 0 1 0 1 3 1 3 3 3 0 3 1 3
+
+222 100176 4 Replace 1
+RRPV:      2 (3) 1 0
+Signature: 19 (16) 12 3
+outcome:   0 (0) 1 1
+SHCT:      2 1 2 3 (0) 2 3 0 1 0 1 3 1 3 3 3 0 3 1 3
+
+223 100108 5 Hit 0
+RRPV:      (0) 1 2 3
+Signature: 18 4 17 17
+outcome:   (1) 1 0 0
+SHCT:      2 1 2 3 0 2 3 0 1 0 1 3 1 3 3 3 0 3 (2) 3
+
+224 100085 3 Replace 0
+RRPV:      (2) 3 0 3
+Signature: (5) 0 4 0
+outcome:   (0) 1 1 1
+SHCT:      2 1 2 3 0 2 3 0 1 (0) 1 3 1 3 3 3 0 3 2 3
+
+225 100104 7 Replace 2
+RRPV:      0 2 (3) 0
+Signature: 0 14 (4) 0
+outcome:   1 0 (0) 1
+SHCT:      2 1 2 3 (0) 2 3 0 1 0 1 3 1 3 3 3 0 3 2 3
+
+226 100154 1 Replace 2
+RRPV:      2 2 (2) 3
+Signature: 1 4 (14) 8
+outcome:   0 0 (0) 1
+SHCT:      2 1 2 3 0 2 3 0 1 0 1 3 1 3 3 3 0 3 2 3
+
+227 100119 10 Replace 3
+RRPV:      0 1 2 (2)
+Signature: 6 0 14 (19)
+outcome:   1 1 0 (0)
+SHCT:      2 1 2 3 0 2 3 0 1 0 1 3 1 3 3 (2) 0 3 2 3
+
+228 100135 7 Hit 2
+RRPV:      0 2 (0) 0
+Signature: 0 14 4 0
+outcome:   1 0 (1) 1
+SHCT:      2 1 2 3 (1) 2 3 0 1 0 1 3 1 3 3 2 0 3 2 3
+
+229 100132 0 Hit 0
+RRPV:      (0) 0 0 2
+Signature: 10 13 5 8
+outcome:   (1) 1 1 1
+SHCT:      2 1 2 3 1 2 3 0 1 0 (2) 3 1 3 3 2 0 3 2 3
+
+230 100038 0 Replace 3
+RRPV:      1 1 1 (2)
+Signature: 10 13 5 (18)
+outcome:   1 1 1 (0)
+SHCT:      2 1 2 3 1 2 3 0 1 0 2 3 1 3 3 2 0 3 2 3
+
+231 100081 11 Hit 2
+RRPV:      2 2 (0) 0
+Signature: 8 0 0 3
+outcome:   0 0 (1) 1
+SHCT:      (3) 1 2 3 1 2 3 0 1 0 2 3 1 3 3 2 0 3 2 3
+
+232 100043 14 Replace 1
+RRPV:      2 (2) 3 1
+Signature: 0 (3) 18 6
+outcome:   0 (0) 0 1
+SHCT:      3 1 2 3 1 2 3 0 1 0 2 3 (0) 3 3 2 0 3 2 3
+
+233 100048 4 Replace 1
+RRPV:      2 (2) 1 0
+Signature: 19 (8) 12 3
+outcome:   0 (0) 1 1
+SHCT:      3 1 2 3 1 2 3 0 1 0 2 3 0 3 3 2 (0) 3 2 3
+
+234 100058 7 Replace 1
+RRPV:      1 (2) 1 1
+Signature: 0 (18) 4 0
+outcome:   1 (0) 1 1
+SHCT:      3 1 2 3 1 2 3 0 1 0 2 3 0 3 (2) 2 0 3 2 3
+
+235 100019 9 Hit 1
+RRPV:      2 (0) 3 2
+Signature: 11 11 7 2
+outcome:   1 (1) 0 1
+SHCT:      3 1 2 3 1 2 3 0 1 0 2 (3) 0 3 2 2 0 3 2 3
+
+236 100053 5 Hit 1
+RRPV:      0 (0) 2 3
+Signature: 18 4 17 17
+outcome:   1 (1) 0 0
+SHCT:      3 1 2 3 (2) 2 3 0 1 0 2 3 0 3 2 2 0 3 2 3
+
+237 100181 7 Replace 1
+RRPV:      2 (2) 2 2
+Signature: 0 (1) 4 0
+outcome:   1 (0) 1 1
+SHCT:      3 1 2 3 2 2 3 0 1 0 2 3 0 3 2 2 0 3 (1) 3
+
+238 100081 10 Hit 2
+RRPV:      0 1 (0) 2
+Signature: 6 0 14 19
+outcome:   1 1 (1) 0
+SHCT:      3 1 2 3 2 2 3 0 1 0 2 3 0 3 (3) 2 0 3 1 3
+
+239 100111 5 Replace 3
+RRPV:      0 0 2 (2)
+Signature: 18 4 17 (11)
+outcome:   1 1 0 (0)
+SHCT:      3 1 2 3 2 2 3 0 1 0 2 3 0 3 3 2 0 (2) 1 3
+
+240 100104 8 Replace 2
+RRPV:      2 1 (2) 1
+Signature: 0 13 (4) 4
+outcome:   1 1 (0) 1
+SHCT:      3 1 2 3 2 2 3 (0) 1 0 2 3 0 3 3 2 0 2 1 3
+
+241 100142 7 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (2) 1 4 0
+outcome:   (0) 0 1 1
+SHCT:      3 1 2 3 2 2 3 0 1 0 2 3 0 3 3 2 0 2 1 3
+
+242 100087 13 Replace 2
+RRPV:      0 2 (3) 3
+Signature: 14 15 (7) 8
+outcome:   1 0 (0) 0
+SHCT:      3 (0) 2 3 2 2 3 0 1 0 2 3 0 3 3 2 0 2 1 3
+
+243 100126 4 Replace 0
+RRPV:      (2) 3 2 1
+Signature: (6) 8 12 3
+outcome:   (0) 0 1 1
+SHCT:      3 0 2 3 2 2 3 0 1 0 2 3 0 3 3 2 0 2 1 (2)
+
+244 100029 3 Hit 1
+RRPV:      2 (0) 0 3
+Signature: 5 0 4 0
+outcome:   0 (1) 1 1
+SHCT:      (3) 0 2 3 2 2 3 0 1 0 2 3 0 3 3 2 0 2 1 2
+
+245 100149 3 Hit 0
+RRPV:      (0) 0 0 3
+Signature: 5 0 4 0
+outcome:   (1) 1 1 1
+SHCT:      3 0 2 3 2 (3) 3 0 1 0 2 3 0 3 3 2 0 2 1 2
+
+246 100094 5 Hit 0
+RRPV:      (0) 0 2 2
+Signature: 18 4 17 11
+outcome:   (1) 1 0 0
+SHCT:      3 0 2 3 2 3 3 0 1 0 2 3 0 3 3 2 0 2 (2) 2
+
+247 100055 3 Hit 0
+RRPV:      (0) 0 0 3
+Signature: 5 0 4 0
+outcome:   (1) 1 1 1
+SHCT:      3 0 2 3 2 (3) 3 0 1 0 2 3 0 3 3 2 0 2 2 2
+
+248 100025 10 Hit 2
+RRPV:      0 1 (0) 2
+Signature: 6 0 14 19
+outcome:   1 1 (1) 0
+SHCT:      3 0 2 3 2 3 3 0 1 0 2 3 0 3 (3) 2 0 2 2 2
+
+249 100130 2 Hit 3
+RRPV:      1 0 0 (0)
+Signature: 9 0 0 1
+outcome:   1 1 1 (1)
+SHCT:      3 (1) 2 3 2 3 3 0 1 0 2 3 0 3 3 2 0 2 2 2
+
+250 100178 15 Replace 2
+RRPV:      2 0 (2) 0
+Signature: 3 6 (18) 10
+outcome:   0 1 (0) 1
+SHCT:      3 1 2 3 2 3 3 0 1 0 2 3 0 3 3 2 0 (1) 2 2
+
+251 100181 14 Replace 2
+RRPV:      2 2 (2) 1
+Signature: 0 3 (1) 6
+outcome:   0 0 (0) 1
+SHCT:      3 1 2 3 2 3 3 0 1 0 2 3 0 3 3 2 0 1 (1) 2
+
+252 100127 12 Hit 2
+RRPV:      0 0 (0) 0
+Signature: 3 15 16 0
+outcome:   1 1 (1) 1
+SHCT:      3 1 2 3 2 3 3 0 1 0 2 3 0 3 3 2 (1) 1 1 2
+
+253 100163 15 Replace 0
+RRPV:      (2) 1 3 1
+Signature: (3) 6 18 10
+outcome:   (0) 1 0 1
+SHCT:      3 1 2 (2) 2 3 3 0 1 0 2 3 0 3 3 2 1 1 1 2
+
+254 100104 13 Replace 2
+RRPV:      0 2 (2) 3
+Signature: 14 15 (4) 8
+outcome:   1 0 (0) 0
+SHCT:      3 1 2 2 2 3 3 (0) 1 0 2 3 0 3 3 2 1 1 1 2
+
+255 100160 14 Replace 0
+RRPV:      (2) 3 3 2
+Signature: (0) 3 1 6
+outcome:   (0) 0 0 1
+SHCT:      (2) 1 2 2 2 3 3 0 1 0 2 3 0 3 3 2 1 1 1 2
+
+256 100089 8 Replace 0
+RRPV:      (3) 2 3 2
+Signature: (9) 13 4 4
+outcome:   (0) 1 0 1
+SHCT:      2 1 2 2 2 3 3 0 1 0 2 3 0 3 3 2 1 1 1 2
+
+257 100093 11 Hit 2
+RRPV:      2 2 (0) 0
+Signature: 8 0 0 3
+outcome:   0 0 (1) 1
+SHCT:      (3) 1 2 2 2 3 3 0 1 0 2 3 0 3 3 2 1 1 1 2
+
+258 100024 14 Replace 1
+RRPV:      2 (2) 3 2
+Signature: 0 (4) 1 6
+outcome:   0 (0) 0 1
+SHCT:      3 1 2 (1) 2 3 3 0 1 0 2 3 0 3 3 2 1 1 1 2
+
+259 100101 0 Hit 1
+RRPV:      1 (0) 1 2
+Signature: 10 13 5 18
+outcome:   1 (1) 1 0
+SHCT:      3 1 2 1 2 3 3 0 1 0 2 3 0 (3) 3 2 1 1 1 2
+
+260 100177 5 Replace 2
+RRPV:      1 1 (3) 3
+Signature: 18 4 (17) 11
+outcome:   1 1 (0) 0
+SHCT:      3 1 2 1 2 3 3 0 1 0 2 3 0 3 3 2 1 (0) 1 2
+
+261 100117 10 Replace 3
+RRPV:      1 2 1 (3)
+Signature: 6 0 14 (17)
+outcome:   1 1 1 (0)
+SHCT:      3 1 2 1 2 3 3 0 1 0 2 3 0 3 3 2 1 0 1 (1)
+
+262 100154 13 Replace 3
+RRPV:      0 2 2 (2)
+Signature: 14 15 4 (14)
+outcome:   1 0 0 (0)
+SHCT:      3 1 2 1 2 3 3 0 (0) 0 2 3 0 3 3 2 1 0 1 1
+
+263 100061 14 Hit 2
+RRPV:      2 2 (0) 2
+Signature: 0 4 1 6
+outcome:   0 0 (1) 1
+SHCT:      3 (2) 2 1 2 3 3 0 0 0 2 3 0 3 3 2 1 0 1 1
+
+264 100156 7 Replace 1
+RRPV:      2 (2) 3 3
+Signature: 2 (16) 4 0
+outcome:   0 (0) 1 1
+SHCT:      3 (1) 2 1 2 3 3 0 0 0 2 3 0 3 3 2 1 0 1 1
+
+265 100088 12 Replace 0
+RRPV:      (3) 3 3 3
+Signature: (8) 15 16 0
+outcome:   (0) 1 1 1
+SHCT:      3 1 2 1 2 3 3 0 0 0 2 3 0 3 3 2 1 0 1 1
+
+266 100110 12 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (10) 15 16 0
+outcome:   (0) 1 1 1
+SHCT:      3 1 2 1 2 3 3 0 (0) 0 2 3 0 3 3 2 1 0 1 1
+
+267 100048 7 Replace 2
+RRPV:      2 2 (3) 3
+Signature: 2 16 (8) 0
+outcome:   0 0 (0) 1
+SHCT:      3 1 2 1 2 3 3 0 0 0 2 3 0 3 3 2 1 0 1 1
+
+268 100127 4 Replace 1
+RRPV:      2 (3) 2 1
+Signature: 6 (7) 12 3
+outcome:   0 (0) 1 1
+SHCT:      3 1 2 1 2 3 3 0 (0) 0 2 3 0 3 3 2 1 0 1 1
+
+269 100167 11 Replace 0
+RRPV:      (3) 3 1 1
+Signature: (7) 0 0 3
+outcome:   (0) 0 1 1
+SHCT:      3 1 2 1 2 3 3 0 (0) 0 2 3 0 3 3 2 1 0 1 1
+
+270 100016 2 Hit 1
+RRPV:      1 (0) 0 0
+Signature: 9 0 0 1
+outcome:   1 (1) 1 1
+SHCT:      (3) 1 2 1 2 3 3 0 0 0 2 3 0 3 3 2 1 0 1 1
+
+271 100002 1 Replace 3
+RRPV:      2 2 2 (2)
+Signature: 1 4 14 (2)
+outcome:   0 0 0 (0)
+SHCT:      3 1 2 1 2 3 3 0 0 0 2 3 0 3 3 2 1 0 1 1
+
+272 100012 2 Replace 0
+RRPV:      (3) 2 2 2
+Signature: (12) 0 0 1
+outcome:   (0) 1 1 1
+SHCT:      3 1 2 1 2 3 3 0 0 0 2 3 0 3 3 2 1 0 1 1
+
+273 100162 7 Replace 2
+RRPV:      2 2 (2) 3
+Signature: 2 16 (2) 0
+outcome:   0 0 (0) 1
+SHCT:      3 1 2 1 2 3 3 0 (0) 0 2 3 0 3 3 2 1 0 1 1
+
+274 100142 2 Replace 0
+RRPV:      (2) 2 2 2
+Signature: (2) 0 0 1
+outcome:   (0) 1 1 1
+SHCT:      3 1 2 1 2 3 3 0 0 0 2 3 (0) 3 3 2 1 0 1 1
+
+275 100038 0 Replace 3
+RRPV:      2 1 2 (3)
+Signature: 10 13 5 (18)
+outcome:   1 1 1 (0)
+SHCT:      3 1 2 1 2 3 3 0 0 0 2 3 0 3 3 2 1 0 (0) 1
+
+276 100080 13 Replace 1
+RRPV:      1 (2) 3 3
+Signature: 14 (0) 4 14
+outcome:   1 (0) 0 0
+SHCT:      3 1 2 1 2 3 3 0 0 0 2 3 0 3 3 (1) 1 0 0 1
+
+277 100182 0 Replace 3
+RRPV:      2 1 2 (2)
+Signature: 10 13 5 (2)
+outcome:   1 1 1 (0)
+SHCT:      3 1 2 1 2 3 3 0 0 0 2 3 0 3 3 1 1 0 (0) 1
+
+278 100109 8 Hit 2
+RRPV:      3 2 (0) 2
+Signature: 9 13 4 4
+outcome:   0 1 (1) 1
+SHCT:      3 1 2 1 (3) 3 3 0 0 0 2 3 0 3 3 1 1 0 0 1
+
+279 100190 8 Replace 0
+RRPV:      (2) 2 0 2
+Signature: (10) 13 4 4
+outcome:   (0) 1 1 1
+SHCT:      3 1 2 1 3 3 3 0 0 (0) 2 3 0 3 3 1 1 0 0 1
+
+280 100053 0 Replace 0
+RRPV:      (2) 2 3 3
+Signature: (13) 13 5 2
+outcome:   (0) 1 1 0
+SHCT:      3 1 2 1 3 3 3 0 0 0 2 3 0 3 3 1 1 0 0 1
+
+281 100026 7 Replace 3
+RRPV:      2 2 2 (2)
+Signature: 2 16 2 (6)
+outcome:   0 0 0 (0)
+SHCT:      3 1 2 1 3 3 3 0 0 0 2 3 0 3 3 1 1 0 0 1
+
+282 100055 4 Hit 2
+RRPV:      2 3 (0) 1
+Signature: 6 7 12 3
+outcome:   0 0 (1) 1
+SHCT:      3 1 2 1 3 3 3 0 0 0 2 3 (1) 3 3 1 1 0 0 1
+
+283 100003 10 Hit 0
+RRPV:      (0) 2 1 3
+Signature: 6 0 14 17
+outcome:   (1) 1 1 0
+SHCT:      3 1 2 1 3 3 (3) 0 0 0 2 3 1 3 3 1 1 0 0 1
+
+284 100138 14 Hit 1
+RRPV:      2 (0) 0 2
+Signature: 0 4 1 6
+outcome:   0 (1) 1 1
+SHCT:      3 1 2 1 (3) 3 3 0 0 0 2 3 1 3 3 1 1 0 0 1
+
+285 100133 11 Replace 0
+RRPV:      (2) 3 1 1
+Signature: (13) 0 0 3
+outcome:   (0) 0 1 1
+SHCT:      3 1 2 1 3 3 3 (0) 0 0 2 3 1 3 3 1 1 0 0 1
+
+286 100159 2 Hit 1
+RRPV:      2 (0) 2 2
+Signature: 2 0 0 1
+outcome:   0 (1) 1 1
+SHCT:      (3) 1 2 1 3 3 3 0 0 0 2 3 1 3 3 1 1 0 0 1
+
+287 100195 5 Replace 2
+RRPV:      1 1 (2) 3
+Signature: 18 4 (15) 11
+outcome:   1 1 (0) 0
+SHCT:      3 1 2 1 3 3 3 0 0 0 2 3 1 3 3 1 1 (0) 0 1
+
+288 100028 7 Replace 0
+RRPV:      (3) 3 3 3
+Signature: (8) 16 2 6
+outcome:   (0) 0 0 0
+SHCT:      3 1 (1) 1 3 3 3 0 0 0 2 3 1 3 3 1 1 0 0 1
+
+289 100114 6 Replace 0
+RRPV:      (2) 3 2 2
+Signature: (14) 1 15 0
+outcome:   (0) 0 1 1
+SHCT:      3 1 1 1 3 3 3 0 0 0 2 3 1 (2) 3 1 1 0 0 1
+
+290 100004 15 Replace 2
+RRPV:      2 1 (2) 1
+Signature: 3 6 (4) 10
+outcome:   0 1 (0) 1
+SHCT:      3 1 1 1 3 3 3 0 0 0 2 3 1 2 3 1 1 0 (0) 1
+
+291 100024 2 Replace 0
+RRPV:      (2) 1 3 3
+Signature: (4) 0 0 1
+outcome:   (0) 1 1 1
+SHCT:      3 1 (0) 1 3 3 3 0 0 0 2 3 1 2 3 1 1 0 0 1
+
+292 100098 3 Replace 3
+RRPV:      0 0 0 (3)
+Signature: 5 0 4 (18)
+outcome:   1 1 1 (0)
+SHCT:      3 1 0 1 3 3 3 0 0 0 2 3 1 2 3 1 1 0 0 1
+
+293 100186 10 Replace 3
+RRPV:      0 2 1 (2)
+Signature: 6 0 14 (6)
+outcome:   1 1 1 (0)
+SHCT:      3 1 0 1 3 3 3 0 0 0 2 3 1 2 3 1 1 (0) 0 1
+
+294 100095 15 Replace 0
+RRPV:      (2) 2 3 2
+Signature: (15) 6 4 10
+outcome:   (0) 1 0 1
+SHCT:      3 1 0 (0) 3 3 3 0 0 0 2 3 1 2 3 1 1 0 0 1
+
+295 100022 0 Replace 2
+RRPV:      2 2 (3) 3
+Signature: 13 13 (2) 2
+outcome:   0 1 (0) 0
+SHCT:      3 1 0 0 3 3 3 0 0 0 2 3 1 2 3 1 1 0 0 1
+
+296 100146 15 Replace 2
+RRPV:      2 2 (2) 2
+Signature: 15 6 (6) 10
+outcome:   0 1 (0) 1
+SHCT:      3 1 0 0 (2) 3 3 0 0 0 2 3 1 2 3 1 1 0 0 1
+
+297 100097 5 Hit 3
+RRPV:      1 1 2 (0)
+Signature: 18 4 15 11
+outcome:   1 1 0 (1)
+SHCT:      3 1 0 0 2 3 3 0 0 0 2 (3) 1 2 3 1 1 0 0 1
+
+298 100177 7 Hit 1
+RRPV:      3 (0) 3 3
+Signature: 8 16 2 6
+outcome:   0 (1) 0 0
+SHCT:      3 1 0 0 2 3 3 0 0 0 2 3 1 2 3 1 (2) 0 0 1
+
+299 100006 8 Replace 0
+RRPV:      (2) 3 1 3
+Signature: (6) 13 4 4
+outcome:   (0) 1 1 1
+SHCT:      3 1 0 0 2 3 3 0 0 0 (1) 3 1 2 3 1 2 0 0 1
+
+300 100169 8 Hit 2
+RRPV:      2 3 (0) 3
+Signature: 6 13 4 4
+outcome:   0 1 (1) 1
+SHCT:      3 1 0 0 (3) 3 3 0 0 0 1 3 1 2 3 1 2 0 0 1
+
+301 100029 11 Hit 0
+RRPV:      (0) 3 1 1
+Signature: 13 0 0 3
+outcome:   (1) 0 1 1
+SHCT:      3 1 0 0 3 3 3 0 0 0 1 3 1 (3) 3 1 2 0 0 1
+
+302 100039 10 Replace 1
+RRPV:      1 (2) 2 3
+Signature: 6 (19) 14 6
+outcome:   1 (0) 1 0
+SHCT:      3 1 0 0 3 3 3 0 0 0 1 3 1 3 3 1 2 0 0 1
+
+303 100148 2 Replace 2
+RRPV:      2 1 (3) 3
+Signature: 4 0 (8) 1
+outcome:   0 1 (0) 1
+SHCT:      3 1 0 0 3 3 3 0 0 0 1 3 1 3 3 1 2 0 0 1
+
+304 100050 5 Hit 0
+RRPV:      (0) 1 2 0
+Signature: 18 4 15 11
+outcome:   (1) 1 0 1
+SHCT:      3 1 0 0 3 3 3 0 0 0 1 3 1 3 3 1 2 0 (1) 1
+
+305 100188 5 Hit 1
+RRPV:      0 (0) 2 0
+Signature: 18 4 15 11
+outcome:   1 (1) 0 1
+SHCT:      3 1 0 0 (3) 3 3 0 0 0 1 3 1 3 3 1 2 0 1 1
+
+306 100000 3 Hit 2
+RRPV:      0 0 (0) 3
+Signature: 5 0 4 18
+outcome:   1 1 (1) 0
+SHCT:      3 1 0 0 (3) 3 3 0 0 0 1 3 1 3 3 1 2 0 1 1
+
+307 100114 2 Hit 1
+RRPV:      2 (0) 3 3
+Signature: 4 0 8 1
+outcome:   0 (1) 0 1
+SHCT:      (3) 1 0 0 3 3 3 0 0 0 1 3 1 3 3 1 2 0 1 1
+
+308 100114 13 Hit 0
+RRPV:      (0) 2 3 3
+Signature: 14 0 4 14
+outcome:   (1) 0 0 0
+SHCT:      3 1 0 0 3 3 3 0 0 0 1 3 1 3 (3) 1 2 0 1 1
+
+309 100134 11 Hit 2
+RRPV:      0 3 (0) 1
+Signature: 13 0 0 3
+outcome:   1 0 (1) 1
+SHCT:      (3) 1 0 0 3 3 3 0 0 0 1 3 1 3 3 1 2 0 1 1
+
+310 100131 10 Hit 1
+RRPV:      1 (0) 2 3
+Signature: 6 19 14 6
+outcome:   1 (1) 1 0
+SHCT:      3 1 0 0 3 3 3 0 0 0 1 3 1 3 3 1 2 0 1 (2)
+
+311 100017 0 Hit 2
+RRPV:      2 2 (0) 3
+Signature: 13 13 2 2
+outcome:   0 1 (1) 0
+SHCT:      3 1 (1) 0 3 3 3 0 0 0 1 3 1 3 3 1 2 0 1 2
+
+312 100031 5 Replace 2
+RRPV:      1 1 (2) 1
+Signature: 18 4 (11) 11
+outcome:   1 1 (0) 1
+SHCT:      3 1 1 0 3 3 3 0 0 0 1 3 1 3 3 (0) 2 0 1 2
+
+313 100144 7 Replace 0
+RRPV:      (2) 0 3 3
+Signature: (4) 16 2 6
+outcome:   (0) 1 0 0
+SHCT:      3 1 1 0 3 3 3 0 (0) 0 1 3 1 3 3 0 2 0 1 2
+
+314 100060 8 Replace 1
+RRPV:      2 (2) 0 3
+Signature: 6 (0) 4 4
+outcome:   0 (0) 1 1
+SHCT:      3 1 1 0 3 3 3 0 0 0 1 3 1 3 3 0 2 0 1 2
+
+315 100074 2 Replace 2
+RRPV:      2 0 (2) 3
+Signature: 4 0 (14) 1
+outcome:   0 1 (0) 1
+SHCT:      3 1 1 0 3 3 3 0 (0) 0 1 3 1 3 3 0 2 0 1 2
+
+316 100197 4 Replace 1
+RRPV:      2 (3) 0 1
+Signature: 6 (17) 12 3
+outcome:   0 (0) 1 1
+SHCT:      3 1 1 0 3 3 3 (0) 0 0 1 3 1 3 3 0 2 0 1 2
+
+317 100153 3 Replace 3
+RRPV:      0 0 0 (2)
+Signature: 5 0 4 (13)
+outcome:   1 1 1 (0)
+SHCT:      3 1 1 0 3 3 3 0 0 0 1 3 1 3 3 0 2 0 (0) 2
+
+318 100020 8 Hit 2
+RRPV:      2 2 (0) 3
+Signature: 6 0 4 4
+outcome:   0 0 (1) 1
+SHCT:      3 1 1 0 (3) 3 3 0 0 0 1 3 1 3 3 0 2 0 0 2
+
+319 100185 1 Hit 1
+RRPV:      2 (0) 2 2
+Signature: 1 4 14 2
+outcome:   0 (1) 0 0
+SHCT:      3 1 1 0 (3) 3 3 0 0 0 1 3 1 3 3 0 2 0 0 2
+
+320 100084 1 Replace 0
+RRPV:      (2) 1 3 3
+Signature: (4) 4 14 2
+outcome:   (0) 1 0 0
+SHCT:      3 (0) 1 0 3 3 3 0 0 0 1 3 1 3 3 0 2 0 0 2
+
+321 100105 0 Replace 3
+RRPV:      2 2 0 (2)
+Signature: 13 13 2 (5)
+outcome:   0 1 1 (0)
+SHCT:      3 0 (0) 0 3 3 3 0 0 0 1 3 1 3 3 0 2 0 0 2
+
+322 100183 12 Replace 1
+RRPV:      2 (3) 3 3
+Signature: 10 (3) 16 0
+outcome:   0 (0) 1 1
+SHCT:      3 0 0 0 3 3 3 0 0 0 1 3 1 3 3 0 2 0 0 2
+
+323 100020 6 Replace 1
+RRPV:      2 (2) 2 2
+Signature: 14 (0) 15 0
+outcome:   0 (0) 1 1
+SHCT:      3 (0) 0 0 3 3 3 0 0 0 1 3 1 3 3 0 2 0 0 2
+
+324 100049 6 Hit 3
+RRPV:      2 2 2 (0)
+Signature: 14 0 15 0
+outcome:   0 0 1 (1)
+SHCT:      (3) 0 0 0 3 3 3 0 0 0 1 3 1 3 3 0 2 0 0 2
+
+325 100195 7 Replace 2
+RRPV:      2 0 (3) 3
+Signature: 4 16 (15) 6
+outcome:   0 1 (0) 0
+SHCT:      3 0 (0) 0 3 3 3 0 0 0 1 3 1 3 3 0 2 0 0 2
+
+326 100003 2 Replace 3
+RRPV:      2 0 2 (3)
+Signature: 4 0 14 (3)
+outcome:   0 1 0 (0)
+SHCT:      3 0 0 0 3 3 3 0 0 0 1 3 1 3 3 0 2 0 0 2
+
+327 100063 2 Hit 2
+RRPV:      2 0 (0) 3
+Signature: 4 0 14 3
+outcome:   0 1 (1) 0
+SHCT:      3 0 0 0 3 3 3 0 0 0 1 3 1 3 (3) 0 2 0 0 2
+
+328 100057 12 Replace 1
+RRPV:      2 (3) 3 3
+Signature: 10 (17) 16 0
+outcome:   0 (0) 1 1
+SHCT:      3 0 0 (0) 3 3 3 0 0 0 1 3 1 3 3 0 2 0 0 2
+
+329 100142 11 Replace 1
+RRPV:      0 (3) 0 1
+Signature: 13 (2) 0 3
+outcome:   1 (0) 1 1
+SHCT:      (2) 0 0 0 3 3 3 0 0 0 1 3 1 3 3 0 2 0 0 2
+
+330 100135 15 Hit 3
+RRPV:      2 2 2 (0)
+Signature: 15 6 6 10
+outcome:   0 1 0 (1)
+SHCT:      2 0 0 0 3 3 3 0 0 0 (2) 3 1 3 3 0 2 0 0 2
+
+331 100085 11 Hit 1
+RRPV:      0 (0) 0 1
+Signature: 13 2 0 3
+outcome:   1 (1) 1 1
+SHCT:      2 0 (1) 0 3 3 3 0 0 0 2 3 1 3 3 0 2 0 0 2
+
+332 100084 3 Replace 3
+RRPV:      1 1 1 (2)
+Signature: 5 0 4 (4)
+outcome:   1 1 1 (0)
+SHCT:      2 0 1 0 3 3 3 0 0 0 2 3 1 (2) 3 0 2 0 0 2
+
+333 100101 7 Hit 2
+RRPV:      2 0 (0) 3
+Signature: 4 16 15 6
+outcome:   0 1 (1) 0
+SHCT:      2 0 1 0 3 3 3 0 0 0 2 3 1 2 3 (1) 2 0 0 2
+
+334 100036 0 Hit 3
+RRPV:      2 2 0 (0)
+Signature: 13 13 2 5
+outcome:   0 1 1 (1)
+SHCT:      2 0 1 0 3 (3) 3 0 0 0 2 3 1 2 3 1 2 0 0 2
+
+335 100082 7 Hit 1
+RRPV:      2 (0) 0 3
+Signature: 4 16 15 6
+outcome:   0 (1) 1 0
+SHCT:      2 0 1 0 3 3 3 0 0 0 2 3 1 2 3 1 (3) 0 0 2
+
+336 100057 2 Hit 0
+RRPV:      (0) 0 0 3
+Signature: 4 0 14 3
+outcome:   (1) 1 1 0
+SHCT:      2 0 1 0 (3) 3 3 0 0 0 2 3 1 2 3 1 3 0 0 2
+
+337 100040 8 Replace 3
+RRPV:      2 2 0 (2)
+Signature: 6 0 4 (0)
+outcome:   0 0 1 (0)
+SHCT:      2 0 1 0 3 3 3 0 0 0 2 3 1 2 3 1 3 0 0 2
+
+338 100083 11 Replace 3
+RRPV:      2 2 2 (3)
+Signature: 13 2 0 (3)
+outcome:   1 1 1 (0)
+SHCT:      2 0 1 0 3 3 3 0 0 0 2 3 1 2 3 1 3 0 0 2
+
+339 100082 13 Replace 2
+RRPV:      0 2 (2) 3
+Signature: 14 0 (2) 14
+outcome:   1 0 (0) 0
+SHCT:      2 0 1 0 (2) 3 3 0 0 0 2 3 1 2 3 1 3 0 0 2
+
+340 100162 4 Replace 1
+RRPV:      2 (2) 0 1
+Signature: 6 (2) 12 3
+outcome:   0 (0) 1 1
+SHCT:      2 0 1 0 2 3 3 0 0 0 2 3 1 2 3 1 3 (0) 0 2
+
+341 100022 0 Replace 0
+RRPV:      (2) 3 1 1
+Signature: (2) 13 2 5
+outcome:   (0) 1 1 1
+SHCT:      2 0 1 0 2 3 3 0 0 0 2 3 1 (1) 3 1 3 0 0 2
+
+342 100156 3 Hit 0
+RRPV:      (0) 1 1 2
+Signature: 5 0 4 4
+outcome:   (1) 1 1 0
+SHCT:      2 0 1 0 2 (3) 3 0 0 0 2 3 1 1 3 1 3 0 0 2
+
+343 100080 1 Hit 3
+RRPV:      2 1 3 (0)
+Signature: 4 4 14 2
+outcome:   0 1 0 (1)
+SHCT:      2 0 (2) 0 2 3 3 0 0 0 2 3 1 1 3 1 3 0 0 2
+
+344 100000 3 Hit 3
+RRPV:      0 1 1 (0)
+Signature: 5 0 4 4
+outcome:   1 1 1 (1)
+SHCT:      2 0 2 0 (3) 3 3 0 0 0 2 3 1 1 3 1 3 0 0 2
+
+345 100066 0 Replace 1
+RRPV:      2 (2) 1 1
+Signature: 2 (6) 2 5
+outcome:   0 (0) 1 1
+SHCT:      2 0 2 0 3 3 3 0 0 0 2 3 1 1 3 1 3 0 0 2
+
+346 100177 1 Replace 2
+RRPV:      2 1 (3) 0
+Signature: 4 4 (17) 2
+outcome:   0 1 (0) 1
+SHCT:      2 0 2 0 3 3 3 0 0 0 2 3 1 1 (2) 1 3 0 0 2
+
+347 100035 8 Replace 0
+RRPV:      (2) 3 1 3
+Signature: (15) 0 4 0
+outcome:   (0) 0 1 0
+SHCT:      2 0 2 0 3 3 (2) 0 0 0 2 3 1 1 2 1 3 0 0 2
+
+348 100190 7 Replace 3
+RRPV:      2 0 0 (2)
+Signature: 4 16 15 (10)
+outcome:   0 1 1 (0)
+SHCT:      2 0 2 0 3 3 (1) 0 0 0 2 3 1 1 2 1 3 0 0 2
+
+349 100106 6 Replace 0
+RRPV:      (2) 3 3 1
+Signature: (6) 0 15 0
+outcome:   (0) 0 1 1
+SHCT:      2 0 2 0 3 3 1 0 0 0 2 3 1 1 (1) 1 3 0 0 2
+
+350 100190 10 Hit 2
+RRPV:      1 0 (0) 3
+Signature: 6 19 14 6
+outcome:   1 1 (1) 0
+SHCT:      2 0 2 0 3 3 1 0 0 0 2 3 1 1 (2) 1 3 0 0 2
+
+351 100038 1 Replace 2
+RRPV:      2 1 (3) 0
+Signature: 4 4 (18) 2
+outcome:   0 1 (0) 1
+SHCT:      2 0 2 0 3 3 1 0 0 0 2 3 1 1 2 1 3 (0) 0 2
+
+352 100181 10 Replace 3
+RRPV:      1 0 0 (3)
+Signature: 6 19 14 (1)
+outcome:   1 1 1 (0)
+SHCT:      2 0 2 0 3 3 (0) 0 0 0 2 3 1 1 2 1 3 0 0 2
+
+353 100172 5 Replace 2
+RRPV:      2 2 (2) 2
+Signature: 18 4 (12) 11
+outcome:   1 1 (0) 1
+SHCT:      2 0 2 0 3 3 0 0 0 0 2 (2) 1 1 2 1 3 0 0 2
+
+354 100007 2 Hit 0
+RRPV:      (0) 0 0 3
+Signature: 4 0 14 3
+outcome:   (1) 1 1 0
+SHCT:      2 0 2 0 (3) 3 0 0 0 0 2 2 1 1 2 1 3 0 0 2
+
+355 100003 7 Replace 0
+RRPV:      (3) 1 1 3
+Signature: (3) 16 15 10
+outcome:   (0) 1 1 0
+SHCT:      2 0 2 0 (2) 3 0 0 0 0 2 2 1 1 2 1 3 0 0 2
+
+356 100122 4 Hit 2
+RRPV:      2 2 (0) 1
+Signature: 6 2 12 3
+outcome:   0 0 (1) 1
+SHCT:      2 0 2 0 2 3 0 0 0 0 2 2 (2) 1 2 1 3 0 0 2
+
+357 100183 7 Hit 0
+RRPV:      (0) 1 1 3
+Signature: 3 16 15 10
+outcome:   (1) 1 1 0
+SHCT:      2 0 2 (1) 2 3 0 0 0 0 2 2 2 1 2 1 3 0 0 2
+
+358 100158 10 Hit 3
+RRPV:      1 0 0 (0)
+Signature: 6 19 14 1
+outcome:   1 1 1 (1)
+SHCT:      2 (1) 2 1 2 3 0 0 0 0 2 2 2 1 2 1 3 0 0 2
+
+359 100190 15 Replace 0
+RRPV:      (2) 3 3 1
+Signature: (10) 6 6 10
+outcome:   (0) 1 0 1
+SHCT:      2 1 2 1 2 3 0 0 0 0 2 2 2 1 2 (0) 3 0 0 2
+
+360 100048 5 Replace 0
+RRPV:      (3) 3 3 3
+Signature: (8) 4 12 11
+outcome:   (0) 1 0 1
+SHCT:      2 1 2 1 2 3 0 0 0 0 2 2 2 1 2 0 3 0 0 2
+
+361 100196 1 Replace 2
+RRPV:      2 1 (2) 0
+Signature: 4 4 (16) 2
+outcome:   0 1 (0) 1
+SHCT:      2 1 2 1 2 3 0 0 0 0 2 2 2 1 2 0 3 0 (0) 2
+
+362 100157 8 Replace 1
+RRPV:      2 (3) 1 3
+Signature: 15 (17) 4 0
+outcome:   0 (0) 1 0
+SHCT:      (1) 1 2 1 2 3 0 0 0 0 2 2 2 1 2 0 3 0 0 2
+
+363 100156 2 Hit 2
+RRPV:      0 0 (0) 3
+Signature: 4 0 14 3
+outcome:   1 1 (1) 0
+SHCT:      1 1 2 1 2 3 0 0 0 0 2 2 2 1 (3) 0 3 0 0 2
+
+364 100030 12 Hit 0
+RRPV:      (0) 3 3 3
+Signature: 10 17 16 0
+outcome:   (1) 0 1 1
+SHCT:      1 1 2 1 2 3 0 0 0 0 (3) 2 2 1 3 0 3 0 0 2
+
+365 100007 11 Hit 3
+RRPV:      2 2 2 (0)
+Signature: 13 2 0 3
+outcome:   1 1 1 (1)
+SHCT:      1 1 2 (2) 2 3 0 0 0 0 3 2 2 1 3 0 3 0 0 2
+
+366 100167 14 Replace 0
+RRPV:      (3) 1 1 3
+Signature: (7) 4 1 6
+outcome:   (0) 1 1 1
+SHCT:      (0) 1 2 2 2 3 0 0 0 0 3 2 2 1 3 0 3 0 0 2
+
+367 100011 14 Hit 2
+RRPV:      3 1 (0) 3
+Signature: 7 4 1 6
+outcome:   0 1 (1) 1
+SHCT:      0 (2) 2 2 2 3 0 0 0 0 3 2 2 1 3 0 3 0 0 2
+
+368 100124 6 Hit 2
+RRPV:      2 3 (0) 1
+Signature: 6 0 15 0
+outcome:   0 0 (1) 1
+SHCT:      0 2 2 2 2 3 0 0 0 0 3 2 2 1 3 (1) 3 0 0 2
+
+369 100068 12 Replace 1
+RRPV:      0 (3) 3 3
+Signature: 10 (8) 16 0
+outcome:   1 (0) 1 1
+SHCT:      0 2 2 2 2 3 0 0 0 0 3 2 2 1 3 1 3 (0) 0 2
+
+370 100194 0 Hit 0
+RRPV:      (0) 2 1 1
+Signature: 2 6 2 5
+outcome:   (1) 0 1 1
+SHCT:      0 2 (3) 2 2 3 0 0 0 0 3 2 2 1 3 1 3 0 0 2
+
+371 100157 0 Replace 1
+RRPV:      1 (3) 2 2
+Signature: 2 (17) 2 5
+outcome:   1 (0) 1 1
+SHCT:      0 2 3 2 2 3 (0) 0 0 0 3 2 2 1 3 1 3 0 0 2
+
+372 100081 3 Replace 1
+RRPV:      2 (2) 3 2
+Signature: 5 (1) 4 4
+outcome:   1 (0) 1 1
+SHCT:      0 2 3 2 2 3 0 0 0 0 3 2 2 1 3 1 3 0 0 2
+
+373 100147 1 Replace 0
+RRPV:      (3) 2 3 1
+Signature: (7) 4 16 2
+outcome:   (0) 1 0 1
+SHCT:      0 2 3 2 (1) 3 0 0 0 0 3 2 2 1 3 1 3 0 0 2
+
+374 100158 4 Replace 0
+RRPV:      (3) 3 1 2
+Signature: (18) 2 12 3
+outcome:   (0) 0 1 1
+SHCT:      0 2 3 2 1 3 (0) 0 0 0 3 2 2 1 3 1 3 0 0 2
+
+375 100058 5 Replace 0
+RRPV:      (3) 3 3 3
+Signature: (18) 4 12 11
+outcome:   (0) 1 0 1
+SHCT:      0 2 3 2 1 3 0 0 (0) 0 3 2 2 1 3 1 3 0 0 2
+
+376 100043 13 Hit 1
+RRPV:      0 (0) 2 3
+Signature: 14 0 2 14
+outcome:   1 (1) 0 0
+SHCT:      (1) 2 3 2 1 3 0 0 0 0 3 2 2 1 3 1 3 0 0 2
+
+377 100074 14 Hit 3
+RRPV:      3 1 0 (0)
+Signature: 7 4 1 6
+outcome:   0 1 1 (1)
+SHCT:      1 2 3 2 1 3 (1) 0 0 0 3 2 2 1 3 1 3 0 0 2
+
+378 100064 8 Hit 3
+RRPV:      2 3 1 (0)
+Signature: 15 17 4 0
+outcome:   0 0 1 (1)
+SHCT:      (2) 2 3 2 1 3 1 0 0 0 3 2 2 1 3 1 3 0 0 2
+
+379 100147 12 Hit 0
+RRPV:      (0) 3 3 3
+Signature: 10 8 16 0
+outcome:   (1) 0 1 1
+SHCT:      2 2 3 2 1 3 1 0 0 0 (3) 2 2 1 3 1 3 0 0 2
+
+380 100131 15 Replace 1
+RRPV:      2 (2) 3 1
+Signature: 10 (11) 6 10
+outcome:   0 (0) 0 1
+SHCT:      2 2 3 2 1 3 1 0 0 0 3 2 2 1 3 1 3 0 0 2
+
+381 100178 3 Replace 2
+RRPV:      2 2 (3) 2
+Signature: 5 1 (18) 4
+outcome:   1 0 (0) 1
+SHCT:      2 2 3 2 1 3 1 0 0 0 3 2 2 1 3 1 3 0 0 2
+
+382 100121 4 Replace 0
+RRPV:      (2) 3 1 2
+Signature: (1) 2 12 3
+outcome:   (0) 0 1 1
+SHCT:      2 2 3 2 1 3 1 0 0 0 3 2 2 1 3 1 3 0 (0) 2
+
+383 100086 13 Hit 3
+RRPV:      0 0 2 (0)
+Signature: 14 0 2 14
+outcome:   1 1 0 (1)
+SHCT:      2 2 3 2 1 3 1 0 0 0 3 2 2 1 (3) 1 3 0 0 2
+
+384 100161 0 Hit 1
+RRPV:      1 (0) 2 2
+Signature: 2 17 2 5
+outcome:   1 (1) 1 1
+SHCT:      2 2 3 2 1 3 1 0 0 0 3 2 2 1 3 1 3 (1) 0 2
+
+385 100121 0 Hit 2
+RRPV:      1 0 (0) 2
+Signature: 2 17 2 5
+outcome:   1 1 (1) 1
+SHCT:      2 2 (3) 2 1 3 1 0 0 0 3 2 2 1 3 1 3 1 0 2
+
+386 100164 2 Hit 2
+RRPV:      0 0 (0) 3
+Signature: 4 0 14 3
+outcome:   1 1 (1) 0
+SHCT:      2 2 3 2 1 3 1 0 0 0 3 2 2 1 (3) 1 3 1 0 2
+
+387 100076 15 Replace 2
+RRPV:      2 2 (2) 1
+Signature: 10 11 (16) 10
+outcome:   0 0 (0) 1
+SHCT:      2 2 3 2 1 3 (0) 0 0 0 3 2 2 1 3 1 3 1 0 2
+
+388 100130 4 Hit 2
+RRPV:      2 3 (0) 2
+Signature: 1 2 12 3
+outcome:   0 0 (1) 1
+SHCT:      2 2 3 2 1 3 0 0 0 0 3 2 (3) 1 3 1 3 1 0 2
+
+389 100095 15 Replace 0
+RRPV:      (2) 3 3 2
+Signature: (15) 11 16 10
+outcome:   (0) 0 0 1
+SHCT:      2 2 3 2 1 3 0 0 0 0 (2) 2 3 1 3 1 3 1 0 2
+
+390 100084 12 Hit 0
+RRPV:      (0) 3 3 3
+Signature: 10 8 16 0
+outcome:   (1) 0 1 1
+SHCT:      2 2 3 2 1 3 0 0 0 0 (3) 2 3 1 3 1 3 1 0 2
+
+391 100106 2 Hit 1
+RRPV:      0 (0) 0 3
+Signature: 4 0 14 3
+outcome:   1 (1) 1 0
+SHCT:      (3) 2 3 2 1 3 0 0 0 0 3 2 3 1 3 1 3 1 0 2
+
+392 100057 11 Replace 0
+RRPV:      (2) 3 3 1
+Signature: (17) 2 0 3
+outcome:   (0) 1 1 1
+SHCT:      3 2 3 2 1 3 0 0 0 0 3 2 3 1 3 1 3 1 0 2
+
+393 100130 3 Hit 0
+RRPV:      (0) 2 3 2
+Signature: 5 1 18 4
+outcome:   (1) 0 0 1
+SHCT:      3 2 3 2 1 (3) 0 0 0 0 3 2 3 1 3 1 3 1 0 2
+
+394 100133 14 Hit 1
+RRPV:      3 (0) 0 0
+Signature: 7 4 1 6
+outcome:   0 (1) 1 1
+SHCT:      3 2 3 2 (2) 3 0 0 0 0 3 2 3 1 3 1 3 1 0 2
+
+395 100143 5 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (3) 4 12 11
+outcome:   (0) 1 0 1
+SHCT:      3 2 3 2 2 3 0 0 0 0 3 2 3 1 3 1 3 1 (0) 2
+
+396 100158 11 Hit 1
+RRPV:      2 (0) 3 1
+Signature: 17 2 0 3
+outcome:   0 (1) 1 1
+SHCT:      3 2 (3) 2 2 3 0 0 0 0 3 2 3 1 3 1 3 1 0 2
+
+397 100156 2 Replace 3
+RRPV:      0 0 0 (2)
+Signature: 4 0 14 (16)
+outcome:   1 1 1 (0)
+SHCT:      3 2 3 (1) 2 3 0 0 0 0 3 2 3 1 3 1 3 1 0 2
+
+398 100073 15 Hit 2
+RRPV:      2 3 (0) 2
+Signature: 15 11 16 10
+outcome:   0 0 (1) 1
+SHCT:      3 2 3 1 2 3 0 0 0 0 3 2 3 1 3 1 (3) 1 0 2
+
+399 100092 10 Replace 0
+RRPV:      (2) 2 2 2
+Signature: (12) 19 14 1
+outcome:   (0) 1 1 1
+SHCT:      3 2 3 1 2 3 0 0 0 0 3 2 3 1 3 1 3 1 0 2
+
+400 100120 1 Replace 0
+RRPV:      (2) 2 3 1
+Signature: (0) 4 16 2
+outcome:   (0) 1 0 1
+SHCT:      3 2 3 1 2 3 0 (0) 0 0 3 2 3 1 3 1 3 1 0 2
+
+401 100048 11 Replace 2
+RRPV:      2 0 (3) 1
+Signature: 17 2 (8) 3
+outcome:   0 1 (0) 1
+SHCT:      3 2 3 1 2 3 0 0 0 0 3 2 3 1 3 1 3 1 0 2
+
+402 100087 12 Replace 1
+RRPV:      0 (3) 3 3
+Signature: 10 (7) 16 0
+outcome:   1 (0) 1 1
+SHCT:      3 2 3 1 2 3 0 0 (0) 0 3 2 3 1 3 1 3 1 0 2
+
+403 100100 15 Replace 1
+RRPV:      2 (2) 0 2
+Signature: 15 (0) 16 10
+outcome:   0 (0) 1 1
+SHCT:      3 2 3 1 2 3 0 0 0 0 3 (1) 3 1 3 1 3 1 0 2
+
+404 100170 15 Replace 0
+RRPV:      (2) 3 1 3
+Signature: (10) 0 16 10
+outcome:   (0) 0 1 1
+SHCT:      3 2 3 1 2 3 0 0 0 0 3 1 3 1 3 (0) 3 1 0 2
+
+405 100110 12 Replace 1
+RRPV:      0 (2) 3 3
+Signature: 10 (10) 16 0
+outcome:   1 (0) 1 1
+SHCT:      3 2 3 1 2 3 0 (0) 0 0 3 1 3 1 3 0 3 1 0 2
+
+406 100167 11 Hit 3
+RRPV:      2 0 3 (0)
+Signature: 17 2 8 3
+outcome:   0 1 0 (1)
+SHCT:      3 2 3 (2) 2 3 0 0 0 0 3 1 3 1 3 0 3 1 0 2
+
+407 100137 9 Hit 1
+RRPV:      2 (0) 3 2
+Signature: 11 11 7 2
+outcome:   1 (1) 0 1
+SHCT:      3 2 3 2 2 3 0 0 0 0 3 (2) 3 1 3 0 3 1 0 2
+
+408 100022 3 Replace 2
+RRPV:      0 2 (2) 2
+Signature: 5 1 (2) 4
+outcome:   1 0 (0) 1
+SHCT:      3 2 3 2 2 3 0 0 0 0 3 2 3 1 3 0 3 1 (0) 2
+
+409 100081 14 Replace 0
+RRPV:      (2) 0 0 0
+Signature: (1) 4 1 6
+outcome:   (0) 1 1 1
+SHCT:      3 2 3 2 2 3 0 (0) 0 0 3 2 3 1 3 0 3 1 0 2
+
+410 100015 5 Hit 1
+RRPV:      2 (0) 3 3
+Signature: 3 4 12 11
+outcome:   0 (1) 0 1
+SHCT:      3 2 3 2 (3) 3 0 0 0 0 3 2 3 1 3 0 3 1 0 2
+
+411 100196 9 Replace 2
+RRPV:      2 0 (2) 2
+Signature: 11 11 (16) 2
+outcome:   1 1 (0) 1
+SHCT:      3 2 3 2 3 3 0 (0) 0 0 3 2 3 1 3 0 3 1 0 2
+
+412 100160 8 Replace 1
+RRPV:      2 (2) 1 0
+Signature: 15 (0) 4 0
+outcome:   0 (0) 1 1
+SHCT:      3 2 3 2 3 3 0 0 0 0 3 2 3 1 3 0 3 (0) 0 2
+
+413 100023 7 Hit 3
+RRPV:      0 1 1 (0)
+Signature: 3 16 15 10
+outcome:   1 1 1 (1)
+SHCT:      3 2 3 2 3 3 0 0 0 0 (3) 2 3 1 3 0 3 0 0 2
+
+414 100094 2 Hit 3
+RRPV:      0 0 0 (0)
+Signature: 4 0 14 16
+outcome:   1 1 1 (1)
+SHCT:      3 2 3 2 3 3 0 0 0 0 3 2 3 1 3 0 (3) 0 0 2
+
+415 100087 7 Replace 1
+RRPV:      2 (3) 3 2
+Signature: 3 (7) 15 10
+outcome:   1 (0) 1 1
+SHCT:      3 2 3 2 3 3 0 0 0 0 3 2 3 1 3 0 3 0 0 2
+
+416 100102 14 Replace 0
+RRPV:      (2) 1 1 1
+Signature: (2) 4 1 6
+outcome:   (0) 1 1 1
+SHCT:      3 (1) 3 2 3 3 0 0 0 0 3 2 3 1 3 0 3 0 0 2
+
+417 100171 13 Hit 1
+RRPV:      0 (0) 2 0
+Signature: 14 0 2 14
+outcome:   1 (1) 0 1
+SHCT:      (3) 1 3 2 3 3 0 0 0 0 3 2 3 1 3 0 3 0 0 2
+
+418 100108 13 Replace 2
+RRPV:      1 1 (3) 1
+Signature: 14 0 (8) 14
+outcome:   1 1 (0) 1
+SHCT:      3 1 (2) 2 3 3 0 0 0 0 3 2 3 1 3 0 3 0 0 2
+
+419 100059 10 Hit 1
+RRPV:      2 (0) 2 2
+Signature: 12 19 14 1
+outcome:   0 (1) 1 1
+SHCT:      3 1 2 2 3 3 0 0 0 0 3 2 3 1 3 0 3 0 0 (3)
+
+420 100134 7 Replace 1
+RRPV:      2 (2) 3 2
+Signature: 3 (14) 15 10
+outcome:   1 (0) 1 1
+SHCT:      3 1 2 2 3 3 0 (0) 0 0 3 2 3 1 3 0 3 0 0 3
+
+421 100090 6 Hit 1
+RRPV:      2 (0) 0 1
+Signature: 6 0 15 0
+outcome:   0 (1) 1 1
+SHCT:      (3) 1 2 2 3 3 0 0 0 0 3 2 3 1 3 0 3 0 0 3
+
+422 100104 3 Replace 1
+RRPV:      1 (2) 3 3
+Signature: 5 (4) 2 4
+outcome:   1 (0) 0 1
+SHCT:      3 (0) 2 2 3 3 0 0 0 0 3 2 3 1 3 0 3 0 0 3
+
+423 100034 15 Replace 1
+RRPV:      2 (2) 1 3
+Signature: 10 (14) 16 10
+outcome:   0 (0) 1 1
+SHCT:      (2) 0 2 2 3 3 0 0 0 0 3 2 3 1 3 0 3 0 0 3
+
+424 100103 11 Hit 1
+RRPV:      2 (0) 3 0
+Signature: 17 2 8 3
+outcome:   0 (1) 0 1
+SHCT:      2 0 (3) 2 3 3 0 0 0 0 3 2 3 1 3 0 3 0 0 3
+
+425 100081 9 Hit 1
+RRPV:      2 (0) 2 2
+Signature: 11 11 16 2
+outcome:   1 (1) 0 1
+SHCT:      2 0 3 2 3 3 0 0 0 0 3 (3) 3 1 3 0 3 0 0 3
+
+426 100186 3 Hit 1
+RRPV:      1 (0) 3 3
+Signature: 5 4 2 4
+outcome:   1 (1) 0 1
+SHCT:      2 0 3 2 (3) 3 0 0 0 0 3 3 3 1 3 0 3 0 0 3
+
+427 100075 14 Replace 0
+RRPV:      (3) 2 2 2
+Signature: (15) 4 1 6
+outcome:   (0) 1 1 1
+SHCT:      2 0 (2) 2 3 3 0 0 0 0 3 3 3 1 3 0 3 0 0 3
+
+428 100190 7 Hit 2
+RRPV:      2 2 (0) 2
+Signature: 3 14 15 10
+outcome:   1 0 (1) 1
+SHCT:      2 0 2 2 3 3 0 0 0 0 3 3 3 1 3 (1) 3 0 0 3
+
+429 100081 1 Replace 2
+RRPV:      2 2 (3) 1
+Signature: 0 4 (1) 2
+outcome:   0 1 (0) 1
+SHCT:      2 0 2 2 3 3 0 0 0 0 3 3 3 1 3 1 (2) 0 0 3
+
+430 100088 6 Replace 0
+RRPV:      (3) 1 1 2
+Signature: (8) 0 15 0
+outcome:   (0) 1 1 1
+SHCT:      2 0 2 2 3 3 (0) 0 0 0 3 3 3 1 3 1 2 0 0 3
+
+431 100106 9 Hit 3
+RRPV:      2 0 2 (0)
+Signature: 11 11 16 2
+outcome:   1 1 0 (1)
+SHCT:      2 0 (3) 2 3 3 0 0 0 0 3 3 3 1 3 1 2 0 0 3
+
+432 100105 4 Replace 1
+RRPV:      2 (2) 0 2
+Signature: 1 (5) 12 3
+outcome:   0 (0) 1 1
+SHCT:      2 0 (2) 2 3 3 0 0 0 0 3 3 3 1 3 1 2 0 0 3
+
+433 100075 6 Replace 0
+RRPV:      (2) 1 1 2
+Signature: (15) 0 15 0
+outcome:   (0) 1 1 1
+SHCT:      2 0 2 2 3 3 0 0 (0) 0 3 3 3 1 3 1 2 0 0 3
+
+434 100076 1 Hit 3
+RRPV:      2 2 3 (0)
+Signature: 0 4 1 2
+outcome:   0 1 0 (1)
+SHCT:      2 0 (3) 2 3 3 0 0 0 0 3 3 3 1 3 1 2 0 0 3
+
+435 100022 8 Replace 0
+RRPV:      (2) 3 2 1
+Signature: (2) 0 4 0
+outcome:   (0) 0 1 1
+SHCT:      2 0 3 2 3 3 0 0 0 0 3 3 3 1 3 (0) 2 0 0 3
+
+436 100037 10 Replace 0
+RRPV:      (3) 1 3 3
+Signature: (17) 19 14 1
+outcome:   (0) 1 1 1
+SHCT:      2 0 3 2 3 3 0 0 0 0 3 3 (2) 1 3 0 2 0 0 3
+
+437 100085 2 Replace 0
+RRPV:      (2) 3 3 3
+Signature: (5) 0 14 16
+outcome:   (0) 1 1 1
+SHCT:      2 0 3 2 3 3 0 0 0 0 3 3 2 1 3 0 2 0 0 3
+
+438 100091 0 Hit 3
+RRPV:      1 0 0 (0)
+Signature: 2 17 2 5
+outcome:   1 1 1 (1)
+SHCT:      2 0 3 2 3 (3) 0 0 0 0 3 3 2 1 3 0 2 0 0 3
+
+439 100109 6 Replace 0
+RRPV:      (3) 2 2 3
+Signature: (9) 0 15 0
+outcome:   (0) 1 1 1
+SHCT:      2 0 3 2 3 3 0 0 0 0 3 3 2 1 3 (0) 2 0 0 3
+
+440 100163 4 Hit 2
+RRPV:      2 2 (0) 2
+Signature: 1 5 12 3
+outcome:   0 0 (1) 1
+SHCT:      2 0 3 2 3 3 0 0 0 0 3 3 (3) 1 3 0 2 0 0 3
+
+441 100160 10 Replace 0
+RRPV:      (2) 1 3 3
+Signature: (0) 19 14 1
+outcome:   (0) 1 1 1
+SHCT:      2 0 3 2 3 3 0 0 0 0 3 3 3 1 3 0 2 (0) 0 3
+
+442 100037 12 Hit 0
+RRPV:      (0) 2 3 3
+Signature: 10 10 16 0
+outcome:   (1) 0 1 1
+SHCT:      2 0 3 2 3 3 0 0 0 0 (3) 3 3 1 3 0 2 0 0 3
+
+443 100121 3 Replace 2
+RRPV:      1 0 (3) 3
+Signature: 5 4 (1) 4
+outcome:   1 1 (0) 1
+SHCT:      2 0 (2) 2 3 3 0 0 0 0 3 3 3 1 3 0 2 0 0 3
+
+444 100055 3 Replace 2
+RRPV:      1 0 (3) 3
+Signature: 5 4 (15) 4
+outcome:   1 1 (0) 1
+SHCT:      2 (0) 2 2 3 3 0 0 0 0 3 3 3 1 3 0 2 0 0 3
+
+445 100062 1 Hit 2
+RRPV:      2 2 (0) 0
+Signature: 0 4 1 2
+outcome:   0 1 (1) 1
+SHCT:      2 (1) 2 2 3 3 0 0 0 0 3 3 3 1 3 0 2 0 0 3
+
+446 100022 9 Replace 0
+RRPV:      (2) 1 3 1
+Signature: (2) 11 16 2
+outcome:   (0) 1 0 1
+SHCT:      2 1 2 2 3 3 0 0 0 0 3 3 3 1 3 0 2 0 0 3
+
+447 100001 11 Replace 2
+RRPV:      2 0 (2) 0
+Signature: 17 2 (1) 3
+outcome:   0 1 (0) 1
+SHCT:      2 1 2 2 3 3 0 0 (0) 0 3 3 3 1 3 0 2 0 0 3
+
+448 100126 11 Hit 0
+RRPV:      (0) 0 2 0
+Signature: 17 2 1 3
+outcome:   (1) 1 0 1
+SHCT:      2 1 2 2 3 3 0 0 0 0 3 3 3 1 3 0 2 (1) 0 3
+
+449 100138 12 Replace 2
+RRPV:      0 2 (3) 3
+Signature: 10 10 (18) 0
+outcome:   1 0 (0) 1
+SHCT:      2 1 2 2 3 3 0 0 0 0 3 3 3 1 3 0 2 1 0 3
+
+450 100101 8 Hit 3
+RRPV:      2 3 2 (0)
+Signature: 2 0 4 0
+outcome:   0 0 1 (1)
+SHCT:      (3) 1 2 2 3 3 0 0 0 0 3 3 3 1 3 0 2 1 0 3
+
+451 100081 1 Replace 0
+RRPV:      (2) 3 1 1
+Signature: (1) 4 1 2
+outcome:   (0) 1 1 1
+SHCT:      (2) 1 2 2 3 3 0 0 0 0 3 3 3 1 3 0 2 1 0 3
+
+452 100191 8 Hit 1
+RRPV:      2 (0) 2 0
+Signature: 2 0 4 0
+outcome:   0 (1) 1 1
+SHCT:      (3) 1 2 2 3 3 0 0 0 0 3 3 3 1 3 0 2 1 0 3
+
+453 100005 4 Hit 2
+RRPV:      2 2 (0) 2
+Signature: 1 5 12 3
+outcome:   0 0 (1) 1
+SHCT:      3 1 2 2 3 3 0 0 0 0 3 3 (3) 1 3 0 2 1 0 3
+
+454 100136 9 Hit 3
+RRPV:      2 1 3 (0)
+Signature: 2 11 16 2
+outcome:   0 1 0 (1)
+SHCT:      3 1 (3) 2 3 3 0 0 0 0 3 3 3 1 3 0 2 1 0 3
+
+455 100185 0 Hit 1
+RRPV:      1 (0) 0 0
+Signature: 2 17 2 5
+outcome:   1 (1) 1 1
+SHCT:      3 1 3 2 3 3 0 0 0 0 3 3 3 1 3 0 2 (2) 0 3
+
+456 100153 10 Hit 0
+RRPV:      (0) 1 3 3
+Signature: 0 19 14 1
+outcome:   (1) 1 1 1
+SHCT:      (3) 1 3 2 3 3 0 0 0 0 3 3 3 1 3 0 2 2 0 3
+
+457 100192 12 Replace 2
+RRPV:      0 2 (2) 3
+Signature: 10 10 (12) 0
+outcome:   1 0 (0) 1
+SHCT:      3 1 3 2 3 3 0 0 0 0 3 3 3 1 3 0 2 2 (0) 3
+
+458 100021 9 Hit 3
+RRPV:      2 1 3 (0)
+Signature: 2 11 16 2
+outcome:   0 1 0 (1)
+SHCT:      3 1 (3) 2 3 3 0 0 0 0 3 3 3 1 3 0 2 2 0 3
+
+459 100045 7 Replace 0
+RRPV:      (2) 3 1 3
+Signature: (5) 14 15 10
+outcome:   (0) 0 1 1
+SHCT:      3 1 3 2 3 3 0 0 0 0 3 3 3 1 3 0 2 2 0 3
+
+460 100084 12 Replace 3
+RRPV:      0 2 2 (2)
+Signature: 10 10 12 (4)
+outcome:   1 0 0 (0)
+SHCT:      3 1 3 2 3 3 0 0 0 0 3 3 3 1 3 0 2 2 0 3
+
+461 100180 11 Hit 0
+RRPV:      (0) 0 2 0
+Signature: 17 2 1 3
+outcome:   (1) 1 0 1
+SHCT:      3 1 3 2 3 3 0 0 0 0 3 3 3 1 3 0 2 (3) 0 3
+
+462 100108 14 Hit 3
+RRPV:      3 2 2 (0)
+Signature: 15 4 1 6
+outcome:   0 1 1 (1)
+SHCT:      3 1 3 2 3 3 (1) 0 0 0 3 3 3 1 3 0 2 3 0 3
+
+463 100104 15 Replace 3
+RRPV:      2 2 1 (2)
+Signature: 10 14 16 (4)
+outcome:   0 0 1 (0)
+SHCT:      3 1 3 2 3 3 1 0 0 0 3 3 3 1 3 0 2 3 0 3
+
+464 100063 8 Hit 1
+RRPV:      2 (0) 2 0
+Signature: 2 0 4 0
+outcome:   0 (1) 1 1
+SHCT:      (3) 1 3 2 3 3 1 0 0 0 3 3 3 1 3 0 2 3 0 3
+
+465 100036 8 Hit 0
+RRPV:      (0) 0 2 0
+Signature: 2 0 4 0
+outcome:   (1) 1 1 1
+SHCT:      3 1 (3) 2 3 3 1 0 0 0 3 3 3 1 3 0 2 3 0 3
+
+466 100093 2 Replace 1
+RRPV:      2 (2) 3 3
+Signature: 5 (13) 14 16
+outcome:   0 (0) 1 1
+SHCT:      3 1 3 2 3 3 1 0 0 0 3 3 3 1 3 0 2 3 0 3
+
+467 100141 7 Hit 1
+RRPV:      2 (0) 1 3
+Signature: 5 14 15 10
+outcome:   0 (1) 1 1
+SHCT:      3 1 3 2 3 3 1 0 0 0 3 3 3 1 (3) 0 2 3 0 3
+
+468 100132 2 Replace 2
+RRPV:      2 2 (2) 3
+Signature: 5 13 (12) 16
+outcome:   0 0 (0) 1
+SHCT:      3 1 3 2 3 3 1 0 0 0 3 3 3 1 3 0 2 3 0 3
+
+469 100140 6 Hit 2
+RRPV:      3 2 (0) 3
+Signature: 9 0 15 0
+outcome:   0 1 (1) 1
+SHCT:      3 1 3 2 3 3 1 0 0 0 3 3 3 1 3 (1) 2 3 0 3
+
+470 100099 11 Replace 2
+RRPV:      1 1 (2) 1
+Signature: 17 2 (19) 3
+outcome:   1 1 (0) 1
+SHCT:      3 (0) 3 2 3 3 1 0 0 0 3 3 3 1 3 1 2 3 0 3
+
+471 100192 15 Hit 0
+RRPV:      (0) 2 1 2
+Signature: 10 14 16 4
+outcome:   (1) 0 1 0
+SHCT:      3 0 3 2 3 3 1 0 0 0 (3) 3 3 1 3 1 2 3 0 3
+
+472 100078 15 Hit 3
+RRPV:      0 2 1 (0)
+Signature: 10 14 16 4
+outcome:   1 0 1 (1)
+SHCT:      3 0 3 2 (3) 3 1 0 0 0 3 3 3 1 3 1 2 3 0 3
+
+473 100122 12 Replace 1
+RRPV:      1 (2) 3 3
+Signature: 10 (2) 12 4
+outcome:   1 (0) 0 0
+SHCT:      3 0 3 2 3 3 1 0 0 0 (2) 3 3 1 3 1 2 3 0 3
+
+474 100088 14 Replace 0
+RRPV:      (3) 2 2 0
+Signature: (8) 4 1 6
+outcome:   (0) 1 1 1
+SHCT:      3 0 3 2 3 3 1 0 0 0 2 3 3 1 3 (0) 2 3 0 3
+
+475 100066 13 Replace 2
+RRPV:      1 1 (2) 1
+Signature: 14 0 (6) 14
+outcome:   1 1 (0) 1
+SHCT:      3 0 3 2 3 3 1 0 (0) 0 2 3 3 1 3 0 2 3 0 3
+
+476 100061 5 Replace 2
+RRPV:      2 0 (3) 3
+Signature: 3 4 (1) 11
+outcome:   0 1 (0) 1
+SHCT:      3 0 3 2 3 3 1 0 0 0 2 3 (2) 1 3 0 2 3 0 3
+
+477 100005 10 Replace 2
+RRPV:      0 1 (2) 3
+Signature: 0 19 (5) 1
+outcome:   1 1 (0) 1
+SHCT:      3 0 3 2 3 3 1 0 0 0 2 3 2 1 3 0 2 3 0 3
+
+478 100162 2 Replace 3
+RRPV:      2 2 2 (2)
+Signature: 5 13 12 (2)
+outcome:   0 0 0 (0)
+SHCT:      3 0 3 2 3 3 1 0 0 0 2 3 2 1 3 0 2 3 0 3
+
+479 100027 6 Hit 0
+RRPV:      (0) 2 0 3
+Signature: 9 0 15 0
+outcome:   (1) 1 1 1
+SHCT:      3 0 3 2 3 3 1 0 0 (1) 2 3 2 1 3 0 2 3 0 3
+
+480 100111 3 Hit 1
+RRPV:      1 (0) 3 3
+Signature: 5 4 15 4
+outcome:   1 (1) 0 1
+SHCT:      3 0 3 2 (3) 3 1 0 0 1 2 3 2 1 3 0 2 3 0 3
+
+481 100110 7 Hit 2
+RRPV:      2 0 (0) 3
+Signature: 5 14 15 10
+outcome:   0 1 (1) 1
+SHCT:      3 0 3 2 3 3 1 0 0 1 2 3 2 1 3 (1) 2 3 0 3
+
+482 100025 5 Replace 2
+RRPV:      2 0 (2) 3
+Signature: 3 4 (5) 11
+outcome:   0 1 (0) 1
+SHCT:      3 (0) 3 2 3 3 1 0 0 1 2 3 2 1 3 1 2 3 0 3
+
+483 100108 9 Replace 2
+RRPV:      2 1 (3) 0
+Signature: 2 11 (8) 2
+outcome:   0 1 (0) 1
+SHCT:      3 0 3 2 3 3 1 0 0 1 2 3 2 1 3 1 (1) 3 0 3
+
+484 100088 3 Replace 2
+RRPV:      1 0 (3) 3
+Signature: 5 4 (8) 4
+outcome:   1 1 (0) 1
+SHCT:      3 0 3 2 3 3 1 0 0 1 2 3 2 1 3 (0) 1 3 0 3
+
+485 100185 6 Hit 1
+RRPV:      0 (0) 0 3
+Signature: 9 0 15 0
+outcome:   1 (1) 1 1
+SHCT:      (3) 0 3 2 3 3 1 0 0 1 2 3 2 1 3 0 1 3 0 3
+
+486 100198 0 Replace 0
+RRPV:      (3) 2 2 2
+Signature: (18) 17 2 5
+outcome:   (0) 1 1 1
+SHCT:      3 0 3 2 3 3 1 0 0 1 2 3 2 1 3 0 1 3 0 3
+
+487 100079 9 Hit 0
+RRPV:      (0) 1 3 0
+Signature: 2 11 8 2
+outcome:   (1) 1 0 1
+SHCT:      3 0 (3) 2 3 3 1 0 0 1 2 3 2 1 3 0 1 3 0 3
+
+488 100104 9 Replace 2
+RRPV:      0 1 (2) 0
+Signature: 2 11 (4) 2
+outcome:   1 1 (0) 1
+SHCT:      3 0 3 2 3 3 1 0 (0) 1 2 3 2 1 3 0 1 3 0 3
+
+489 100029 9 Replace 2
+RRPV:      1 2 (2) 1
+Signature: 2 11 (9) 2
+outcome:   1 1 (0) 1
+SHCT:      3 0 3 2 (2) 3 1 0 0 1 2 3 2 1 3 0 1 3 0 3
+
+490 100193 4 Hit 2
+RRPV:      2 2 (0) 2
+Signature: 1 5 12 3
+outcome:   0 0 (1) 1
+SHCT:      3 0 3 2 2 3 1 0 0 1 2 3 (3) 1 3 0 1 3 0 3
+
+491 100002 8 Replace 2
+RRPV:      1 1 (2) 1
+Signature: 2 0 (2) 0
+outcome:   1 1 (0) 1
+SHCT:      3 0 3 2 2 3 1 0 0 1 2 3 3 1 3 0 1 3 0 3
+
+492 100169 9 Replace 1
+RRPV:      2 (2) 3 2
+Signature: 2 (9) 9 2
+outcome:   1 (0) 0 1
+SHCT:      3 0 3 2 2 3 1 0 0 1 2 3 3 1 3 0 1 3 0 3
+
+493 100055 14 Replace 0
+RRPV:      (3) 2 2 0
+Signature: (15) 4 1 6
+outcome:   (0) 1 1 1
+SHCT:      3 0 3 2 2 3 1 0 (0) 1 2 3 3 1 3 0 1 3 0 3
+
+494 100058 7 Replace 3
+RRPV:      2 0 0 (3)
+Signature: 5 14 15 (18)
+outcome:   0 1 1 (0)
+SHCT:      3 0 3 2 2 3 1 0 0 1 2 3 3 1 3 0 1 3 0 3
+
+495 100193 11 Hit 3
+RRPV:      1 1 2 (0)
+Signature: 17 2 19 3
+outcome:   1 1 0 (1)
+SHCT:      3 0 3 (3) 2 3 1 0 0 1 2 3 3 1 3 0 1 3 0 3
+
+496 100108 8 Hit 2
+RRPV:      1 1 (0) 1
+Signature: 2 0 2 0
+outcome:   1 1 (1) 1
+SHCT:      3 0 (3) 3 2 3 1 0 0 1 2 3 3 1 3 0 1 3 0 3
+
+497 100022 6 Hit 1
+RRPV:      0 (0) 0 3
+Signature: 9 0 15 0
+outcome:   1 (1) 1 1
+SHCT:      (3) 0 3 3 2 3 1 0 0 1 2 3 3 1 3 0 1 3 0 3
+
+498 100063 3 Hit 1
+RRPV:      1 (0) 3 3
+Signature: 5 4 8 4
+outcome:   1 (1) 0 1
+SHCT:      3 0 3 3 (3) 3 1 0 0 1 2 3 3 1 3 0 1 3 0 3
+
+499 100119 15 Hit 3
+RRPV:      0 2 1 (0)
+Signature: 10 14 16 4
+outcome:   1 0 1 (1)
+SHCT:      3 0 3 3 (3) 3 1 0 0 1 2 3 3 1 3 0 1 3 0 3

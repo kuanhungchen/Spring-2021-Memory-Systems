@@ -1,0 +1,2503 @@
+1
+16
+3
+500
+0 0 Miss Replace 0
+Line address: 0
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+1 0 Miss Replace 1
+Line address: 64
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+2 0 Miss Replace 2
+Line address: 128
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+3 0 Miss Replace 3
+Line address: 192
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+4 0 Miss Replace 4
+Line address: 256
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+5 0 Miss Replace 5
+Line address: 320
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+6 0 Miss Replace 6
+Line address: 384
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 0 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+7 0 Miss Replace 7
+Line address: 448
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 0 0 -1 -1 -1 -1 -1 -1 -1 -1
+
+8 0 Miss Replace 8
+Line address: 512
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 0 0 0 -1 -1 -1 -1 -1 -1 -1
+
+9 0 Miss Replace 9
+Line address: 576
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 0 0 0 0 -1 -1 -1 -1 -1 -1
+
+10 0 Miss Replace 10
+Line address: 640
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 0 0 0 0 0 -1 -1 -1 -1 -1
+
+11 0 Miss Replace 11
+Line address: 704
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 -1 -1
+
+12 0 Miss Replace 12
+Line address: 768
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 -1
+
+13 0 Miss Replace 13
+Line address: 832
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1
+
+14 0 Miss Replace 14
+Line address: 896
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1
+
+15 0 Miss Replace 15
+Line address: 960
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+16 0 Hit 13
+Line address: 832
+Line reuse:   1 0 0 0 0 0
+Way scores:   0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0
+
+17 0 Miss Replace 0
+Line address: 448
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 0 0 0 0 0 0 15 0 0 0 0 0 15 0 0
+
+18 0 Miss Replace 1
+Line address: 33472
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 0 0 0 0 0 0 15 0 0 0 0 0 15 0 0
+
+19 0 Miss Replace 1
+Line address: 17280
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 0 0 0 0 0 0 15 0 0 0 0 0 15 0 0
+
+20 0 Hit 9
+Line address: 576
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 0 0 0 0 0 0 15 0 15 0 0 0 15 0 0
+
+21 0 Hit 15
+Line address: 960
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 0 0 0 0 0 0 15 0 15 0 0 0 15 0 15
+
+22 0 Miss Replace 1
+Line address: 16768
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 0 0 0 0 0 0 15 0 15 0 0 0 15 0 15
+
+23 0 Miss Replace 1
+Line address: 768
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 15 0 0 0 0 0 15 0 15 0 0 15 15 0 15
+
+24 0 Miss Replace 2
+Line address: 17088
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 0 0 0 0 0 15 0 15 0 0 15 15 0 15
+
+25 0 Hit 11
+Line address: 704
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 15 0 0 0 0 0 15 0 15 0 15 15 15 0 15
+
+26 0 Miss Replace 2
+Line address: 49792
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 0 0 0 0 0 15 0 15 0 15 15 15 0 15
+
+27 0 Hit 3
+Line address: 192
+Line reuse:   0 1 0 0 0 0
+Way scores:   15 15 0 14 0 0 0 15 0 15 0 15 15 15 0 15
+
+28 0 Miss Replace 2
+Line address: 50048
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 0 14 0 0 0 15 0 15 0 15 15 15 0 15
+
+29 0 Miss Replace 2
+Line address: 640
+Line reuse:   0 1 0 0 0 0
+Way scores:   15 15 14 14 0 0 0 15 0 15 14 15 15 15 0 15
+
+30 0 Hit 5
+Line address: 320
+Line reuse:   0 1 0 0 0 0
+Way scores:   15 15 14 14 0 14 0 15 0 15 14 15 15 15 0 15
+
+31 0 Hit 11
+Line address: 704
+Line reuse:   2 0 0 0 0 0
+Way scores:   15 15 14 14 0 14 0 15 0 15 14 15 15 15 0 15
+
+32 0 Miss Replace 4
+Line address: 33472
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 15 14 14 15 14 0 15 0 15 14 15 15 0 0 15
+
+33 0 Miss Replace 6
+Line address: 0
+Line reuse:   0 0 1 0 0 0
+Way scores:   0 15 14 14 15 14 12 0 0 15 14 15 15 0 0 15
+
+34 0 Miss Replace 0
+Line address: 32768
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 15 14 14 15 14 12 0 0 15 14 15 15 0 0 15
+
+35 0 Miss Replace 0
+Line address: 320
+Line reuse:   1 1 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 0 0 15 14 15 15 0 0 15
+
+36 0 Hit 15
+Line address: 960
+Line reuse:   2 0 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 0 0 0 14 15 15 0 0 15
+
+37 0 Miss Replace 7
+Line address: 33664
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 0 0 0 14 15 15 0 0 15
+
+38 0 Miss Replace 7
+Line address: 896
+Line reuse:   0 1 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 0 0 14 15 15 0 14 15
+
+39 0 Miss Replace 8
+Line address: 17088
+Line reuse:   1 0 0 0 0 0
+Way scores:   14 0 14 14 15 14 12 14 15 0 14 15 0 0 14 15
+
+40 0 Miss Replace 1
+Line address: 49920
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 0 14 14 15 14 12 14 15 0 14 15 0 0 14 15
+
+41 0 Hit 13
+Line address: 832
+Line reuse:   1 1 0 0 0 0
+Way scores:   14 0 14 14 15 14 12 14 15 0 14 15 0 14 14 15
+
+42 0 Hit 8
+Line address: 17088
+Line reuse:   2 0 0 0 0 0
+Way scores:   14 0 14 14 15 14 12 14 15 0 14 15 0 14 14 15
+
+43 0 Miss Replace 1
+Line address: 33280
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 0 14 14 15 14 12 14 15 0 14 15 0 14 14 15
+
+44 0 Miss Replace 1
+Line address: 49600
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 0 14 14 15 14 12 14 15 0 14 15 0 14 14 15
+
+45 0 Miss Replace 1
+Line address: 32960
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 0 14 14 15 14 12 14 15 0 14 15 0 14 14 15
+
+46 0 Miss Replace 1
+Line address: 32960
+Line reuse:   1 0 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 0 14 15 0 14 14 15
+
+47 0 Hit 4
+Line address: 33472
+Line reuse:   2 0 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 0 14 0 0 14 14 15
+
+48 0 Miss Replace 9
+Line address: 32832
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 0 14 0 0 14 14 15
+
+49 0 Hit 2
+Line address: 640
+Line reuse:   0 2 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 0 14 0 0 14 14 15
+
+50 0 Hit 11
+Line address: 704
+Line reuse:   2 1 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 0 14 14 0 14 14 15
+
+51 0 Miss Replace 9
+Line address: 33280
+Line reuse:   1 0 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 15 14 14 0 14 14 15
+
+52 0 Hit 1
+Line address: 32960
+Line reuse:   2 0 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 15 14 14 0 14 14 0
+
+53 0 Hit 13
+Line address: 832
+Line reuse:   2 1 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 15 14 14 0 14 14 0
+
+54 0 Miss Replace 12
+Line address: 16512
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 15 14 14 0 14 14 0
+
+55 0 Miss Replace 12
+Line address: 17216
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 15 14 14 0 14 14 0
+
+56 0 Miss Replace 12
+Line address: 768
+Line reuse:   1 0 1 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 15 14 14 13 14 14 0
+
+57 0 Hit 4
+Line address: 33472
+Line reuse:   3 0 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 15 15 14 14 13 14 14 0
+
+58 0 Miss Replace 15
+Line address: 33280
+Line reuse:   2 0 0 0 0 0
+Way scores:   14 15 14 14 15 14 12 14 0 15 14 14 13 14 14 15
+
+59 0 Hit 12
+Line address: 768
+Line reuse:   2 0 1 0 0 0
+Way scores:   14 15 14 0 15 14 12 14 0 15 14 14 14 14 14 15
+
+60 0 Hit 11
+Line address: 704
+Line reuse:   3 1 0 0 0 0
+Way scores:   14 15 14 0 15 14 12 14 0 15 14 14 14 14 14 15
+
+61 0 Miss Replace 3
+Line address: 16704
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 15 14 0 15 14 12 14 0 15 14 14 14 14 14 15
+
+62 0 Miss Replace 3
+Line address: 512
+Line reuse:   0 0 1 0 0 0
+Way scores:   14 15 14 12 15 14 12 14 0 15 14 14 14 14 14 15
+
+63 0 Miss Replace 8
+Line address: 33408
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 15 14 12 15 14 12 14 0 15 14 14 14 14 14 15
+
+64 0 Hit 7
+Line address: 896
+Line reuse:   0 2 0 0 0 0
+Way scores:   14 15 14 12 15 14 12 14 0 15 14 14 14 14 14 15
+
+65 0 Miss Replace 8
+Line address: 16896
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 15 14 12 15 14 12 14 0 15 14 14 14 14 14 15
+
+66 0 Miss Replace 8
+Line address: 896
+Line reuse:   1 2 0 0 0 0
+Way scores:   14 15 14 12 15 14 12 14 14 15 14 14 14 14 14 15
+
+67 0 Miss Replace 3
+Line address: 832
+Line reuse:   3 1 0 0 0 0
+Way scores:   0 15 14 14 15 0 12 14 14 15 14 14 14 14 14 15
+
+68 0 Miss Replace 0
+Line address: 49920
+Line reuse:   0 1 0 0 0 0
+Way scores:   14 0 14 14 15 0 12 14 14 15 14 14 14 14 14 15
+
+69 0 Hit 3
+Line address: 832
+Line reuse:   4 1 0 0 0 0
+Way scores:   14 0 14 14 15 0 12 14 14 15 14 14 14 14 14 15
+
+70 0 Miss Replace 1
+Line address: 17088
+Line reuse:   2 1 0 0 0 0
+Way scores:   14 14 14 14 15 0 12 14 14 15 14 14 14 14 14 15
+
+71 0 Hit 5
+Line address: 320
+Line reuse:   1 1 1 0 0 0
+Way scores:   14 14 14 14 15 13 12 14 14 15 14 14 14 14 14 15
+
+72 0 Miss Replace 6
+Line address: 49600
+Line reuse:   0 1 0 0 0 0
+Way scores:   14 14 14 14 15 13 14 14 14 15 14 14 14 14 14 15
+
+73 0 Miss Replace 5
+Line address: 33344
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 14 14 14 0 0 14 14 14 15 14 14 14 14 14 15
+
+74 0 Hit 1
+Line address: 17088
+Line reuse:   3 1 0 0 0 0
+Way scores:   14 14 14 14 0 0 14 14 14 0 14 14 14 14 14 0
+
+75 0 Miss Replace 4
+Line address: 49344
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 14 14 14 0 0 14 14 14 0 14 14 12 14 14 0
+
+76 0 Miss Replace 4
+Line address: 0
+Line reuse:   0 0 2 0 0 0
+Way scores:   14 14 14 14 12 0 14 14 14 0 14 14 12 14 14 0
+
+77 0 Miss Replace 5
+Line address: 768
+Line reuse:   2 1 1 0 0 0
+Way scores:   14 14 14 14 12 14 14 14 14 0 14 14 14 14 14 0
+
+78 0 Hit 6
+Line address: 49600
+Line reuse:   1 1 0 0 0 0
+Way scores:   14 14 14 14 12 14 14 14 14 0 14 14 14 14 14 0
+
+79 0 Hit 5
+Line address: 768
+Line reuse:   3 1 1 0 0 0
+Way scores:   14 14 14 14 12 14 14 14 14 0 14 14 14 14 14 0
+
+80 0 Miss Replace 9
+Line address: 640
+Line reuse:   0 3 0 0 0 0
+Way scores:   14 14 14 14 12 14 14 14 14 14 14 14 14 14 14 0
+
+81 0 Miss Replace 15
+Line address: 17280
+Line reuse:   0 0 1 0 0 0
+Way scores:   14 14 14 14 12 14 14 14 14 14 14 14 14 14 14 12
+
+82 0 Miss Replace 4
+Line address: 896
+Line reuse:   2 2 0 0 0 0
+Way scores:   14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 12
+
+83 0 Miss Replace 15
+Line address: 33472
+Line reuse:   3 1 0 0 0 0
+Way scores:   14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+84 0 Miss Replace 0
+Line address: 16576
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+85 0 Miss Replace 0
+Line address: 16640
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+86 0 Hit 11
+Line address: 704
+Line reuse:   3 2 0 0 0 0
+Way scores:   0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+87 0 Miss Replace 0
+Line address: 49856
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+88 0 Miss Replace 0
+Line address: 33472
+Line reuse:   4 1 0 0 0 0
+Way scores:   14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+89 0 Miss Replace 0
+Line address: 64
+Line reuse:   0 0 0 1 0 0
+Way scores:   10 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+90 0 Miss Replace 0
+Line address: 49664
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+91 0 Miss Replace 0
+Line address: 49600
+Line reuse:   2 1 0 0 0 0
+Way scores:   14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+92 0 Miss Replace 0
+Line address: 17280
+Line reuse:   1 0 1 0 0 0
+Way scores:   13 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+93 0 Miss Replace 0
+Line address: 16768
+Line reuse:   0 0 0 1 0 0
+Way scores:   10 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+94 0 Miss Replace 0
+Line address: 49728
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+95 0 Miss Replace 0
+Line address: 33536
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 14 14 14 13 14 14 14 14 14 14 13 14 14 14
+
+96 0 Miss Replace 0
+Line address: 384
+Line reuse:   0 0 0 1 0 0
+Way scores:   10 14 14 14 14 13 14 14 14 14 14 14 13 14 14 14
+
+97 0 Miss Replace 0
+Line address: 49984
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 14 14 14 13 14 14 14 14 14 14 13 14 14 14
+
+98 0 Hit 4
+Line address: 896
+Line reuse:   3 2 0 0 0 0
+Way scores:   0 14 14 14 14 13 14 14 14 14 14 14 13 14 14 14
+
+99 0 Hit 13
+Line address: 832
+Line reuse:   4 2 0 0 0 0
+Way scores:   0 14 14 14 14 13 14 14 14 14 14 14 13 14 14 14
+
+100 0 Hit 13
+Line address: 832
+Line reuse:   5 2 0 0 0 0
+Way scores:   0 14 14 14 14 13 14 14 14 14 14 14 13 14 14 14
+
+101 0 Miss Replace 0
+Line address: 192
+Line reuse:   0 1 0 1 0 0
+Way scores:   12 14 14 14 14 13 14 14 14 14 14 14 13 14 14 14
+
+102 0 Hit 1
+Line address: 17088
+Line reuse:   3 2 0 0 0 0
+Way scores:   12 14 14 14 14 13 14 14 14 14 14 14 13 14 14 14
+
+103 0 Hit 12
+Line address: 768
+Line reuse:   3 2 1 0 0 0
+Way scores:   12 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+104 0 Miss Replace 0
+Line address: 16896
+Line reuse:   0 0 1 0 0 0
+Way scores:   12 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+105 0 Miss Replace 0
+Line address: 33600
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+106 0 Hit 5
+Line address: 768
+Line reuse:   4 2 1 0 0 0
+Way scores:   0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+107 0 Hit 0
+Line address: 33600
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+108 0 Miss Replace 1
+Line address: 640
+Line reuse:   0 4 0 0 0 0
+Way scores:   15 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+109 0 Hit 9
+Line address: 640
+Line reuse:   1 4 0 0 0 0
+Way scores:   15 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+110 0 Hit 13
+Line address: 832
+Line reuse:   6 2 0 0 0 0
+Way scores:   15 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+111 0 Miss Replace 1
+Line address: 512
+Line reuse:   0 0 2 0 0 0
+Way scores:   15 12 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+112 0 Miss Replace 1
+Line address: 33600
+Line reuse:   2 0 0 0 0 0
+Way scores:   15 15 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+113 0 Miss Replace 2
+Line address: 49216
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 0 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+114 0 Hit 6
+Line address: 49600
+Line reuse:   2 2 0 0 0 0
+Way scores:   15 15 0 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+115 0 Hit 8
+Line address: 896
+Line reuse:   3 3 0 0 0 0
+Way scores:   15 15 0 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+116 0 Hit 3
+Line address: 832
+Line reuse:   7 2 0 0 0 0
+Way scores:   15 15 0 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+117 0 Miss Replace 2
+Line address: 49984
+Line reuse:   0 1 0 0 0 0
+Way scores:   15 15 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+118 0 Miss Replace 2
+Line address: 16448
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 0 14 14 14 14 14 14 14 14 0 14 14 14 14
+
+119 0 Miss Replace 2
+Line address: 33472
+Line reuse:   4 2 0 0 0 0
+Way scores:   15 15 14 14 14 14 14 14 14 14 14 0 14 14 14 14
+
+120 0 Miss Replace 11
+Line address: 49280
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 14 14 14 14 14 14 14 14 14 0 14 14 14 14
+
+121 0 Miss Replace 11
+Line address: 16576
+Line reuse:   0 0 1 0 0 0
+Way scores:   15 15 14 14 14 14 14 14 14 14 14 12 14 14 14 14
+
+122 0 Miss Replace 11
+Line address: 49856
+Line reuse:   0 0 1 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 12 13 14 14 14
+
+123 0 Miss Replace 11
+Line address: 33408
+Line reuse:   0 0 1 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 12 13 14 14 14
+
+124 0 Miss Replace 11
+Line address: 33344
+Line reuse:   0 0 1 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 12 13 14 14 14
+
+125 0 Hit 1
+Line address: 33600
+Line reuse:   3 0 0 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 12 13 14 14 14
+
+126 0 Miss Replace 11
+Line address: 32768
+Line reuse:   0 0 0 1 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 10 13 14 14 14
+
+127 0 Miss Replace 11
+Line address: 33408
+Line reuse:   1 0 1 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 13 13 14 14 14
+
+128 0 Hit 8
+Line address: 896
+Line reuse:   4 3 0 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 13 13 14 14 14
+
+129 0 Miss Replace 5
+Line address: 16640
+Line reuse:   0 0 1 0 0 0
+Way scores:   15 15 14 14 14 12 14 14 14 14 14 13 13 14 14 14
+
+130 0 Hit 6
+Line address: 49600
+Line reuse:   3 2 0 0 0 0
+Way scores:   15 15 14 14 14 12 14 14 14 14 14 13 13 14 14 14
+
+131 0 Miss Replace 5
+Line address: 49408
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 14 14 14 0 14 14 14 14 14 13 13 14 14 14
+
+132 0 Miss Replace 5
+Line address: 33216
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 14 14 14 0 14 14 14 14 14 13 13 14 14 14
+
+133 0 Hit 4
+Line address: 896
+Line reuse:   5 3 0 0 0 0
+Way scores:   15 15 14 14 14 0 14 14 14 14 14 13 13 14 14 14
+
+134 0 Hit 15
+Line address: 33472
+Line reuse:   5 2 0 0 0 0
+Way scores:   15 15 14 14 14 0 14 14 14 14 14 13 13 14 14 14
+
+135 0 Miss Replace 5
+Line address: 320
+Line reuse:   1 1 2 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 13 13 14 14 14
+
+136 0 Hit 10
+Line address: 640
+Line reuse:   1 5 0 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 13 13 14 14 14
+
+137 0 Hit 1
+Line address: 33600
+Line reuse:   4 0 0 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 13 13 14 14 14
+
+138 0 Miss Replace 5
+Line address: 49920
+Line reuse:   0 1 0 1 0 0
+Way scores:   15 15 14 14 14 12 14 14 14 14 14 13 12 14 14 14
+
+139 0 Hit 6
+Line address: 49600
+Line reuse:   4 2 0 0 0 0
+Way scores:   15 15 14 14 14 12 14 14 14 14 14 13 12 14 14 14
+
+140 0 Hit 10
+Line address: 640
+Line reuse:   2 5 0 0 0 0
+Way scores:   15 15 14 14 14 12 14 14 14 14 14 13 12 14 14 14
+
+141 0 Miss Replace 5
+Line address: 16384
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 14 14 14 0 14 14 14 14 14 13 12 14 14 14
+
+142 0 Miss Replace 5
+Line address: 49856
+Line reuse:   0 1 1 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 13 12 14 14 14
+
+143 0 Miss Replace 12
+Line address: 49280
+Line reuse:   0 1 0 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 12 14 14 14 14
+
+144 0 Hit 13
+Line address: 832
+Line reuse:   7 3 0 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 12 14 14 14 14
+
+145 0 Hit 11
+Line address: 33408
+Line reuse:   1 1 1 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 13 14 14 14 14
+
+146 0 Miss Replace 5
+Line address: 16576
+Line reuse:   0 1 1 0 0 0
+Way scores:   15 15 14 14 14 13 14 14 14 14 14 13 14 14 14 14
+
+147 0 Miss Replace 5
+Line address: 33216
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 15 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+148 0 Hit 7
+Line address: 896
+Line reuse:   6 3 0 0 0 0
+Way scores:   15 15 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+149 0 Miss Replace 11
+Line address: 33344
+Line reuse:   0 1 1 0 0 0
+Way scores:   15 15 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+150 0 Miss Replace 11
+Line address: 50112
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 14 14 14 15 14 14 14 14 14 0 14 14 14 14
+
+151 0 Miss Replace 11
+Line address: 33536
+Line reuse:   0 0 1 0 0 0
+Way scores:   15 15 14 14 14 15 14 14 14 14 14 12 14 14 14 14
+
+152 0 Hit 12
+Line address: 49280
+Line reuse:   1 1 0 0 0 0
+Way scores:   15 15 14 14 14 15 14 14 14 14 14 12 14 14 14 14
+
+153 0 Miss Replace 11
+Line address: 49856
+Line reuse:   1 1 1 0 0 0
+Way scores:   0 0 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+154 0 Miss Replace 0
+Line address: 33344
+Line reuse:   1 1 1 0 0 0
+Way scores:   13 0 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+155 0 Hit 4
+Line address: 896
+Line reuse:   7 3 0 0 0 0
+Way scores:   13 0 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+156 0 Hit 7
+Line address: 896
+Line reuse:   8 3 0 0 0 0
+Way scores:   13 0 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+157 0 Hit 1
+Line address: 33600
+Line reuse:   4 1 0 0 0 0
+Way scores:   13 14 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+158 0 Miss Replace 0
+Line address: 576
+Line reuse:   1 0 0 0 1 0
+Way scores:   12 14 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+159 0 Miss Replace 0
+Line address: 49472
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+160 0 Hit 14
+Line address: 896
+Line reuse:   9 3 0 0 0 0
+Way scores:   0 14 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+161 0 Hit 1
+Line address: 33600
+Line reuse:   5 1 0 0 0 0
+Way scores:   0 14 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+162 0 Miss Replace 0
+Line address: 17152
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 14 14 14 15 14 14 14 14 14 13 14 14 14 14
+
+163 0 Miss Replace 0
+Line address: 64
+Line reuse:   0 0 0 2 0 0
+Way scores:   10 14 14 14 14 0 14 14 14 14 14 13 14 14 14 14
+
+164 0 Miss Replace 5
+Line address: 17024
+Line reuse:   0 0 0 0 0 0
+Way scores:   10 14 14 14 14 0 14 14 14 14 14 13 14 14 14 14
+
+165 0 Hit 14
+Line address: 896
+Line reuse:   10 3 0 0 0 0
+Way scores:   10 14 14 14 14 0 14 14 14 14 14 13 14 14 14 14
+
+166 0 Miss Replace 5
+Line address: 32768
+Line reuse:   0 0 1 1 0 0
+Way scores:   10 14 0 14 14 11 14 14 14 14 14 13 14 14 14 0
+
+167 0 Miss Replace 2
+Line address: 33280
+Line reuse:   2 0 0 1 0 0
+Way scores:   10 14 13 14 14 11 14 14 14 14 14 13 14 14 14 0
+
+168 0 Miss Replace 15
+Line address: 256
+Line reuse:   0 0 0 0 1 0
+Way scores:   10 14 13 14 14 11 14 14 14 14 14 13 14 14 14 9
+
+169 0 Miss Replace 15
+Line address: 17344
+Line reuse:   0 0 0 0 0 0
+Way scores:   10 14 13 14 14 11 14 14 14 14 14 13 14 14 14 0
+
+170 0 Miss Replace 15
+Line address: 49920
+Line reuse:   0 2 0 1 0 0
+Way scores:   10 14 13 14 14 11 14 14 14 14 14 13 14 14 14 12
+
+171 0 Miss Replace 0
+Line address: 384
+Line reuse:   0 0 0 2 0 0
+Way scores:   10 14 13 14 14 11 0 14 14 14 14 13 14 14 14 12
+
+172 0 Miss Replace 6
+Line address: 33664
+Line reuse:   0 0 0 0 1 0
+Way scores:   10 14 13 14 14 11 9 14 14 0 0 13 14 14 14 12
+
+173 0 Hit 15
+Line address: 49920
+Line reuse:   1 2 0 1 0 0
+Way scores:   10 14 13 14 14 11 9 14 14 0 0 13 14 14 14 13
+
+174 0 Hit 8
+Line address: 896
+Line reuse:   11 3 0 0 0 0
+Way scores:   10 14 13 14 14 11 9 14 14 0 0 13 14 14 14 13
+
+175 0 Miss Replace 9
+Line address: 49280
+Line reuse:   1 2 0 0 0 0
+Way scores:   10 14 13 14 14 11 9 14 14 14 0 13 14 14 14 13
+
+176 0 Miss Replace 10
+Line address: 384
+Line reuse:   1 0 0 2 0 0
+Way scores:   11 14 13 0 14 11 9 14 14 14 11 13 14 0 14 13
+
+177 0 Hit 6
+Line address: 33664
+Line reuse:   1 0 0 0 1 0
+Way scores:   11 14 13 0 14 11 12 14 14 14 11 13 14 0 14 13
+
+178 0 Miss Replace 3
+Line address: 49344
+Line reuse:   0 0 0 1 0 0
+Way scores:   11 14 13 10 14 11 12 14 14 14 11 13 14 0 14 13
+
+179 0 Hit 0
+Line address: 384
+Line reuse:   2 0 0 2 0 0
+Way scores:   12 14 13 10 14 11 12 14 14 14 12 13 14 0 14 13
+
+180 0 Miss Replace 13
+Line address: 576
+Line reuse:   1 1 0 0 1 0
+Way scores:   12 14 13 10 14 11 12 14 14 14 12 13 14 12 14 13
+
+181 0 Miss Replace 3
+Line address: 896
+Line reuse:   12 3 0 0 0 0
+Way scores:   12 14 13 14 14 11 12 14 14 14 12 13 14 12 14 13
+
+182 0 Hit 2
+Line address: 33280
+Line reuse:   3 0 0 1 0 0
+Way scores:   12 14 13 14 14 11 12 14 14 14 12 13 14 12 14 13
+
+183 0 Hit 14
+Line address: 896
+Line reuse:   13 3 0 0 0 0
+Way scores:   12 14 13 14 14 11 12 14 14 14 12 13 14 12 14 13
+
+184 0 Hit 11
+Line address: 49856
+Line reuse:   1 2 1 0 0 0
+Way scores:   12 14 13 14 14 11 12 14 14 14 12 13 14 12 14 13
+
+185 0 Miss Replace 5
+Line address: 49536
+Line reuse:   0 0 0 0 0 0
+Way scores:   12 14 13 14 14 0 12 14 14 14 12 13 14 12 14 13
+
+186 0 Hit 10
+Line address: 384
+Line reuse:   3 0 0 2 0 0
+Way scores:   13 14 13 14 14 0 12 14 14 14 13 13 14 12 14 13
+
+187 0 Hit 10
+Line address: 384
+Line reuse:   4 0 0 2 0 0
+Way scores:   13 14 13 14 14 0 12 14 14 14 13 13 14 12 14 13
+
+188 0 Hit 9
+Line address: 49280
+Line reuse:   2 2 0 0 0 0
+Way scores:   13 14 13 14 14 0 12 14 14 14 13 13 14 12 14 13
+
+189 0 Miss Replace 5
+Line address: 320
+Line reuse:   1 1 3 0 0 0
+Way scores:   13 14 13 14 14 13 12 14 14 14 13 13 14 12 14 12
+
+190 0 Miss Replace 6
+Line address: 49984
+Line reuse:   0 1 0 1 0 0
+Way scores:   13 14 13 14 14 13 12 14 14 14 13 13 14 12 14 12
+
+191 0 Miss Replace 6
+Line address: 49792
+Line reuse:   0 0 0 0 1 0
+Way scores:   13 14 13 14 14 13 9 14 14 14 13 13 14 12 14 12
+
+192 0 Miss Replace 6
+Line address: 16512
+Line reuse:   0 0 0 0 1 0
+Way scores:   13 14 13 14 14 13 9 14 14 14 13 13 14 12 14 12
+
+193 0 Hit 12
+Line address: 49280
+Line reuse:   3 2 0 0 0 0
+Way scores:   13 0 13 14 14 13 9 14 14 14 13 13 14 12 14 12
+
+194 0 Miss Replace 1
+Line address: 33408
+Line reuse:   1 1 2 0 0 0
+Way scores:   13 13 13 14 14 13 9 14 14 14 13 13 14 12 14 12
+
+195 0 Hit 5
+Line address: 320
+Line reuse:   2 1 3 0 0 0
+Way scores:   13 13 13 14 14 13 9 14 14 14 13 13 14 12 14 12
+
+196 0 Miss Replace 6
+Line address: 16832
+Line reuse:   0 0 0 0 0 0
+Way scores:   13 13 13 14 14 13 0 14 14 14 13 13 14 11 14 12
+
+197 0 Hit 4
+Line address: 896
+Line reuse:   14 3 0 0 0 0
+Way scores:   13 13 13 14 14 13 0 14 14 14 13 13 14 11 14 12
+
+198 0 Miss Replace 6
+Line address: 17344
+Line reuse:   0 1 0 0 0 0
+Way scores:   13 13 10 14 14 13 14 14 14 14 13 13 14 11 14 12
+
+199 0 Miss Replace 2
+Line address: 17344
+Line reuse:   1 1 0 0 0 0
+Way scores:   13 13 14 14 14 13 14 14 14 14 13 13 14 11 14 12
+
+200 0 Hit 8
+Line address: 896
+Line reuse:   15 3 0 0 0 0
+Way scores:   13 13 14 14 14 13 14 14 14 14 13 13 14 11 14 12
+
+201 0 Hit 3
+Line address: 896
+Line reuse:   8 1 0 0 0 0
+Way scores:   13 13 14 14 14 13 14 14 14 14 13 13 14 11 14 12
+
+202 0 Miss Replace 13
+Line address: 49856
+Line reuse:   1 3 1 0 0 0
+Way scores:   13 13 14 14 14 13 14 14 14 14 13 13 14 13 14 12
+
+203 0 Miss Replace 15
+Line address: 49856
+Line reuse:   2 3 1 0 0 0
+Way scores:   10 13 14 14 14 13 14 14 14 14 10 14 14 14 14 14
+
+204 0 Hit 13
+Line address: 49856
+Line reuse:   3 3 1 0 0 0
+Way scores:   10 13 14 14 14 13 14 14 14 14 10 14 14 14 14 14
+
+205 0 Miss Replace 0
+Line address: 17280
+Line reuse:   1 0 1 1 0 0
+Way scores:   12 13 14 14 14 13 14 14 14 14 10 14 14 14 14 14
+
+206 0 Miss Replace 10
+Line address: 256
+Line reuse:   0 0 1 0 1 0
+Way scores:   12 13 14 14 14 13 14 14 14 14 10 14 14 14 14 14
+
+207 0 Miss Replace 10
+Line address: 512
+Line reuse:   0 0 2 1 0 0
+Way scores:   12 13 14 14 14 13 14 14 14 14 11 14 14 14 14 14
+
+208 0 Miss Replace 10
+Line address: 49920
+Line reuse:   1 2 1 1 0 0
+Way scores:   12 13 14 14 14 13 14 14 14 14 13 14 14 14 14 14
+
+209 0 Miss Replace 0
+Line address: 49344
+Line reuse:   0 1 0 1 0 0
+Way scores:   12 13 14 14 14 13 14 14 14 14 13 14 14 14 14 14
+
+210 0 Miss Replace 0
+Line address: 49984
+Line reuse:   0 2 0 1 0 0
+Way scores:   12 12 14 14 14 13 14 14 14 14 13 14 14 14 14 14
+
+211 0 Miss Replace 0
+Line address: 16640
+Line reuse:   0 0 1 1 0 0
+Way scores:   11 12 14 14 14 12 14 14 14 14 13 14 14 14 14 14
+
+212 0 Miss Replace 0
+Line address: 17216
+Line reuse:   0 0 0 0 1 0
+Way scores:   9 12 14 14 14 12 14 14 14 14 13 14 14 14 14 14
+
+213 0 Hit 1
+Line address: 33408
+Line reuse:   1 2 2 0 0 0
+Way scores:   9 13 14 14 14 12 14 14 14 14 13 14 14 14 14 14
+
+214 0 Hit 14
+Line address: 896
+Line reuse:   9 1 0 0 0 0
+Way scores:   9 13 14 14 14 12 14 14 14 14 13 14 14 14 14 14
+
+215 0 Miss Replace 0
+Line address: 17088
+Line reuse:   3 2 0 1 0 0
+Way scores:   13 13 14 14 14 12 14 14 14 14 13 14 14 14 14 14
+
+216 0 Hit 11
+Line address: 49856
+Line reuse:   4 3 1 0 0 0
+Way scores:   13 13 14 14 14 12 14 14 14 14 13 14 14 14 14 14
+
+217 0 Hit 14
+Line address: 896
+Line reuse:   10 1 0 0 0 0
+Way scores:   13 13 14 14 14 12 14 14 14 14 13 14 14 14 14 14
+
+218 0 Miss Replace 5
+Line address: 33216
+Line reuse:   1 0 0 1 0 0
+Way scores:   13 13 14 14 14 12 14 14 14 14 13 14 14 14 14 14
+
+219 0 Miss Replace 5
+Line address: 16896
+Line reuse:   0 0 1 1 0 0
+Way scores:   13 13 14 14 14 11 14 14 14 14 13 14 14 14 14 14
+
+220 0 Hit 5
+Line address: 16896
+Line reuse:   1 0 1 1 0 0
+Way scores:   13 13 14 14 14 12 14 14 14 14 13 14 14 14 14 14
+
+221 0 Miss Replace 5
+Line address: 16704
+Line reuse:   0 0 0 0 1 0
+Way scores:   13 13 14 14 14 9 14 14 14 14 13 14 14 14 14 14
+
+222 0 Miss Replace 5
+Line address: 16512
+Line reuse:   0 1 0 0 1 0
+Way scores:   13 13 14 14 14 11 14 14 14 14 13 14 14 14 14 14
+
+223 0 Hit 8
+Line address: 896
+Line reuse:   11 1 0 0 0 0
+Way scores:   13 13 14 14 14 11 14 14 14 14 13 14 14 14 14 14
+
+224 0 Hit 0
+Line address: 17088
+Line reuse:   4 2 0 1 0 0
+Way scores:   14 13 14 14 14 11 14 14 14 14 12 14 14 14 14 14
+
+225 0 Miss Replace 5
+Line address: 49472
+Line reuse:   0 0 0 1 0 0
+Way scores:   14 13 14 14 14 10 14 14 14 0 12 14 0 14 14 14
+
+226 0 Hit 5
+Line address: 49472
+Line reuse:   1 0 0 1 0 0
+Way scores:   14 13 14 14 14 12 14 14 14 0 12 14 0 14 14 14
+
+227 0 Miss Replace 9
+Line address: 16960
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 13 14 14 14 12 14 14 14 0 12 14 0 14 14 14
+
+228 0 Miss Replace 9
+Line address: 0
+Line reuse:   0 0 2 0 1 0
+Way scores:   14 13 14 14 14 12 14 14 14 11 12 14 0 14 14 14
+
+229 0 Hit 11
+Line address: 49856
+Line reuse:   5 3 1 0 0 0
+Way scores:   14 13 14 14 14 12 14 14 14 11 12 14 0 14 14 14
+
+230 0 Miss Replace 12
+Line address: 192
+Line reuse:   0 1 0 1 1 0
+Way scores:   14 13 14 14 14 12 14 14 14 11 12 14 11 14 14 14
+
+231 0 Hit 0
+Line address: 17088
+Line reuse:   5 2 0 1 0 0
+Way scores:   14 13 0 14 14 12 0 14 14 11 12 14 11 14 14 14
+
+232 0 Hit 6
+Line address: 17344
+Line reuse:   1 1 1 0 0 0
+Way scores:   14 13 13 14 14 12 13 14 14 11 12 14 11 14 14 14
+
+233 0 Hit 11
+Line address: 49856
+Line reuse:   6 3 1 0 0 0
+Way scores:   14 13 13 14 14 12 13 14 14 11 12 14 11 14 14 14
+
+234 0 Hit 12
+Line address: 192
+Line reuse:   1 1 0 1 1 0
+Way scores:   14 13 13 14 14 12 13 14 14 11 12 14 12 14 14 14
+
+235 0 Hit 15
+Line address: 49856
+Line reuse:   7 3 1 0 0 0
+Way scores:   14 13 13 14 14 12 13 14 14 11 12 14 12 14 14 14
+
+236 0 Miss Replace 9
+Line address: 16768
+Line reuse:   0 0 0 1 1 0
+Way scores:   14 13 13 14 14 12 13 14 14 9 12 14 12 14 14 14
+
+237 0 Hit 8
+Line address: 896
+Line reuse:   12 1 0 0 0 0
+Way scores:   14 13 13 14 14 12 13 14 14 9 12 14 12 14 14 14
+
+238 0 Miss Replace 9
+Line address: 16832
+Line reuse:   0 0 1 0 0 0
+Way scores:   14 13 13 14 14 12 13 14 14 12 12 14 12 14 14 14
+
+239 0 Hit 3
+Line address: 896
+Line reuse:   13 1 0 0 0 0
+Way scores:   14 13 13 14 14 12 13 14 14 12 12 14 12 14 14 14
+
+240 0 Hit 13
+Line address: 49856
+Line reuse:   8 3 1 0 0 0
+Way scores:   14 13 13 14 14 12 13 14 14 12 11 14 12 14 14 14
+
+241 0 Hit 7
+Line address: 896
+Line reuse:   14 1 0 0 0 0
+Way scores:   14 13 13 14 14 12 13 14 14 12 11 14 12 14 14 14
+
+242 0 Miss Replace 10
+Line address: 448
+Line reuse:   1 0 0 0 1 0
+Way scores:   14 13 13 14 14 10 13 14 14 12 12 14 12 14 14 14
+
+243 0 Miss Replace 5
+Line address: 33472
+Line reuse:   5 2 0 1 0 0
+Way scores:   14 13 13 14 14 14 13 14 14 12 12 14 12 14 14 14
+
+244 0 Miss Replace 9
+Line address: 16640
+Line reuse:   0 0 2 1 0 0
+Way scores:   14 13 13 14 14 14 13 14 14 11 12 14 12 14 14 14
+
+245 0 Miss Replace 9
+Line address: 49600
+Line reuse:   4 2 0 1 0 0
+Way scores:   14 12 13 14 14 14 13 14 14 14 12 14 12 14 14 14
+
+246 0 Miss Replace 1
+Line address: 16448
+Line reuse:   0 0 0 1 0 0
+Way scores:   14 10 13 14 14 14 13 14 14 14 12 14 12 14 14 14
+
+247 0 Hit 13
+Line address: 49856
+Line reuse:   9 3 1 0 0 0
+Way scores:   12 10 13 14 14 14 13 14 14 14 12 14 12 14 14 14
+
+248 0 Miss Replace 1
+Line address: 16960
+Line reuse:   0 1 0 0 0 0
+Way scores:   12 14 13 14 14 14 13 14 14 14 12 14 12 14 14 14
+
+249 0 Miss Replace 0
+Line address: 16384
+Line reuse:   0 0 0 1 0 0
+Way scores:   10 14 13 14 14 14 13 14 14 14 12 14 12 14 14 14
+
+250 0 Miss Replace 0
+Line address: 17280
+Line reuse:   1 0 2 1 0 0
+Way scores:   12 14 13 14 14 14 13 14 14 14 12 14 11 14 14 14
+
+251 0 Miss Replace 12
+Line address: 49728
+Line reuse:   0 0 0 0 1 0
+Way scores:   12 14 13 14 14 14 13 14 14 14 12 14 9 14 14 14
+
+252 0 Miss Replace 12
+Line address: 704
+Line reuse:   3 2 0 0 1 0
+Way scores:   12 14 13 14 14 14 13 14 14 14 12 14 13 14 14 14
+
+253 0 Miss Replace 0
+Line address: 49792
+Line reuse:   0 0 1 0 1 0
+Way scores:   10 14 13 14 14 14 13 14 14 14 12 14 13 14 14 14
+
+254 0 Miss Replace 0
+Line address: 16832
+Line reuse:   1 0 1 0 0 0
+Way scores:   13 14 13 14 14 14 13 14 14 14 12 14 13 14 14 14
+
+255 0 Hit 8
+Line address: 896
+Line reuse:   15 1 0 0 0 0
+Way scores:   13 14 13 14 14 14 13 14 14 14 12 14 13 14 14 14
+
+256 0 Hit 11
+Line address: 49856
+Line reuse:   10 3 1 0 0 0
+Way scores:   13 14 13 14 14 14 13 14 14 14 12 14 13 14 14 14
+
+257 0 Miss Replace 10
+Line address: 16768
+Line reuse:   0 1 0 1 1 0
+Way scores:   13 14 13 14 14 14 13 14 14 14 11 14 13 14 14 14
+
+258 0 Hit 14
+Line address: 896
+Line reuse:   8 0 0 0 0 0
+Way scores:   13 14 13 15 15 14 13 15 15 14 11 14 13 14 15 14
+
+259 0 Hit 4
+Line address: 896
+Line reuse:   9 0 0 0 0 0
+Way scores:   13 14 13 15 15 12 13 15 15 14 11 14 13 14 15 14
+
+260 0 Miss Replace 10
+Line address: 16704
+Line reuse:   0 0 1 0 1 0
+Way scores:   13 14 13 15 15 12 13 15 15 14 10 14 13 14 15 14
+
+261 0 Miss Replace 10
+Line address: 16960
+Line reuse:   1 1 0 0 0 0
+Way scores:   13 14 13 15 15 12 13 15 15 12 14 14 13 14 15 14
+
+262 0 Hit 2
+Line address: 17344
+Line reuse:   1 2 1 0 0 0
+Way scores:   13 14 13 15 15 12 13 15 15 12 14 14 13 14 15 14
+
+263 0 Miss Replace 5
+Line address: 33408
+Line reuse:   1 2 3 0 0 0
+Way scores:   13 14 13 15 15 13 13 15 15 12 14 14 13 14 15 14
+
+264 0 Miss Replace 9
+Line address: 33024
+Line reuse:   0 0 0 0 0 0
+Way scores:   13 14 13 15 15 13 13 15 15 0 14 14 13 14 15 14
+
+265 0 Miss Replace 9
+Line address: 50048
+Line reuse:   0 0 0 0 1 0
+Way scores:   13 14 13 15 15 13 13 15 15 9 14 14 13 14 15 14
+
+266 0 Miss Replace 9
+Line address: 17152
+Line reuse:   0 0 0 1 0 0
+Way scores:   13 14 13 15 15 13 13 15 15 10 14 14 13 14 15 14
+
+267 0 Hit 9
+Line address: 17152
+Line reuse:   1 0 0 1 0 0
+Way scores:   13 14 13 15 15 13 13 15 15 12 14 14 13 14 15 14
+
+268 0 Hit 1
+Line address: 16960
+Line reuse:   2 1 0 0 0 0
+Way scores:   13 14 13 15 15 13 13 15 15 12 14 14 12 14 15 14
+
+269 0 Miss Replace 9
+Line address: 16576
+Line reuse:   0 1 1 1 0 0
+Way scores:   13 14 13 15 15 13 13 15 15 12 14 14 12 14 15 14
+
+270 0 Miss Replace 9
+Line address: 32960
+Line reuse:   2 0 0 0 1 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 12 14 15 14
+
+271 0 Hit 8
+Line address: 896
+Line reuse:   10 0 0 0 0 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 12 14 15 14
+
+272 0 Hit 12
+Line address: 704
+Line reuse:   3 3 0 0 1 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 13 13 13 15 13
+
+273 0 Miss Replace 0
+Line address: 16448
+Line reuse:   0 1 0 1 0 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 13 13 13 15 13
+
+274 0 Hit 13
+Line address: 49856
+Line reuse:   10 4 1 0 0 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+275 0 Hit 15
+Line address: 49856
+Line reuse:   11 4 1 0 0 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+276 0 Hit 11
+Line address: 49856
+Line reuse:   12 4 1 0 0 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+277 0 Hit 11
+Line address: 49856
+Line reuse:   13 4 1 0 0 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+278 0 Miss Replace 0
+Line address: 16704
+Line reuse:   0 1 1 0 1 0
+Way scores:   11 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+279 0 Hit 6
+Line address: 17344
+Line reuse:   1 3 1 0 0 0
+Way scores:   11 14 13 15 15 12 13 15 15 13 14 14 13 14 15 14
+
+280 0 Miss Replace 0
+Line address: 49600
+Line reuse:   4 2 1 1 0 0
+Way scores:   13 14 13 15 15 12 13 15 15 13 14 14 13 14 15 14
+
+281 0 Hit 2
+Line address: 17344
+Line reuse:   2 3 1 0 0 0
+Way scores:   13 14 14 15 15 12 14 15 15 13 14 14 13 14 15 14
+
+282 0 Hit 7
+Line address: 896
+Line reuse:   11 0 0 0 0 0
+Way scores:   13 14 14 15 15 12 14 15 15 13 14 14 13 14 15 14
+
+283 0 Miss Replace 5
+Line address: 49728
+Line reuse:   0 1 0 0 1 0
+Way scores:   13 14 14 15 15 11 14 15 15 13 14 14 13 14 15 14
+
+284 0 Miss Replace 5
+Line address: 640
+Line reuse:   2 5 0 0 1 0
+Way scores:   13 14 14 15 15 13 14 15 15 13 14 14 13 14 15 14
+
+285 0 Miss Replace 0
+Line address: 768
+Line reuse:   4 2 1 0 1 0
+Way scores:   13 14 14 15 15 13 14 15 15 13 14 14 13 14 15 14
+
+286 0 Miss Replace 0
+Line address: 16384
+Line reuse:   0 0 1 1 0 0
+Way scores:   11 14 14 15 15 13 14 15 15 9 14 14 13 14 15 14
+
+287 0 Miss Replace 9
+Line address: 33536
+Line reuse:   0 0 1 0 1 0
+Way scores:   11 14 14 15 15 13 14 15 15 10 14 14 13 14 15 14
+
+288 0 Hit 13
+Line address: 49856
+Line reuse:   14 4 1 0 0 0
+Way scores:   11 14 14 15 15 13 14 15 15 10 14 14 12 14 15 14
+
+289 0 Miss Replace 9
+Line address: 49344
+Line reuse:   0 1 0 2 0 0
+Way scores:   11 14 14 15 15 13 14 15 15 11 14 14 12 14 15 14
+
+290 0 Hit 12
+Line address: 704
+Line reuse:   3 4 0 0 1 0
+Way scores:   11 14 14 15 15 13 14 15 15 11 14 14 13 14 15 14
+
+291 0 Hit 11
+Line address: 49856
+Line reuse:   15 4 1 0 0 0
+Way scores:   11 14 14 15 15 13 14 15 15 11 14 14 13 14 15 14
+
+292 0 Hit 5
+Line address: 640
+Line reuse:   3 5 0 0 1 0
+Way scores:   11 14 14 15 15 13 14 15 15 11 14 14 13 14 15 14
+
+293 0 Hit 7
+Line address: 896
+Line reuse:   12 0 0 0 0 0
+Way scores:   11 14 14 15 15 13 14 15 15 11 14 14 13 14 15 14
+
+294 0 Hit 5
+Line address: 640
+Line reuse:   4 5 0 0 1 0
+Way scores:   11 14 14 15 15 13 14 15 15 11 14 14 13 14 15 14
+
+295 0 Miss Replace 0
+Line address: 17280
+Line reuse:   1 0 3 1 0 0
+Way scores:   12 14 14 15 15 13 14 15 15 11 14 14 13 14 15 14
+
+296 0 Miss Replace 9
+Line address: 49664
+Line reuse:   0 0 0 0 1 0
+Way scores:   12 14 14 15 15 13 14 15 15 9 14 14 13 14 15 14
+
+297 0 Miss Replace 9
+Line address: 33472
+Line reuse:   5 2 1 1 0 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+298 0 Hit 7
+Line address: 896
+Line reuse:   13 0 0 0 0 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+299 0 Hit 10
+Line address: 16960
+Line reuse:   2 2 0 0 0 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+300 0 Hit 13
+Line address: 49856
+Line reuse:   8 2 0 0 0 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+301 0 Hit 12
+Line address: 704
+Line reuse:   4 4 0 0 1 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+302 0 Miss Replace 0
+Line address: 768
+Line reuse:   4 3 1 0 1 0
+Way scores:   13 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+303 0 Hit 3
+Line address: 896
+Line reuse:   14 0 0 0 0 0
+Way scores:   13 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+304 0 Miss Replace 0
+Line address: 128
+Line reuse:   0 0 0 0 0 1
+Way scores:   1 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+305 0 Miss Replace 0
+Line address: 960
+Line reuse:   2 0 0 0 0 1
+Way scores:   10 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+306 0 Hit 8
+Line address: 896
+Line reuse:   15 0 0 0 0 0
+Way scores:   10 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+307 0 Hit 13
+Line address: 49856
+Line reuse:   9 2 0 0 0 0
+Way scores:   10 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+308 0 Hit 7
+Line address: 896
+Line reuse:   8 0 0 0 0 0
+Way scores:   10 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+309 0 Hit 11
+Line address: 49856
+Line reuse:   10 2 0 0 0 0
+Way scores:   10 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+310 0 Hit 1
+Line address: 16960
+Line reuse:   3 2 0 0 0 0
+Way scores:   10 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+311 0 Hit 4
+Line address: 896
+Line reuse:   9 0 0 0 0 0
+Way scores:   10 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+312 0 Miss Replace 0
+Line address: 320
+Line reuse:   2 1 3 1 0 0
+Way scores:   12 14 13 15 15 13 13 15 15 13 14 14 13 14 15 14
+
+313 0 Hit 11
+Line address: 49856
+Line reuse:   11 2 0 0 0 0
+Way scores:   12 14 12 15 15 13 12 15 15 12 14 14 13 14 15 14
+
+314 0 Miss Replace 0
+Line address: 17280
+Line reuse:   1 1 3 1 0 0
+Way scores:   12 14 12 15 15 13 12 15 15 12 14 14 13 14 15 14
+
+315 0 Miss Replace 0
+Line address: 512
+Line reuse:   0 0 2 2 0 0
+Way scores:   11 14 12 15 15 13 12 15 15 12 14 14 13 14 15 14
+
+316 0 Miss Replace 0
+Line address: 49920
+Line reuse:   1 2 1 2 0 0
+Way scores:   12 14 12 15 15 13 12 15 15 12 14 14 13 14 15 14
+
+317 0 Miss Replace 0
+Line address: 49408
+Line reuse:   0 0 0 0 1 0
+Way scores:   9 14 12 15 15 13 12 15 15 12 14 14 13 14 15 14
+
+318 0 Miss Replace 0
+Line address: 50048
+Line reuse:   0 0 1 0 1 0
+Way scores:   10 14 12 15 15 13 12 15 15 12 14 14 13 14 15 14
+
+319 0 Miss Replace 0
+Line address: 49728
+Line reuse:   0 1 1 0 1 0
+Way scores:   11 14 12 15 15 13 12 15 15 12 14 14 13 14 15 14
+
+320 0 Miss Replace 0
+Line address: 512
+Line reuse:   1 0 2 2 0 0
+Way scores:   11 14 12 15 15 13 12 15 15 12 14 14 13 14 15 14
+
+321 0 Hit 2
+Line address: 17344
+Line reuse:   2 3 2 0 0 0
+Way scores:   11 14 13 15 15 13 13 15 15 12 14 14 13 14 15 14
+
+322 0 Miss Replace 0
+Line address: 16384
+Line reuse:   0 0 2 1 0 0
+Way scores:   11 14 13 15 15 13 13 15 15 12 14 14 13 14 15 14
+
+323 0 Hit 4
+Line address: 896
+Line reuse:   10 0 0 0 0 0
+Way scores:   11 14 13 15 15 13 13 15 15 12 14 14 13 14 15 14
+
+324 0 Hit 6
+Line address: 17344
+Line reuse:   3 3 2 0 0 0
+Way scores:   11 14 13 15 15 13 13 15 15 12 14 14 13 14 15 14
+
+325 0 Miss Replace 0
+Line address: 33408
+Line reuse:   1 2 4 0 0 0
+Way scores:   13 14 13 15 15 13 13 15 15 12 14 14 13 14 15 14
+
+326 0 Miss Replace 9
+Line address: 32832
+Line reuse:   0 0 0 0 0 1
+Way scores:   13 14 13 15 15 9 13 15 15 1 14 14 13 14 15 14
+
+327 0 Miss Replace 9
+Line address: 33024
+Line reuse:   0 0 1 0 0 0
+Way scores:   13 14 13 15 15 9 13 15 15 12 14 14 13 14 15 14
+
+328 0 Hit 14
+Line address: 896
+Line reuse:   11 0 0 0 0 0
+Way scores:   13 14 13 15 15 9 13 15 15 12 14 14 13 14 15 14
+
+329 0 Hit 11
+Line address: 49856
+Line reuse:   12 2 0 0 0 0
+Way scores:   13 14 13 15 15 9 13 15 15 12 14 14 13 14 15 14
+
+330 0 Hit 9
+Line address: 33024
+Line reuse:   1 0 1 0 0 0
+Way scores:   13 14 13 15 15 9 13 15 15 13 14 14 13 14 15 14
+
+331 0 Miss Replace 5
+Line address: 17216
+Line reuse:   0 0 0 1 1 0
+Way scores:   13 14 13 15 15 9 13 15 15 13 14 14 13 14 15 14
+
+332 0 Miss Replace 5
+Line address: 32832
+Line reuse:   1 0 0 0 0 1
+Way scores:   13 14 13 15 15 8 13 15 15 13 14 14 13 14 15 14
+
+333 0 Miss Replace 5
+Line address: 49984
+Line reuse:   0 2 0 2 0 0
+Way scores:   13 14 13 15 15 12 13 15 15 13 14 14 9 14 15 14
+
+334 0 Hit 4
+Line address: 896
+Line reuse:   12 0 0 0 0 0
+Way scores:   13 14 13 15 15 12 13 15 15 13 14 14 9 14 15 14
+
+335 0 Miss Replace 12
+Line address: 17024
+Line reuse:   0 0 0 0 1 0
+Way scores:   13 14 13 15 15 12 13 15 15 13 14 14 9 14 15 14
+
+336 0 Miss Replace 12
+Line address: 17344
+Line reuse:   4 3 2 0 0 0
+Way scores:   13 14 14 15 15 12 14 15 15 13 14 14 14 14 15 14
+
+337 0 Miss Replace 5
+Line address: 33344
+Line reuse:   1 1 1 0 1 0
+Way scores:   13 14 14 15 15 12 14 15 15 13 14 14 14 14 15 14
+
+338 0 Hit 4
+Line address: 896
+Line reuse:   13 0 0 0 0 0
+Way scores:   13 14 14 15 15 12 14 15 15 13 14 14 14 14 15 14
+
+339 0 Hit 9
+Line address: 33024
+Line reuse:   2 0 1 0 0 0
+Way scores:   13 14 14 15 15 12 14 15 15 14 14 14 14 14 15 14
+
+340 0 Miss Replace 5
+Line address: 640
+Line reuse:   4 5 1 0 1 0
+Way scores:   13 14 14 15 15 13 14 15 15 14 14 14 14 14 15 14
+
+341 0 Miss Replace 0
+Line address: 64
+Line reuse:   0 0 0 2 1 0
+Way scores:   9 14 14 15 15 13 14 15 15 14 14 14 14 14 15 14
+
+342 0 Miss Replace 0
+Line address: 16384
+Line reuse:   0 1 2 1 0 0
+Way scores:   12 0 14 15 15 13 14 15 15 14 0 14 14 14 15 14
+
+343 0 Hit 0
+Line address: 16384
+Line reuse:   1 1 2 1 0 0
+Way scores:   12 0 14 15 15 13 14 15 15 14 0 14 14 14 15 14
+
+344 0 Hit 3
+Line address: 896
+Line reuse:   14 0 0 0 0 0
+Way scores:   12 0 14 15 15 13 14 15 15 14 0 14 14 14 15 14
+
+345 0 Miss Replace 1
+Line address: 33408
+Line reuse:   1 3 4 0 0 0
+Way scores:   12 13 14 15 15 13 14 15 15 14 0 14 14 14 15 14
+
+346 0 Miss Replace 10
+Line address: 33472
+Line reuse:   5 2 2 1 0 0
+Way scores:   12 13 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+347 0 Miss Replace 0
+Line address: 33024
+Line reuse:   3 0 1 0 0 0
+Way scores:   14 13 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+348 0 Hit 13
+Line address: 49856
+Line reuse:   12 3 0 0 0 0
+Way scores:   14 13 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+349 0 Miss Replace 1
+Line address: 832
+Line reuse:   7 3 0 0 1 0
+Way scores:   14 14 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+350 0 Hit 7
+Line address: 896
+Line reuse:   15 0 0 0 0 0
+Way scores:   14 14 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+351 0 Miss Replace 5
+Line address: 16896
+Line reuse:   1 0 1 1 1 0
+Way scores:   14 14 14 15 15 11 14 15 15 14 13 14 14 14 15 14
+
+352 0 Miss Replace 5
+Line address: 33344
+Line reuse:   2 1 1 0 1 0
+Way scores:   14 14 13 15 15 13 13 15 15 14 13 14 13 14 15 14
+
+353 0 Miss Replace 2
+Line address: 17344
+Line reuse:   4 4 2 0 0 0
+Way scores:   14 14 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+354 0 Miss Replace 5
+Line address: 512
+Line reuse:   1 0 3 2 0 0
+Way scores:   14 14 14 15 15 11 14 15 15 14 13 14 14 14 15 14
+
+355 0 Miss Replace 5
+Line address: 768
+Line reuse:   4 3 2 0 1 0
+Way scores:   14 14 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+356 0 Hit 6
+Line address: 17344
+Line reuse:   5 4 2 0 0 0
+Way scores:   14 14 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+357 0 Miss Replace 5
+Line address: 640
+Line reuse:   4 6 1 0 1 0
+Way scores:   14 14 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+358 0 Hit 6
+Line address: 17344
+Line reuse:   6 4 2 0 0 0
+Way scores:   14 14 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+359 0 Miss Replace 5
+Line address: 49600
+Line reuse:   4 2 1 2 0 0
+Way scores:   14 14 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+360 0 Miss Replace 5
+Line address: 32896
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 14 14 15 15 0 14 15 15 14 13 14 14 14 15 14
+
+361 0 Miss Replace 5
+Line address: 33344
+Line reuse:   3 1 1 0 1 0
+Way scores:   14 14 14 15 15 13 14 15 15 14 13 14 14 14 15 14
+
+362 0 Miss Replace 5
+Line address: 49856
+Line reuse:   13 3 0 0 0 0
+Way scores:   14 14 14 15 15 14 14 15 15 14 12 14 14 14 15 14
+
+363 0 Miss Replace 10
+Line address: 32832
+Line reuse:   1 1 0 0 0 1
+Way scores:   12 14 14 15 15 14 14 15 15 12 10 14 14 14 15 14
+
+364 0 Miss Replace 10
+Line address: 32960
+Line reuse:   2 0 0 1 1 0
+Way scores:   12 14 14 15 15 14 14 15 15 12 12 14 14 14 15 14
+
+365 0 Miss Replace 0
+Line address: 16704
+Line reuse:   0 1 1 1 1 0
+Way scores:   11 12 14 15 15 14 14 15 15 12 12 14 14 14 15 14
+
+366 0 Hit 11
+Line address: 49856
+Line reuse:   14 3 0 0 0 0
+Way scores:   11 12 14 0 0 14 14 0 0 12 12 14 14 14 0 14
+
+367 0 Miss Replace 3
+Line address: 49408
+Line reuse:   0 0 1 0 1 0
+Way scores:   11 12 14 10 0 14 14 0 0 12 12 14 14 14 0 14
+
+368 0 Miss Replace 4
+Line address: 33600
+Line reuse:   5 1 0 0 1 0
+Way scores:   11 12 14 10 14 14 14 0 0 12 12 14 14 14 0 14
+
+369 0 Miss Replace 7
+Line address: 33088
+Line reuse:   0 0 0 0 0 0
+Way scores:   11 12 14 10 14 14 14 0 0 12 12 14 14 14 0 14
+
+370 0 Miss Replace 7
+Line address: 33152
+Line reuse:   0 0 0 0 0 0
+Way scores:   11 12 14 10 14 14 14 0 0 12 12 14 14 14 0 14
+
+371 0 Miss Replace 7
+Line address: 16960
+Line reuse:   3 2 1 0 0 0
+Way scores:   11 12 14 10 14 14 14 14 0 12 12 14 14 14 0 14
+
+372 0 Hit 0
+Line address: 16704
+Line reuse:   1 1 1 1 1 0
+Way scores:   12 12 14 10 14 14 14 14 0 12 12 14 14 14 0 14
+
+373 0 Miss Replace 8
+Line address: 49216
+Line reuse:   0 0 0 0 0 1
+Way scores:   12 12 14 10 14 14 14 14 1 12 12 14 14 14 0 14
+
+374 0 Miss Replace 14
+Line address: 16576
+Line reuse:   0 1 1 2 0 0
+Way scores:   12 12 13 10 14 14 13 14 1 12 12 14 13 14 11 14
+
+375 0 Hit 15
+Line address: 49856
+Line reuse:   15 3 0 0 0 0
+Way scores:   12 12 13 10 14 14 13 14 1 12 12 14 13 14 11 14
+
+376 0 Miss Replace 8
+Line address: 128
+Line reuse:   0 0 0 1 0 1
+Way scores:   12 12 13 10 14 14 13 14 5 12 12 14 13 14 11 14
+
+377 0 Hit 10
+Line address: 32960
+Line reuse:   3 0 0 1 1 0
+Way scores:   12 12 13 10 14 14 13 14 5 12 12 14 13 14 11 14
+
+378 0 Hit 12
+Line address: 17344
+Line reuse:   6 5 2 0 0 0
+Way scores:   12 12 14 10 14 14 14 14 5 12 12 14 14 14 11 14
+
+379 0 Miss Replace 8
+Line address: 32768
+Line reuse:   0 0 1 1 1 0
+Way scores:   12 12 14 10 14 14 14 14 10 12 12 14 14 14 11 14
+
+380 0 Miss Replace 3
+Line address: 960
+Line reuse:   2 0 0 1 0 1
+Way scores:   12 12 14 10 14 14 14 14 10 12 12 14 14 14 11 14
+
+381 0 Miss Replace 3
+Line address: 49536
+Line reuse:   0 0 0 0 1 0
+Way scores:   12 9 14 9 14 14 14 14 10 12 12 14 14 14 11 14
+
+382 0 Miss Replace 1
+Line address: 128
+Line reuse:   1 0 0 1 0 1
+Way scores:   12 8 14 9 14 14 14 14 10 12 12 14 14 14 11 14
+
+383 0 Hit 10
+Line address: 32960
+Line reuse:   4 0 0 1 1 0
+Way scores:   12 8 14 9 14 14 14 14 10 12 13 14 14 14 11 14
+
+384 0 Hit 0
+Line address: 16704
+Line reuse:   2 1 1 1 1 0
+Way scores:   12 8 14 9 11 14 14 14 10 12 13 14 14 14 11 14
+
+385 0 Miss Replace 1
+Line address: 448
+Line reuse:   1 0 0 0 2 0
+Way scores:   12 11 14 9 11 14 14 14 10 12 13 14 14 14 11 14
+
+386 0 Miss Replace 3
+Line address: 16448
+Line reuse:   0 1 0 2 0 0
+Way scores:   12 11 14 11 11 14 14 14 10 12 13 14 14 14 11 14
+
+387 0 Hit 5
+Line address: 49856
+Line reuse:   8 1 0 0 0 0
+Way scores:   12 11 14 11 11 14 14 13 10 12 13 14 14 14 11 14
+
+388 0 Hit 5
+Line address: 49856
+Line reuse:   9 1 0 0 0 0
+Way scores:   12 11 14 11 11 14 14 13 10 12 13 14 14 14 11 14
+
+389 0 Miss Replace 8
+Line address: 49152
+Line reuse:   0 0 0 0 0 0
+Way scores:   12 11 14 11 11 14 14 13 0 12 13 14 14 14 11 14
+
+390 0 Hit 0
+Line address: 16704
+Line reuse:   3 1 1 1 1 0
+Way scores:   12 11 14 11 11 14 14 13 0 12 13 14 14 14 11 14
+
+391 0 Miss Replace 8
+Line address: 49792
+Line reuse:   0 0 1 0 2 0
+Way scores:   12 11 14 11 11 14 14 13 10 12 13 14 14 14 11 14
+
+392 0 Miss Replace 8
+Line address: 16384
+Line reuse:   1 1 3 1 0 0
+Way scores:   12 11 14 11 11 14 14 13 12 12 13 14 14 14 11 14
+
+393 0 Hit 14
+Line address: 16576
+Line reuse:   0 2 1 2 0 0
+Way scores:   12 11 14 11 11 14 14 13 12 12 13 14 14 14 12 14
+
+394 0 Hit 13
+Line address: 49856
+Line reuse:   10 1 0 0 0 0
+Way scores:   12 11 13 11 11 14 13 13 12 12 13 14 13 14 12 14
+
+395 0 Miss Replace 1
+Line address: 384
+Line reuse:   4 0 0 2 1 0
+Way scores:   12 12 13 11 11 14 13 13 12 12 13 14 13 14 12 14
+
+396 0 Hit 4
+Line address: 33600
+Line reuse:   5 2 0 0 1 0
+Way scores:   12 12 13 11 14 14 13 13 12 12 13 14 13 14 12 14
+
+397 0 Hit 12
+Line address: 17344
+Line reuse:   6 6 2 0 0 0
+Way scores:   12 12 14 11 14 14 14 13 12 12 13 14 14 14 12 14
+
+398 0 Hit 12
+Line address: 17344
+Line reuse:   7 6 2 0 0 0
+Way scores:   12 12 14 11 14 14 14 13 12 12 13 14 14 14 12 14
+
+399 0 Miss Replace 3
+Line address: 960
+Line reuse:   2 1 0 1 0 1
+Way scores:   12 12 14 11 14 14 14 13 12 12 9 14 14 14 12 14
+
+400 0 Hit 6
+Line address: 17344
+Line reuse:   8 6 2 0 0 0
+Way scores:   12 12 14 11 14 14 14 13 12 12 9 14 14 14 12 14
+
+401 0 Miss Replace 10
+Line address: 49280
+Line reuse:   3 2 0 0 1 0
+Way scores:   12 12 14 11 14 14 14 13 12 12 13 14 14 14 12 14
+
+402 0 Miss Replace 3
+Line address: 17152
+Line reuse:   1 0 0 1 1 0
+Way scores:   12 12 14 11 14 14 14 13 12 12 13 14 14 14 12 14
+
+403 0 Hit 6
+Line address: 17344
+Line reuse:   9 6 2 0 0 0
+Way scores:   12 12 14 11 14 14 14 12 12 12 13 14 14 14 12 14
+
+404 0 Miss Replace 3
+Line address: 33664
+Line reuse:   1 0 0 0 2 0
+Way scores:   12 12 14 11 14 14 14 12 12 12 13 14 14 14 12 14
+
+405 0 Miss Replace 3
+Line address: 49536
+Line reuse:   0 1 0 0 1 0
+Way scores:   12 12 14 11 14 14 14 12 12 12 13 14 14 14 12 14
+
+406 0 Hit 11
+Line address: 49856
+Line reuse:   11 1 0 0 0 0
+Way scores:   11 12 14 11 14 14 14 12 12 12 13 14 14 14 12 14
+
+407 0 Miss Replace 0
+Line address: 33536
+Line reuse:   0 0 1 1 1 0
+Way scores:   10 12 14 11 14 14 14 12 12 12 13 14 14 14 12 14
+
+408 0 Miss Replace 0
+Line address: 33216
+Line reuse:   1 0 0 1 1 0
+Way scores:   11 12 14 11 14 14 14 12 12 12 13 14 14 14 12 14
+
+409 0 Hit 3
+Line address: 49536
+Line reuse:   1 1 0 0 1 0
+Way scores:   11 12 14 12 14 14 14 12 12 12 13 14 14 14 12 14
+
+410 0 Hit 0
+Line address: 33216
+Line reuse:   2 0 0 1 1 0
+Way scores:   12 12 14 12 14 14 14 12 12 12 13 14 14 14 12 14
+
+411 0 Hit 11
+Line address: 49856
+Line reuse:   12 1 0 0 0 0
+Way scores:   12 9 14 12 14 14 14 12 12 0 13 14 14 14 12 14
+
+412 0 Miss Replace 9
+Line address: 832
+Line reuse:   7 3 1 0 1 0
+Way scores:   12 9 14 12 12 14 14 12 12 14 13 14 14 14 12 14
+
+413 0 Hit 2
+Line address: 17344
+Line reuse:   10 6 2 0 0 0
+Way scores:   12 9 14 12 12 14 14 12 12 14 13 14 14 14 12 14
+
+414 0 Hit 1
+Line address: 384
+Line reuse:   4 1 0 2 1 0
+Way scores:   12 12 14 12 12 14 14 12 12 14 13 14 14 14 12 14
+
+415 0 Hit 12
+Line address: 17344
+Line reuse:   11 6 2 0 0 0
+Way scores:   12 12 14 12 12 14 14 12 12 14 13 14 14 14 12 14
+
+416 0 Hit 0
+Line address: 33216
+Line reuse:   3 0 0 1 1 0
+Way scores:   12 12 14 12 12 14 14 12 12 14 13 14 14 14 12 14
+
+417 0 Hit 11
+Line address: 49856
+Line reuse:   13 1 0 0 0 0
+Way scores:   12 12 14 12 12 14 14 12 12 14 12 14 14 14 12 14
+
+418 0 Miss Replace 0
+Line address: 960
+Line reuse:   2 2 0 1 0 1
+Way scores:   11 12 14 12 12 14 14 12 12 14 12 14 14 14 12 14
+
+419 0 Miss Replace 0
+Line address: 16640
+Line reuse:   0 0 2 1 1 0
+Way scores:   10 12 14 12 12 14 14 12 12 14 12 14 14 14 12 14
+
+420 0 Miss Replace 0
+Line address: 16768
+Line reuse:   0 1 0 1 2 0
+Way scores:   10 12 14 12 12 14 14 12 12 14 12 14 14 14 12 14
+
+421 0 Miss Replace 0
+Line address: 17280
+Line reuse:   1 1 3 2 0 0
+Way scores:   12 12 14 12 12 14 14 12 12 14 12 14 14 14 12 14
+
+422 0 Hit 7
+Line address: 16960
+Line reuse:   3 2 2 0 0 0
+Way scores:   12 12 14 12 12 14 14 13 12 14 12 14 14 14 12 14
+
+423 0 Miss Replace 0
+Line address: 49472
+Line reuse:   1 0 0 1 1 0
+Way scores:   11 12 14 12 12 14 14 13 12 14 12 14 14 14 12 14
+
+424 0 Miss Replace 0
+Line address: 16512
+Line reuse:   0 1 0 0 2 0
+Way scores:   10 12 14 12 12 14 14 13 11 14 12 14 14 14 12 14
+
+425 0 Hit 11
+Line address: 49856
+Line reuse:   14 1 0 0 0 0
+Way scores:   10 12 14 11 12 14 14 13 11 14 12 14 14 14 10 14
+
+426 0 Miss Replace 0
+Line address: 448
+Line reuse:   1 0 1 0 2 0
+Way scores:   11 12 14 11 12 14 14 13 11 14 12 14 14 14 10 14
+
+427 0 Hit 8
+Line address: 16384
+Line reuse:   1 1 4 1 0 0
+Way scores:   11 12 14 11 12 14 14 13 12 14 12 14 14 14 10 14
+
+428 0 Miss Replace 14
+Line address: 448
+Line reuse:   2 0 1 0 2 0
+Way scores:   12 12 14 11 9 14 14 13 12 12 12 14 14 14 12 14
+
+429 0 Miss Replace 4
+Line address: 32896
+Line reuse:   0 0 0 1 0 0
+Way scores:   12 12 14 11 10 14 14 13 12 12 12 14 14 14 12 14
+
+430 0 Miss Replace 4
+Line address: 33664
+Line reuse:   1 1 0 0 2 0
+Way scores:   12 10 14 11 11 14 14 13 12 12 12 14 14 14 12 14
+
+431 0 Hit 9
+Line address: 832
+Line reuse:   7 4 1 0 1 0
+Way scores:   12 10 13 11 11 14 13 13 12 14 12 14 13 14 12 14
+
+432 0 Miss Replace 1
+Line address: 49792
+Line reuse:   0 0 2 0 2 0
+Way scores:   12 10 13 11 11 14 13 13 12 14 12 14 13 14 12 14
+
+433 0 Miss Replace 1
+Line address: 49728
+Line reuse:   0 1 1 1 1 0
+Way scores:   12 11 13 11 11 14 13 13 12 14 9 14 13 14 12 14
+
+434 0 Hit 6
+Line address: 17344
+Line reuse:   11 7 2 0 0 0
+Way scores:   12 11 14 11 11 14 14 13 12 14 9 14 14 14 12 14
+
+435 0 Miss Replace 10
+Line address: 17024
+Line reuse:   0 0 0 1 1 0
+Way scores:   12 11 14 11 11 14 14 13 12 14 9 14 14 14 12 14
+
+436 0 Miss Replace 10
+Line address: 33728
+Line reuse:   0 0 0 0 0 0
+Way scores:   12 11 14 11 11 14 14 13 12 14 0 14 14 14 12 14
+
+437 0 Miss Replace 10
+Line address: 17344
+Line reuse:   12 7 2 0 0 0
+Way scores:   12 11 14 11 11 14 14 13 12 14 14 14 14 14 12 14
+
+438 0 Hit 9
+Line address: 832
+Line reuse:   8 4 1 0 1 0
+Way scores:   12 11 14 11 11 14 14 13 12 14 14 14 14 14 12 14
+
+439 0 Hit 8
+Line address: 16384
+Line reuse:   2 1 4 1 0 0
+Way scores:   12 11 14 11 11 14 14 13 12 14 14 14 14 14 12 14
+
+440 0 Miss Replace 1
+Line address: 49792
+Line reuse:   1 0 2 0 2 0
+Way scores:   12 11 14 11 11 14 14 13 12 14 14 14 14 14 12 14
+
+441 0 Miss Replace 1
+Line address: 33088
+Line reuse:   0 0 0 1 0 0
+Way scores:   12 10 14 9 11 14 14 13 12 14 14 14 14 14 12 14
+
+442 0 Miss Replace 3
+Line address: 960
+Line reuse:   2 3 0 1 0 1
+Way scores:   12 10 14 11 11 14 14 13 12 14 14 14 14 14 12 14
+
+443 0 Hit 2
+Line address: 17344
+Line reuse:   13 7 2 0 0 0
+Way scores:   12 10 14 11 11 14 14 13 12 14 14 14 14 14 12 14
+
+444 0 Miss Replace 1
+Line address: 33344
+Line reuse:   3 1 1 1 1 0
+Way scores:   10 12 14 11 11 14 14 13 12 14 14 14 14 14 10 14
+
+445 0 Miss Replace 0
+Line address: 49984
+Line reuse:   0 2 0 3 0 0
+Way scores:   11 12 14 11 11 14 14 13 12 14 14 14 14 14 10 14
+
+446 0 Miss Replace 14
+Line address: 49344
+Line reuse:   0 1 0 2 1 0
+Way scores:   11 12 14 11 10 14 14 13 12 14 14 14 14 14 10 14
+
+447 0 Miss Replace 4
+Line address: 16448
+Line reuse:   0 1 1 2 0 0
+Way scores:   11 12 14 11 11 14 14 13 12 14 14 14 14 14 10 14
+
+448 0 Miss Replace 14
+Line address: 16896
+Line reuse:   1 0 1 2 1 0
+Way scores:   11 12 14 11 11 14 14 13 12 14 14 14 14 14 11 14
+
+449 0 Hit 6
+Line address: 17344
+Line reuse:   14 7 2 0 0 0
+Way scores:   11 12 14 11 11 14 14 13 12 14 14 14 14 14 11 14
+
+450 0 Miss Replace 0
+Line address: 33536
+Line reuse:   0 0 2 1 1 0
+Way scores:   10 12 14 11 11 14 14 13 12 14 14 14 14 14 11 14
+
+451 0 Hit 2
+Line address: 17344
+Line reuse:   15 7 2 0 0 0
+Way scores:   10 12 14 11 11 14 14 13 12 14 14 14 14 14 11 14
+
+452 0 Miss Replace 0
+Line address: 49664
+Line reuse:   0 0 0 0 2 0
+Way scores:   9 12 14 11 11 14 14 13 12 14 14 14 14 14 11 14
+
+453 0 Miss Replace 0
+Line address: 64
+Line reuse:   0 0 0 3 1 0
+Way scores:   9 12 14 11 11 14 14 13 12 14 14 14 14 14 11 14
+
+454 0 Miss Replace 0
+Line address: 256
+Line reuse:   0 0 1 0 2 0
+Way scores:   10 12 14 11 11 14 14 12 12 12 14 14 14 14 11 14
+
+455 0 Miss Replace 0
+Line address: 32896
+Line reuse:   0 1 0 1 0 0
+Way scores:   12 12 14 11 11 14 14 12 12 12 14 14 14 14 11 14
+
+456 0 Miss Replace 3
+Line address: 33536
+Line reuse:   1 0 2 1 1 0
+Way scores:   12 12 14 11 11 14 14 12 12 12 14 14 14 14 11 14
+
+457 0 Miss Replace 3
+Line address: 832
+Line reuse:   8 5 1 0 1 0
+Way scores:   12 12 14 14 11 0 14 12 12 14 14 0 14 0 11 0
+
+458 0 Miss Replace 5
+Line address: 16384
+Line reuse:   2 2 4 1 0 0
+Way scores:   12 12 14 14 11 12 14 12 12 14 14 0 14 0 11 0
+
+459 0 Miss Replace 11
+Line address: 832
+Line reuse:   9 5 1 0 1 0
+Way scores:   12 12 14 14 11 12 14 12 12 14 14 14 14 0 11 0
+
+460 0 Hit 14
+Line address: 16896
+Line reuse:   2 0 1 2 1 0
+Way scores:   12 11 14 14 11 12 14 12 12 14 14 14 14 0 11 0
+
+461 0 Miss Replace 13
+Line address: 49152
+Line reuse:   0 0 0 1 0 0
+Way scores:   12 11 14 14 11 12 14 12 12 14 14 14 14 10 11 0
+
+462 0 Miss Replace 15
+Line address: 16896
+Line reuse:   3 0 1 2 1 0
+Way scores:   12 11 14 14 11 12 14 12 12 14 14 14 14 10 12 12
+
+463 0 Miss Replace 13
+Line address: 49664
+Line reuse:   1 0 0 0 2 0
+Way scores:   12 11 14 14 11 12 14 12 12 14 14 14 14 11 12 12
+
+464 0 Hit 7
+Line address: 16960
+Line reuse:   3 2 3 0 0 0
+Way scores:   12 11 14 14 11 12 14 13 12 14 14 14 14 11 12 12
+
+465 0 Miss Replace 1
+Line address: 16896
+Line reuse:   4 0 1 2 1 0
+Way scores:   12 12 14 14 11 12 14 13 12 14 14 14 14 11 12 12
+
+466 0 Hit 14
+Line address: 16896
+Line reuse:   5 0 1 2 1 0
+Way scores:   12 12 14 14 11 12 14 13 12 14 14 14 14 11 12 12
+
+467 0 Miss Replace 4
+Line address: 49152
+Line reuse:   1 0 0 1 0 0
+Way scores:   12 12 13 14 12 12 13 13 12 14 13 14 13 11 12 12
+
+468 0 Hit 12
+Line address: 17344
+Line reuse:   15 8 2 0 0 0
+Way scores:   12 12 14 14 12 12 14 13 12 14 14 14 14 11 12 12
+
+469 0 Miss Replace 13
+Line address: 33024
+Line reuse:   3 0 1 1 0 0
+Way scores:   12 12 14 14 12 12 14 13 12 14 14 14 14 13 12 12
+
+470 0 Hit 13
+Line address: 33024
+Line reuse:   4 0 1 1 0 0
+Way scores:   12 12 14 14 12 12 14 13 12 14 14 14 14 13 12 12
+
+471 0 Miss Replace 0
+Line address: 16576
+Line reuse:   0 2 1 3 0 0
+Way scores:   11 12 14 14 12 12 14 13 12 14 14 14 14 13 12 12
+
+472 0 Hit 4
+Line address: 49152
+Line reuse:   2 0 0 1 0 0
+Way scores:   11 12 14 14 13 12 14 13 12 14 14 14 14 13 12 12
+
+473 0 Miss Replace 0
+Line address: 192
+Line reuse:   1 1 0 1 2 0
+Way scores:   11 12 14 14 13 12 14 13 12 14 14 14 14 13 12 12
+
+474 0 Miss Replace 0
+Line address: 192
+Line reuse:   2 1 0 1 2 0
+Way scores:   12 12 14 14 13 12 14 13 12 14 14 14 14 13 12 12
+
+475 0 Hit 10
+Line address: 17344
+Line reuse:   8 4 1 0 0 0
+Way scores:   12 12 14 13 13 12 14 13 12 13 14 13 14 13 12 12
+
+476 0 Hit 9
+Line address: 832
+Line reuse:   9 6 1 0 1 0
+Way scores:   12 12 14 14 13 12 14 13 12 14 14 14 14 13 12 12
+
+477 0 Miss Replace 0
+Line address: 768
+Line reuse:   4 3 2 1 1 0
+Way scores:   13 12 14 14 13 12 14 13 12 14 14 14 14 13 12 12
+
+478 0 Hit 0
+Line address: 768
+Line reuse:   5 3 2 1 1 0
+Way scores:   13 12 14 14 13 12 14 13 12 14 14 14 14 13 12 12
+
+479 0 Hit 4
+Line address: 49152
+Line reuse:   3 0 0 1 0 0
+Way scores:   13 12 14 14 13 12 14 13 12 14 14 14 14 13 12 12
+
+480 0 Miss Replace 1
+Line address: 17024
+Line reuse:   0 0 1 1 1 0
+Way scores:   13 10 14 14 13 12 14 12 12 14 14 14 14 13 12 12
+
+481 0 Miss Replace 1
+Line address: 832
+Line reuse:   10 6 1 0 1 0
+Way scores:   13 14 14 14 13 12 14 12 12 14 14 14 14 13 12 12
+
+482 0 Hit 10
+Line address: 17344
+Line reuse:   9 4 1 0 0 0
+Way scores:   13 14 14 14 13 12 14 12 12 14 14 14 14 13 10 10
+
+483 0 Hit 7
+Line address: 16960
+Line reuse:   3 3 3 0 0 0
+Way scores:   13 14 14 14 13 12 14 13 12 14 14 14 14 13 10 10
+
+484 0 Miss Replace 14
+Line address: 49344
+Line reuse:   0 1 1 2 1 0
+Way scores:   13 14 14 14 13 12 14 13 12 14 14 14 14 13 11 10
+
+485 0 Hit 8
+Line address: 16384
+Line reuse:   2 3 4 1 0 0
+Way scores:   13 14 14 14 13 13 14 13 13 14 14 14 14 13 11 10
+
+486 0 Hit 1
+Line address: 832
+Line reuse:   11 6 1 0 1 0
+Way scores:   13 14 14 14 13 13 14 13 13 14 14 14 14 11 11 10
+
+487 0 Miss Replace 15
+Line address: 50048
+Line reuse:   0 0 1 0 2 0
+Way scores:   13 14 14 14 13 13 14 13 13 14 14 14 14 11 11 10
+
+488 0 Miss Replace 15
+Line address: 49856
+Line reuse:   14 1 1 0 0 0
+Way scores:   13 14 14 14 13 13 14 13 13 14 14 14 14 11 11 14
+
+489 0 Hit 4
+Line address: 49152
+Line reuse:   4 0 0 1 0 0
+Way scores:   13 14 14 14 14 13 14 13 13 14 14 14 14 11 11 14
+
+490 0 Hit 3
+Line address: 832
+Line reuse:   12 6 1 0 1 0
+Way scores:   13 14 14 14 14 13 14 13 13 14 14 14 14 11 11 14
+
+491 0 Miss Replace 13
+Line address: 33600
+Line reuse:   5 2 0 1 1 0
+Way scores:   13 14 14 14 14 13 14 13 13 14 14 14 14 13 11 14
+
+492 0 Miss Replace 14
+Line address: 33664
+Line reuse:   1 1 1 0 2 0
+Way scores:   13 14 14 14 14 13 14 13 13 14 14 14 14 13 11 14
+
+493 0 Miss Replace 14
+Line address: 17152
+Line reuse:   1 0 0 2 1 0
+Way scores:   13 14 14 14 14 13 14 13 13 14 14 14 14 13 11 14
+
+494 0 Miss Replace 14
+Line address: 17152
+Line reuse:   2 0 0 2 1 0
+Way scores:   12 14 14 14 14 13 14 13 13 14 14 14 14 13 11 14
+
+495 0 Miss Replace 14
+Line address: 256
+Line reuse:   0 0 2 0 2 0
+Way scores:   12 14 14 14 14 13 14 13 13 14 14 14 14 13 10 14
+
+496 0 Miss Replace 14
+Line address: 17344
+Line reuse:   10 4 1 0 0 0
+Way scores:   12 14 14 14 14 13 14 13 13 14 14 14 14 13 14 14
+
+497 0 Miss Replace 0
+Line address: 50048
+Line reuse:   1 0 1 0 2 0
+Way scores:   11 14 14 14 14 13 14 13 13 14 14 14 14 13 14 14
+
+498 0 Miss Replace 0
+Line address: 33472
+Line reuse:   5 2 2 1 1 0
+Way scores:   13 14 14 14 14 13 14 13 13 14 14 14 14 13 14 14
+
+499 0 Miss Replace 0
+Line address: 49664
+Line reuse:   1 0 1 0 2 0
+Way scores:   11 14 14 14 14 13 14 13 13 14 14 14 14 13 14 14
