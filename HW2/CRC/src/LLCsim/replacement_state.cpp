@@ -79,11 +79,11 @@ void CACHE_REPLACEMENT_STATE::InitReplacementState()
         cachedAddrs[setIndex][way] = (Addr_t) -1;
     }
     // map addr to distance distribution, set-specific
-    addr2dist = new unordered_map<Addr_t, string> [numsets];
+    addr2dist = new map<Addr_t, string> [numsets];
     // map addr to age, set-specific
-    addr2age = new unordered_map<Addr_t, UINT32> [numsets];
+    addr2age = new map<Addr_t, UINT32> [numsets];
     // map addr to last access time, set-specific
-    addr2access = new unordered_map<Addr_t, UINT32> [numsets];
+    addr2access = new map<Addr_t, UINT32> [numsets];
     // count access times for each set
     setTimers = new UINT32 [numsets];
     for (UINT32 set = 0; set < numsets; set++)

@@ -18,8 +18,7 @@
 
 #include <cstdlib>
 #include <cassert>
-#include <unordered_map>
-#include <set>
+#include <map>
 #include "utils.h"
 #include "crc_cache_defs.h"
 
@@ -56,9 +55,9 @@ class CACHE_REPLACEMENT_STATE
 
     // CONTESTANTS:  Add extra state for cache here
     Addr_t **cachedAddrs;
-    unordered_map<Addr_t, string> *addr2dist;
-    unordered_map<Addr_t, UINT32> *addr2age;
-    unordered_map<Addr_t, UINT32> *addr2access;
+    map<Addr_t, string> *addr2dist;
+    map<Addr_t, UINT32> *addr2age;
+    map<Addr_t, UINT32> *addr2access;
     UINT32 *setTimers;
     bool isOJ;
 
