@@ -336,6 +336,15 @@ void CACHE_REPLACEMENT_STATE::UpdateLRU( UINT32 setIndex, INT32 updateWayID )
     repl[ setIndex ][ updateWayID ].LRUstackposition = 0;
 }
 
+////////////////////////////////////////////////////////////////////////////////
+//                                                                            //
+// This function implements the PRP update routine for my PRP policy. The     //
+// arguments to the function are set index, physical way, program counter,    //
+// and if it is a cache hit.                                                  //
+// Specifically, this function updates age, distance distribution, and        //
+// access time of the requested cache line.                                   //
+//                                                                            //
+////////////////////////////////////////////////////////////////////////////////
 void CACHE_REPLACEMENT_STATE::UpdatePRP(UINT32 setIndex, INT32 updateWayID,
                                         Addr_t PC, bool cacheHit)
 {
@@ -376,7 +385,6 @@ void CACHE_REPLACEMENT_STATE::UpdatePRP(UINT32 setIndex, INT32 updateWayID,
   if (isOJ)
     PrintResult(setIndex, updateWayID, cacheHit);
 
-  // increment access times of current set
   IncrementTimer();
 }
 
