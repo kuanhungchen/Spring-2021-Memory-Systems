@@ -282,6 +282,7 @@ INT32 CACHE_REPLACEMENT_STATE::Get_PRP_Victim(UINT32 setIndex) {
     Addr_t addr = cachedAddrs[setIndex][way];
     INT32 imp = -1;
     if (addr != (Addr_t) -1) {
+      // already cached
       string dist = addr2dist[setIndex][addr];
       UINT32 age = addr2age[setIndex][addr];
       imp = Compute_Importance(dist, age);
@@ -303,15 +304,11 @@ INT32 CACHE_REPLACEMENT_STATE::Get_PRP_Victim(UINT32 setIndex) {
 //                                                                            //
 ////////////////////////////////////////////////////////////////////////////////
 INT32 CACHE_REPLACEMENT_STATE::Compute_Importance(string dist, UINT32 age) {
-  UINT32 cnt = 1, age_range = 16 * assoc;
+  UINT32 idx = 1, age_range = 16 * assoc;
   UINT32 importance[6] = {15, 14, 12, 10, 9, 1};
   UINT32 numer = 0, denom = 0;
-  for (; age_range >= assoc && age < age_range; cnt++, age_range /= 2);
-  /* while (age_range >= assoc && age < age_range) { */
-  /*   cnt++; */
-  /*   age_range /= 2; */
-  /* } */
-  for (UINT32 i = 0; i < cnt; i++) {
+  for (; age_range >= assoc && age < age_range; idx++, age_range /= 2);
+  for (UINT32 i = 0; i < idx; i++) {
     denom += (dist[6 - i - 1] - '0');
     numer += (dist[6 - i - 1] - '0') * importance[6 - i - 1];
   }
@@ -347,42 +344,143 @@ void CACHE_REPLACEMENT_STATE::UpdateLRU( UINT32 setIndex, INT32 updateWayID )
 void CACHE_REPLACEMENT_STATE::UpdatePRP(UINT32 setIndex, INT32 updateWayID,
                                         Addr_t PC, bool cacheHit)
 {
-  Addr_t addr = PC & 0xffffffc0;
-  UINT32 idx = 5, age_range = 16 * assoc;
+  Addr_t addr;
 
-  if (!cacheHit) {
-    // install new cache line
-    cachedAddrs[setIndex][updateWayID] = addr;
-    addr2access[setIndex][addr] = setTimers[setIndex];
-    addr2age[setIndex][addr] = 0;
+  // decide addr
+  if (cacheHit)
+    addr = cachedAddrs[setIndex][updateWayID];
+  else
+    addr = cachedAddrs[setIndex][updateWayID] = PC & 0xffffffc0;
+
+  // increment timer
+  setTimers[setIndex]++;
+
+  // update age
+  /* cout << endl << "age: "; */
+  for (INT32 way = 0; way < assoc; way ++) {
+    Addr_t addr_tmp = cachedAddrs[setIndex][way];
+    if (addr_tmp != (Addr_t) -1) {
+      if (addr2access[setIndex].find(addr_tmp) == addr2access[setIndex].end()) {
+        addr2access[setIndex][addr_tmp] = setTimers[setIndex];
+        UINT32 age_tmp = 0;
+        /* cout << 0 << " "; */
+      } else if (addr_tmp == addr) {
+        UINT32 age_tmp = setTimers[setIndex] - addr2access[setIndex][addr_tmp] - 1;
+        addr2age[setIndex][addr_tmp] = age_tmp;
+        /* cout << "(" << setTimers[setIndex] << " - " << addr2access[setIndex][addr_tmp] << " - 1) "; */
+        addr2age[setIndex][addr_tmp] = age_tmp;
+      } else {
+        UINT32 age_tmp = setTimers[setIndex] - addr2access[setIndex][addr_tmp];
+        addr2age[setIndex][addr_tmp] = age_tmp;
+        /* cout << "(" << setTimers[setIndex] << " - " << addr2access[setIndex][addr_tmp] << ") "; */
+      }
+    }
+  }
+
+  // update distance distribution
+  if (addr2dist[setIndex].find(addr) == addr2dist[setIndex].end()) {
     addr2dist[setIndex][addr] = "000000";
   } else {
+    UINT32 age = addr2age[setIndex][addr];
+    UINT32 idx = 5, age_range = 16 * assoc;
+    for (; age_range >= assoc && age < age_range; idx--, age_range /= 2);
+    addr2dist[setIndex][addr][idx]++;
+    if ((addr2dist[setIndex][addr][idx] - '0') > 15) {
+      for (UINT32 i = 0; i < 6; i++)
+        addr2dist[setIndex][addr][i] = '0' + (addr2dist[setIndex][addr][i] - '0') / 2;
+    }
+  }
+
+  // update access time
+  addr2access[setIndex][addr] = setTimers[setIndex];
+
+
+
+
+
+
+
+
+
+/*
+  if (cacheHit) {
+    // cache hit, update distance distribution, age, and access time
+
+    addr = cachedAddrs[setIndex][updateWayID];
+
+    // update access time
+    addr2access[setIndex][addr] = setTimers[setIndex];
+
     // update age
+    cout << endl;
     for (INT32 way = 0; way < assoc; way++) {
       Addr_t addr_tmp = cachedAddrs[setIndex][way];
       if (addr_tmp != (Addr_t) -1) {
         UINT32 age_tmp = setTimers[setIndex] - addr2access[setIndex][addr_tmp];
         addr2age[setIndex][addr_tmp] = age_tmp;
+        cout << age_tmp << " ";
       }
     }
+
+    // distance distribution
+    if (addr2dist[setIndex].find(addr) == addr2dist[setIndex].end()) {
+      addr2dist[setIndex][addr] = "000000";
+    } else {
+      UINT32 age = addr2age[setIndex][addr];
+      while (age_range >= assoc && age < age_range) {
+        idx--;
+        age_range /= 2;
+      }
+      addr2dist[setIndex][addr][idx] += 1;
+      if ((addr2dist[setIndex][addr][idx] - '0') > 15) {
+        // handle overflow
+        for (UINT32 i = 0; i < 6; i++)
+          addr2dist[setIndex][addr][i] /= 2;
+      }
+    }
+  } else if (cachedAddrs[setIndex][updateWayID] == (Addr_t) -1) {
+    // cache miss, install a new cache line
+    cachedAddrs[setIndex][updateWayID] = addr = PC & 0xffffffc0;
+    addr2access[setIndex][addr] = setTimers[setIndex];
+    addr2age[setIndex][addr] = 0;
+    addr2dist[setIndex][addr] = "000000";
+  } else {
+    // cache miss, replace a cached line
+    cachedAddrs[setIndex][updateWayID] = addr = PC & 0xffffffc0;
     // update access time
     addr2access[setIndex][addr] = setTimers[setIndex];
 
-    // update distance distribution
-    UINT32 age = addr2age[setIndex][addr];
-    while (age_range >= assoc && age < age_range) {
-      idx--;
-      age_range /= 2;
+    // update age
+    cout << endl;
+    for (INT32 way = 0; way < assoc; way++) {
+      Addr_t addr_tmp = cachedAddrs[setIndex][way];
+      if (addr_tmp != (Addr_t) -1) {
+        UINT32 age_tmp = setTimers[setIndex] - addr2access[setIndex][addr_tmp];
+        addr2age[setIndex][addr_tmp] = age_tmp;
+        cout << age_tmp << " ";
+      }
     }
-    addr2dist[setIndex][addr][idx] += 1;
-    if ((addr2dist[setIndex][addr][idx] - '0') > 15) {
-      // handle overflow
-      for (UINT32 i = 0; i < 6; i++)
-        addr2dist[setIndex][addr][i] /= 2;
+
+    // distance distribution
+    if (addr2dist[setIndex].find(addr) == addr2dist[setIndex].end()) {
+      addr2dist[setIndex][addr] = "000000";
+    } else {
+      UINT32 age = addr2age[setIndex][addr];
+      while (age_range >= assoc && age < age_range) {
+        idx--;
+        age_range /= 2;
+      }
+      addr2dist[setIndex][addr][idx] += 1;
+      if ((addr2dist[setIndex][addr][idx] - '0') > 15) {
+        // handle overflow
+        for (UINT32 i = 0; i < 6; i++)
+          addr2dist[setIndex][addr][i] /= 2;
+      }
     }
   }
+*/
 
-  /* cout << "age: " << age << endl; */
+
 
 
 
@@ -392,26 +490,25 @@ void CACHE_REPLACEMENT_STATE::UpdatePRP(UINT32 setIndex, INT32 updateWayID,
   cout << "Line address: " << addr << endl;
 
   cout << "Line reuse:  ";
-  for (UINT32 i = 0; i < 6; i++) {
-    cout << " " << addr2dist[setIndex][addr][i];
-  }
+  for (UINT32 i = 0; i < 6; i++)
+    cout << " " << addr2dist[setIndex][addr][i] - '0';
+    /* cout << " " << addr2dist[setIndex][addr][i]; */
   cout << endl;
 
   cout << "Way scores:  ";
   for (INT32 way = 0; way < assoc; way++) {
-    Addr_t addr = cachedAddrs[setIndex][way];
-    if (addr == -1) {
+    Addr_t addr_tmp = cachedAddrs[setIndex][way];
+    if (addr == (Addr_t) -1) {
       cout << " -1";
     } else {
-      string dist = addr2dist[setIndex][addr];
-      UINT32 age = addr2age[setIndex][addr];
+      string dist = addr2dist[setIndex][addr_tmp];
+      UINT32 age = addr2age[setIndex][addr_tmp];
       cout << " " << Compute_Importance(dist, age);
     }
   }
   cout << endl;
 
   // increment access times of current set
-  setTimers[setIndex]++;
   IncrementTimer();
 }
 

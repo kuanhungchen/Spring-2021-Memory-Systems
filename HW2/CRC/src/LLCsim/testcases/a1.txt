@@ -1,3004 +1,2503 @@
 1
 4
-2
-10
+3
 500
-0 100061 0 Hit 3
-RRPV:      3 3 3 (0)
-Signature: 0 0 0 0
-outcome:   0 0 0 (1)
-SHCT:      (2) 1 1 1 1 1 1 1 1 1
-
-1 100022 0 Hit 3
-RRPV:      3 3 3 (0)
-Signature: 0 0 0 0
-outcome:   0 0 0 (1)
-SHCT:      (3) 1 1 1 1 1 1 1 1 1
-
-2 100090 0 Replace 0
-RRPV:      (2) 3 3 0
-Signature: (0) 0 0 0
-outcome:   (0) 0 0 1
-SHCT:      (2) 1 1 1 1 1 1 1 1 1
-
-3 100060 0 Replace 1
-RRPV:      2 (2) 3 0
-Signature: 0 (0) 0 0
-outcome:   0 (0) 0 1
-SHCT:      (1) 1 1 1 1 1 1 1 1 1
-
-4 100076 0 Replace 2
-RRPV:      2 2 (2) 0
-Signature: 0 0 (6) 0
-outcome:   0 0 (0) 1
-SHCT:      (0) 1 1 1 1 1 1 1 1 1
-
-5 100034 0 Replace 0
-RRPV:      (2) 3 3 1
-Signature: (4) 0 6 0
-outcome:   (0) 0 0 1
-SHCT:      (0) 1 1 1 1 1 1 1 1 1
-
-6 100024 0 Hit 1
-RRPV:      2 (0) 3 1
-Signature: 4 0 6 0
-outcome:   0 (1) 0 1
-SHCT:      (1) 1 1 1 1 1 1 1 1 1
-
-7 100012 0 Hit 1
-RRPV:      2 (0) 3 1
-Signature: 4 0 6 0
-outcome:   0 (1) 0 1
-SHCT:      (2) 1 1 1 1 1 1 1 1 1
-
-8 100043 0 Replace 2
-RRPV:      2 0 (2) 1
-Signature: 4 0 (3) 0
-outcome:   0 1 (0) 1
-SHCT:      2 1 1 1 1 1 (0) 1 1 1
-
-9 100005 0 Hit 0
-RRPV:      (0) 0 2 1
-Signature: 4 0 3 0
-outcome:   (1) 1 0 1
-SHCT:      2 1 1 1 (2) 1 0 1 1 1
-
-10 100032 0 Hit 1
-RRPV:      0 (0) 2 1
-Signature: 4 0 3 0
-outcome:   1 (1) 0 1
-SHCT:      (3) 1 1 1 2 1 0 1 1 1
-
-11 100055 0 Replace 2
-RRPV:      1 1 (2) 2
-Signature: 4 0 (5) 0
-outcome:   1 1 (0) 1
-SHCT:      3 1 1 (0) 2 1 0 1 1 1
-
-12 100065 0 Hit 0
-RRPV:      (0) 1 2 2
-Signature: 4 0 5 0
-outcome:   (1) 1 0 1
-SHCT:      3 1 1 0 (3) 1 0 1 1 1
-
-13 100025 0 Hit 2
-RRPV:      0 1 (0) 2
-Signature: 4 0 5 0
-outcome:   1 1 (1) 1
-SHCT:      3 1 1 0 3 (2) 0 1 1 1
-
-14 100038 0 Replace 3
-RRPV:      1 2 1 (2)
-Signature: 4 0 5 (8)
-outcome:   1 1 1 (0)
-SHCT:      3 1 1 0 3 2 0 1 1 1
-
-15 100082 0 Replace 1
-RRPV:      2 (2) 2 3
-Signature: 4 (2) 5 8
-outcome:   1 (0) 1 0
-SHCT:      3 1 1 0 3 2 0 1 1 1
-
-16 100047 0 Hit 0
-RRPV:      (0) 2 2 3
-Signature: 4 2 5 8
-outcome:   (1) 0 1 0
-SHCT:      3 1 1 0 (3) 2 0 1 1 1
-
-17 100096 0 Hit 2
-RRPV:      0 2 (0) 3
-Signature: 4 2 5 8
-outcome:   1 0 (1) 0
-SHCT:      3 1 1 0 3 (3) 0 1 1 1
-
-18 100053 0 Hit 3
-RRPV:      0 2 0 (0)
-Signature: 4 2 5 8
-outcome:   1 0 1 (1)
-SHCT:      3 1 1 0 3 3 0 1 (2) 1
-
-19 100077 0 Hit 0
-RRPV:      (0) 2 0 0
-Signature: 4 2 5 8
-outcome:   (1) 0 1 1
-SHCT:      3 1 1 0 (3) 3 0 1 2 1
-
-20 100012 0 Replace 1
-RRPV:      1 (3) 1 1
-Signature: 4 (2) 5 8
-outcome:   1 (0) 1 1
-SHCT:      3 1 (0) 0 3 3 0 1 2 1
-
-21 100095 0 Replace 1
-RRPV:      1 (2) 1 1
-Signature: 4 (5) 5 8
-outcome:   1 (0) 1 1
-SHCT:      3 1 (0) 0 3 3 0 1 2 1
-
-22 100013 0 Hit 1
-RRPV:      1 (0) 1 1
-Signature: 4 5 5 8
-outcome:   1 (1) 1 1
-SHCT:      3 1 0 0 3 (3) 0 1 2 1
-
-23 100095 0 Hit 1
-RRPV:      1 (0) 1 1
-Signature: 4 5 5 8
-outcome:   1 (1) 1 1
-SHCT:      3 1 0 0 3 (3) 0 1 2 1
-
-24 100061 0 Hit 3
-RRPV:      1 0 1 (0)
-Signature: 4 5 5 8
-outcome:   1 1 1 (1)
-SHCT:      3 1 0 0 3 3 0 1 (3) 1
-
-25 100088 0 Replace 0
-RRPV:      (2) 2 3 2
-Signature: (8) 5 5 8
-outcome:   (0) 1 1 1
-SHCT:      3 1 0 0 3 3 0 1 3 1
-
-26 100033 0 Hit 0
-RRPV:      (0) 2 3 2
-Signature: 8 5 5 8
-outcome:   (1) 1 1 1
-SHCT:      3 1 0 0 3 3 0 1 (3) 1
-
-27 100005 0 Replace 2
-RRPV:      0 2 (2) 2
-Signature: 8 5 (5) 8
-outcome:   1 1 (0) 1
-SHCT:      3 1 0 0 3 3 0 1 3 1
-
-28 100056 0 Replace 1
-RRPV:      1 (3) 3 3
-Signature: 8 (6) 5 8
-outcome:   1 (0) 0 1
-SHCT:      3 1 0 0 3 3 0 1 3 1
-
-29 100057 0 Hit 0
-RRPV:      (0) 3 3 3
-Signature: 8 6 5 8
-outcome:   (1) 0 0 1
-SHCT:      3 1 0 0 3 3 0 1 (3) 1
-
-30 100007 0 Replace 1
-RRPV:      0 (2) 3 3
-Signature: 8 (7) 5 8
-outcome:   1 (0) 0 1
-SHCT:      3 1 0 0 3 3 (0) 1 3 1
-
-31 100048 0 Hit 3
-RRPV:      0 2 3 (0)
-Signature: 8 7 5 8
-outcome:   1 0 0 (1)
-SHCT:      3 1 0 0 3 3 0 1 (3) 1
-
-32 100077 0 Replace 2
-RRPV:      0 2 (2) 0
-Signature: 8 7 (7) 8
-outcome:   1 0 (0) 1
-SHCT:      3 1 0 0 3 (2) 0 1 3 1
-
-33 100014 0 Hit 3
-RRPV:      0 2 2 (0)
-Signature: 8 7 7 8
-outcome:   1 0 0 (1)
-SHCT:      3 1 0 0 3 2 0 1 (3) 1
-
-34 100018 0 Replace 1
-RRPV:      1 (2) 3 1
-Signature: 8 (8) 7 8
-outcome:   1 (0) 0 1
-SHCT:      3 1 0 0 3 2 0 (0) 3 1
-
-35 100059 0 Replace 2
-RRPV:      1 2 (2) 1
-Signature: 8 8 (9) 8
-outcome:   1 0 (0) 1
-SHCT:      3 1 0 0 3 2 0 (0) 3 1
-
-36 100011 0 Hit 0
-RRPV:      (0) 2 2 1
-Signature: 8 8 9 8
-outcome:   (1) 0 0 1
-SHCT:      3 1 0 0 3 2 0 0 (3) 1
-
-37 100031 0 Replace 1
-RRPV:      1 (2) 3 2
-Signature: 8 (1) 9 8
-outcome:   1 (0) 0 1
-SHCT:      3 1 0 0 3 2 0 0 (2) 1
-
-38 100040 0 Hit 1
-RRPV:      1 (0) 3 2
-Signature: 8 1 9 8
-outcome:   1 (1) 0 1
-SHCT:      3 (2) 0 0 3 2 0 0 2 1
-
-39 100079 0 Replace 2
-RRPV:      1 0 (3) 2
-Signature: 8 1 (9) 8
-outcome:   1 1 (0) 1
-SHCT:      3 2 0 0 3 2 0 0 2 (0)
-
-40 100030 0 Hit 1
-RRPV:      1 (0) 3 2
-Signature: 8 1 9 8
-outcome:   1 (1) 0 1
-SHCT:      3 (3) 0 0 3 2 0 0 2 0
-
-41 100008 0 Hit 2
-RRPV:      1 0 (0) 2
-Signature: 8 1 9 8
-outcome:   1 1 (1) 1
-SHCT:      3 3 0 0 3 2 0 0 2 (1)
-
-42 100023 0 Hit 3
-RRPV:      1 0 0 (0)
-Signature: 8 1 9 8
-outcome:   1 1 1 (1)
-SHCT:      3 3 0 0 3 2 0 0 (3) 1
-
-43 100045 0 Replace 0
-RRPV:      (2) 2 2 2
-Signature: (5) 1 9 8
-outcome:   (0) 1 1 1
-SHCT:      3 3 0 0 3 2 0 0 3 1
-
-44 100096 0 Hit 0
-RRPV:      (0) 2 2 2
-Signature: 5 1 9 8
-outcome:   (1) 1 1 1
-SHCT:      3 3 0 0 3 (3) 0 0 3 1
-
-45 100014 0 Replace 1
-RRPV:      1 (2) 3 3
-Signature: 5 (4) 9 8
-outcome:   1 (0) 1 1
-SHCT:      3 3 0 0 3 3 0 0 3 1
-
-46 100007 0 Replace 2
-RRPV:      1 2 (3) 3
-Signature: 5 4 (7) 8
-outcome:   1 0 (0) 1
-SHCT:      3 3 0 0 3 3 0 0 3 1
-
-47 100042 0 Replace 2
-RRPV:      1 2 (3) 3
-Signature: 5 4 (2) 8
-outcome:   1 0 (0) 1
-SHCT:      3 3 0 0 3 3 0 (0) 3 1
-
-48 100085 0 Hit 0
-RRPV:      (0) 2 3 3
-Signature: 5 4 2 8
-outcome:   (1) 0 0 1
-SHCT:      3 3 0 0 3 (3) 0 0 3 1
-
-49 100029 0 Replace 2
-RRPV:      0 2 (2) 3
-Signature: 5 4 (9) 8
-outcome:   1 0 (0) 1
-SHCT:      3 3 (0) 0 3 3 0 0 3 1
-
-50 100094 0 Hit 3
-RRPV:      0 2 2 (0)
-Signature: 5 4 9 8
-outcome:   1 0 0 (1)
-SHCT:      3 3 0 0 3 3 0 0 (3) 1
-
-51 100011 0 Replace 1
-RRPV:      1 (2) 3 1
-Signature: 5 (1) 9 8
-outcome:   1 (0) 0 1
-SHCT:      3 3 0 0 (2) 3 0 0 3 1
-
-52 100008 0 Hit 3
-RRPV:      1 2 3 (0)
-Signature: 5 1 9 8
-outcome:   1 0 0 (1)
-SHCT:      3 3 0 0 2 3 0 0 (3) 1
-
-53 100092 0 Hit 2
-RRPV:      1 2 (0) 0
-Signature: 5 1 9 8
-outcome:   1 0 (1) 1
-SHCT:      3 3 0 0 2 3 0 0 3 (2)
-
-54 100065 0 Replace 1
-RRPV:      2 (2) 1 1
-Signature: 5 (5) 9 8
-outcome:   1 (0) 1 1
-SHCT:      3 (2) 0 0 2 3 0 0 3 2
-
-55 100040 0 Replace 0
-RRPV:      (2) 3 2 2
-Signature: (0) 5 9 8
-outcome:   (0) 0 1 1
-SHCT:      3 2 0 0 2 3 0 0 3 2
-
-56 100072 0 Replace 1
-RRPV:      2 (3) 2 2
-Signature: 0 (2) 9 8
-outcome:   0 (0) 1 1
-SHCT:      3 2 0 0 2 (2) 0 0 3 2
-
-57 100083 0 Replace 1
-RRPV:      2 (3) 2 2
-Signature: 0 (3) 9 8
-outcome:   0 (0) 1 1
-SHCT:      3 2 (0) 0 2 2 0 0 3 2
-
-58 100094 0 Replace 1
-RRPV:      2 (2) 2 2
-Signature: 0 (4) 9 8
-outcome:   0 (0) 1 1
-SHCT:      3 2 0 (0) 2 2 0 0 3 2
-
-59 100020 0 Replace 0
-RRPV:      (2) 3 3 3
-Signature: (0) 4 9 8
-outcome:   (0) 0 1 1
-SHCT:      (2) 2 0 0 2 2 0 0 3 2
-
-60 100021 0 Replace 1
-RRPV:      2 (2) 3 3
-Signature: 0 (1) 9 8
-outcome:   0 (0) 1 1
-SHCT:      2 2 0 0 (1) 2 0 0 3 2
-
-61 100013 0 Replace 2
-RRPV:      2 2 (3) 3
-Signature: 0 1 (3) 8
-outcome:   0 0 (0) 1
-SHCT:      2 2 0 0 1 2 0 0 3 2
-
-62 100070 0 Replace 2
-RRPV:      2 2 (2) 3
-Signature: 0 1 (0) 8
-outcome:   0 0 (0) 1
-SHCT:      2 2 0 (0) 1 2 0 0 3 2
-
-63 100040 0 Replace 3
-RRPV:      2 2 2 (2)
-Signature: 0 1 0 (0)
-outcome:   0 0 0 (0)
-SHCT:      2 2 0 0 1 2 0 0 3 2
-
-64 100094 0 Replace 0
-RRPV:      (2) 3 3 3
-Signature: (4) 1 0 0
-outcome:   (0) 0 0 0
-SHCT:      (1) 2 0 0 1 2 0 0 3 2
-
-65 100028 0 Replace 1
-RRPV:      2 (2) 3 3
-Signature: 4 (8) 0 0
-outcome:   0 (0) 0 0
-SHCT:      1 (1) 0 0 1 2 0 0 3 2
-
-66 100050 0 Hit 0
-RRPV:      (0) 2 3 3
-Signature: 4 8 0 0
-outcome:   (1) 0 0 0
-SHCT:      1 1 0 0 (2) 2 0 0 3 2
-
-67 100084 0 Replace 2
-RRPV:      0 2 (2) 3
-Signature: 4 8 (4) 0
-outcome:   1 0 (0) 0
-SHCT:      (0) 1 0 0 2 2 0 0 3 2
-
-68 100040 0 Hit 3
-RRPV:      0 2 2 (0)
-Signature: 4 8 4 0
-outcome:   1 0 0 (1)
-SHCT:      (1) 1 0 0 2 2 0 0 3 2
-
-69 100022 0 Replace 1
-RRPV:      1 (3) 3 1
-Signature: 4 (2) 4 0
-outcome:   1 (0) 0 1
-SHCT:      1 1 0 0 2 2 0 0 (2) 2
-
-70 100098 0 Hit 2
-RRPV:      1 3 (0) 1
-Signature: 4 2 4 0
-outcome:   1 0 (1) 1
-SHCT:      1 1 0 0 (3) 2 0 0 2 2
-
-71 100005 0 Hit 1
-RRPV:      1 (0) 0 1
-Signature: 4 2 4 0
-outcome:   1 (1) 1 1
-SHCT:      1 1 (1) 0 3 2 0 0 2 2
-
-72 100015 0 Replace 0
-RRPV:      (2) 2 2 3
-Signature: (5) 2 4 0
-outcome:   (0) 1 1 1
-SHCT:      1 1 1 0 3 2 0 0 2 2
-
-73 100047 0 Replace 3
-RRPV:      2 2 2 (3)
-Signature: 5 2 4 (7)
-outcome:   0 1 1 (0)
-SHCT:      1 1 1 0 3 2 0 0 2 2
-
-74 100024 0 Replace 3
-RRPV:      2 2 2 (2)
-Signature: 5 2 4 (4)
-outcome:   0 1 1 (0)
-SHCT:      1 1 1 0 3 2 0 (0) 2 2
-
-75 100084 0 Replace 0
-RRPV:      (2) 3 3 3
-Signature: (4) 2 4 4
-outcome:   (0) 1 1 0
-SHCT:      1 1 1 0 3 (1) 0 0 2 2
-
-76 100084 0 Replace 1
-RRPV:      2 (2) 3 3
-Signature: 4 (4) 4 4
-outcome:   0 (0) 1 0
-SHCT:      1 1 1 0 3 1 0 0 2 2
-
-77 100082 0 Replace 2
-RRPV:      2 2 (2) 3
-Signature: 4 4 (2) 4
-outcome:   0 0 (0) 0
-SHCT:      1 1 1 0 3 1 0 0 2 2
-
-78 100031 0 Hit 2
-RRPV:      2 2 (0) 3
-Signature: 4 4 2 4
-outcome:   0 0 (1) 0
-SHCT:      1 1 (2) 0 3 1 0 0 2 2
-
-79 100069 0 Replace 3
-RRPV:      2 2 0 (2)
-Signature: 4 4 2 (9)
-outcome:   0 0 1 (0)
-SHCT:      1 1 2 0 (2) 1 0 0 2 2
-
-80 100082 0 Hit 3
-RRPV:      2 2 0 (0)
-Signature: 4 4 2 9
-outcome:   0 0 1 (1)
-SHCT:      1 1 2 0 2 1 0 0 2 (3)
-
-81 100031 0 Hit 2
-RRPV:      2 2 (0) 0
-Signature: 4 4 2 9
-outcome:   0 0 (1) 1
-SHCT:      1 1 (3) 0 2 1 0 0 2 3
-
-82 100025 0 Hit 1
-RRPV:      2 (0) 0 0
-Signature: 4 4 2 9
-outcome:   0 (1) 1 1
-SHCT:      1 1 3 0 (3) 1 0 0 2 3
-
-83 100063 0 Replace 0
-RRPV:      (3) 1 1 1
-Signature: (3) 4 2 9
-outcome:   (0) 1 1 1
-SHCT:      1 1 3 0 (2) 1 0 0 2 3
-
-84 100040 0 Replace 0
-RRPV:      (2) 1 1 1
-Signature: (0) 4 2 9
-outcome:   (0) 1 1 1
-SHCT:      1 1 3 (0) 2 1 0 0 2 3
-
-85 100080 0 Hit 1
-RRPV:      2 (0) 1 1
-Signature: 0 4 2 9
-outcome:   0 (1) 1 1
-SHCT:      1 1 3 0 (3) 1 0 0 2 3
-
-86 100033 0 Replace 0
-RRPV:      (3) 1 2 2
-Signature: (3) 4 2 9
-outcome:   (0) 1 1 1
-SHCT:      (0) 1 3 0 3 1 0 0 2 3
-
-87 100001 0 Replace 0
-RRPV:      (2) 1 2 2
-Signature: (1) 4 2 9
-outcome:   (0) 1 1 1
-SHCT:      0 1 3 (0) 3 1 0 0 2 3
-
-88 100013 0 Replace 0
-RRPV:      (3) 2 3 3
-Signature: (3) 4 2 9
-outcome:   (0) 1 1 1
-SHCT:      0 (0) 3 0 3 1 0 0 2 3
-
-89 100054 0 Replace 0
-RRPV:      (2) 2 3 3
-Signature: (4) 4 2 9
-outcome:   (0) 1 1 1
-SHCT:      0 0 3 (0) 3 1 0 0 2 3
-
-90 100043 0 Replace 2
-RRPV:      2 2 (3) 3
-Signature: 4 4 (3) 9
-outcome:   0 1 (0) 1
-SHCT:      0 0 3 0 3 1 0 0 2 3
-
-91 100075 0 Hit 1
-RRPV:      2 (0) 3 3
-Signature: 4 4 3 9
-outcome:   0 (1) 0 1
-SHCT:      0 0 3 0 (3) 1 0 0 2 3
-
-92 100073 0 Hit 3
-RRPV:      2 0 3 (0)
-Signature: 4 4 3 9
-outcome:   0 1 0 (1)
-SHCT:      0 0 3 0 3 1 0 0 2 (3)
-
-93 100098 0 Replace 2
-RRPV:      2 0 (2) 0
-Signature: 4 4 (8) 9
-outcome:   0 1 (0) 1
-SHCT:      0 0 3 (0) 3 1 0 0 2 3
-
-94 100097 0 Hit 2
-RRPV:      2 0 (0) 0
-Signature: 4 4 8 9
-outcome:   0 1 (1) 1
-SHCT:      0 0 3 0 3 1 0 0 (3) 3
-
-95 100070 0 Replace 0
-RRPV:      (3) 1 1 1
-Signature: (0) 4 8 9
-outcome:   (0) 1 1 1
-SHCT:      0 0 3 0 (2) 1 0 0 3 3
-
-96 100097 0 Hit 3
-RRPV:      3 1 1 (0)
-Signature: 0 4 8 9
-outcome:   0 1 1 (1)
-SHCT:      0 0 3 0 2 1 0 0 3 (3)
-
-97 100049 0 Replace 0
-RRPV:      (2) 1 1 0
-Signature: (9) 4 8 9
-outcome:   (0) 1 1 1
-SHCT:      (0) 0 3 0 2 1 0 0 3 3
-
-98 100049 0 Hit 0
-RRPV:      (0) 1 1 0
-Signature: 9 4 8 9
-outcome:   (1) 1 1 1
-SHCT:      0 0 3 0 2 1 0 0 3 (3)
-
-99 100002 0 Hit 0
-RRPV:      (0) 1 1 0
-Signature: 9 4 8 9
-outcome:   (1) 1 1 1
-SHCT:      0 0 3 0 2 1 0 0 3 (3)
-
-100 100084 0 Hit 3
-RRPV:      0 1 1 (0)
-Signature: 9 4 8 9
-outcome:   1 1 1 (1)
-SHCT:      0 0 3 0 2 1 0 0 3 (3)
-
-101 100010 0 Hit 1
-RRPV:      0 (0) 1 0
-Signature: 9 4 8 9
-outcome:   1 (1) 1 1
-SHCT:      0 0 3 0 (3) 1 0 0 3 3
-
-102 100029 0 Hit 0
-RRPV:      (0) 0 1 0
-Signature: 9 4 8 9
-outcome:   (1) 1 1 1
-SHCT:      0 0 3 0 3 1 0 0 3 (3)
-
-103 100020 0 Hit 1
-RRPV:      0 (0) 1 0
-Signature: 9 4 8 9
-outcome:   1 (1) 1 1
-SHCT:      0 0 3 0 (3) 1 0 0 3 3
-
-104 100058 0 Replace 2
-RRPV:      2 2 (2) 2
-Signature: 9 4 (8) 9
-outcome:   1 1 (0) 1
-SHCT:      0 0 3 0 3 1 0 0 3 3
-
-105 100089 0 Hit 0
-RRPV:      (0) 2 2 2
-Signature: 9 4 8 9
-outcome:   (1) 1 0 1
-SHCT:      0 0 3 0 3 1 0 0 3 (3)
-
-106 100072 0 Replace 1
-RRPV:      1 (2) 3 3
-Signature: 9 (2) 8 9
-outcome:   1 (0) 0 1
-SHCT:      0 0 3 0 3 1 0 0 3 3
-
-107 100059 0 Replace 2
-RRPV:      1 2 (2) 3
-Signature: 9 2 (9) 9
-outcome:   1 0 (0) 1
-SHCT:      0 0 3 0 3 1 0 0 (2) 3
-
-108 100035 0 Hit 1
-RRPV:      1 (0) 2 3
-Signature: 9 2 9 9
-outcome:   1 (1) 0 1
-SHCT:      0 0 (3) 0 3 1 0 0 2 3
-
-109 100033 0 Hit 2
-RRPV:      1 0 (0) 3
-Signature: 9 2 9 9
-outcome:   1 1 (1) 1
-SHCT:      0 0 3 0 3 1 0 0 2 (3)
-
-110 100097 0 Replace 3
-RRPV:      1 0 0 (3)
-Signature: 9 2 9 (7)
-outcome:   1 1 1 (0)
-SHCT:      0 0 3 0 3 1 0 0 2 3
-
-111 100056 0 Replace 3
-RRPV:      1 0 0 (3)
-Signature: 9 2 9 (6)
-outcome:   1 1 1 (0)
-SHCT:      0 0 3 0 3 1 0 (0) 2 3
-
-112 100019 0 Hit 3
-RRPV:      1 0 0 (0)
-Signature: 9 2 9 6
-outcome:   1 1 1 (1)
-SHCT:      0 0 3 0 3 1 (1) 0 2 3
-
-113 100099 0 Replace 0
-RRPV:      (2) 2 2 2
-Signature: (9) 2 9 6
-outcome:   (0) 1 1 1
-SHCT:      0 0 3 0 3 1 1 0 2 3
-
-114 100038 0 Hit 2
-RRPV:      2 2 (0) 2
-Signature: 9 2 9 6
-outcome:   0 1 (1) 1
-SHCT:      0 0 3 0 3 1 1 0 2 (3)
-
-115 100020 0 Replace 0
-RRPV:      (3) 3 1 3
-Signature: (0) 2 9 6
-outcome:   (0) 1 1 1
-SHCT:      0 0 3 0 3 1 1 0 2 (2)
-
-116 100015 0 Hit 3
-RRPV:      3 3 1 (0)
-Signature: 0 2 9 6
-outcome:   0 1 1 (1)
-SHCT:      0 0 3 0 3 1 (2) 0 2 2
-
-117 100017 0 Replace 0
-RRPV:      (3) 3 1 0
-Signature: (7) 2 9 6
-outcome:   (0) 1 1 1
-SHCT:      (0) 0 3 0 3 1 2 0 2 2
-
-118 100008 0 Replace 0
-RRPV:      (2) 3 1 0
-Signature: (8) 2 9 6
-outcome:   (0) 1 1 1
-SHCT:      0 0 3 0 3 1 2 (0) 2 2
-
-119 100067 0 Replace 1
-RRPV:      2 (3) 1 0
-Signature: 8 (7) 9 6
-outcome:   0 (0) 1 1
-SHCT:      0 0 3 0 3 1 2 0 2 2
-
-120 100063 0 Hit 2
-RRPV:      2 3 (0) 0
-Signature: 8 7 9 6
-outcome:   0 0 (1) 1
-SHCT:      0 0 3 0 3 1 2 0 2 (3)
-
-121 100007 0 Hit 1
-RRPV:      2 (0) 0 0
-Signature: 8 7 9 6
-outcome:   0 (1) 1 1
-SHCT:      0 0 3 0 3 1 2 (1) 2 3
-
-122 100065 0 Hit 3
-RRPV:      2 0 0 (0)
-Signature: 8 7 9 6
-outcome:   0 1 1 (1)
-SHCT:      0 0 3 0 3 1 (3) 1 2 3
-
-123 100073 0 Replace 0
-RRPV:      (3) 1 1 1
-Signature: (3) 7 9 6
-outcome:   (0) 1 1 1
-SHCT:      0 0 3 0 3 1 3 1 (1) 3
-
-124 100009 0 Replace 0
-RRPV:      (2) 1 1 1
-Signature: (9) 7 9 6
-outcome:   (0) 1 1 1
-SHCT:      0 0 3 (0) 3 1 3 1 1 3
-
-125 100035 0 Replace 0
-RRPV:      (2) 2 2 2
-Signature: (5) 7 9 6
-outcome:   (0) 1 1 1
-SHCT:      0 0 3 0 3 1 3 1 1 (2)
-
-126 100045 0 Hit 2
-RRPV:      2 2 (0) 2
-Signature: 5 7 9 6
-outcome:   0 1 (1) 1
-SHCT:      0 0 3 0 3 1 3 1 1 (3)
-
-127 100083 0 Replace 0
-RRPV:      (3) 3 1 3
-Signature: (3) 7 9 6
-outcome:   (0) 1 1 1
-SHCT:      0 0 3 0 3 (0) 3 1 1 3
-
-128 100024 0 Replace 0
-RRPV:      (2) 3 1 3
-Signature: (4) 7 9 6
-outcome:   (0) 1 1 1
-SHCT:      0 0 3 (0) 3 0 3 1 1 3
-
-129 100041 0 Hit 1
-RRPV:      2 (0) 1 3
-Signature: 4 7 9 6
-outcome:   0 (1) 1 1
-SHCT:      0 0 3 0 3 0 3 (2) 1 3
-
-130 100041 0 Hit 1
-RRPV:      2 (0) 1 3
-Signature: 4 7 9 6
-outcome:   0 (1) 1 1
-SHCT:      0 0 3 0 3 0 3 (3) 1 3
-
-131 100054 0 Replace 3
-RRPV:      2 0 1 (2)
-Signature: 4 7 9 (4)
-outcome:   0 1 1 (0)
-SHCT:      0 0 3 0 3 0 3 3 1 3
-
-132 100044 0 Replace 0
-RRPV:      (2) 1 2 3
-Signature: (4) 7 9 4
-outcome:   (0) 1 1 0
-SHCT:      0 0 3 0 (2) 0 3 3 1 3
-
-133 100019 0 Hit 0
-RRPV:      (0) 1 2 3
-Signature: 4 7 9 4
-outcome:   (1) 1 1 0
-SHCT:      0 0 3 0 (3) 0 3 3 1 3
-
-134 100015 0 Replace 3
-RRPV:      0 1 2 (3)
-Signature: 4 7 9 (5)
-outcome:   1 1 1 (0)
-SHCT:      0 0 3 0 (2) 0 3 3 1 3
-
-135 100032 0 Replace 3
-RRPV:      0 1 2 (2)
-Signature: 4 7 9 (2)
-outcome:   1 1 1 (0)
-SHCT:      0 0 3 0 2 (0) 3 3 1 3
-
-136 100006 0 Hit 1
-RRPV:      0 (0) 2 2
-Signature: 4 7 9 2
-outcome:   1 (1) 1 0
-SHCT:      0 0 3 0 2 0 3 (3) 1 3
-
-137 100095 0 Hit 1
-RRPV:      0 (0) 2 2
-Signature: 4 7 9 2
-outcome:   1 (1) 1 0
-SHCT:      0 0 3 0 2 0 3 (3) 1 3
-
-138 100080 0 Replace 2
-RRPV:      1 1 (3) 3
-Signature: 4 7 (0) 2
-outcome:   1 1 (0) 0
-SHCT:      0 0 3 0 2 0 3 3 1 3
-
-139 100095 0 Hit 2
-RRPV:      1 1 (0) 3
-Signature: 4 7 0 2
-outcome:   1 1 (1) 0
-SHCT:      (1) 0 3 0 2 0 3 3 1 3
-
-140 100071 0 Hit 0
-RRPV:      (0) 1 0 3
-Signature: 4 7 0 2
-outcome:   (1) 1 1 0
-SHCT:      1 0 3 0 (3) 0 3 3 1 3
-
-141 100052 0 Replace 3
-RRPV:      0 1 0 (2)
-Signature: 4 7 0 (2)
-outcome:   1 1 1 (0)
-SHCT:      1 0 (2) 0 3 0 3 3 1 3
-
-142 100024 0 Replace 3
-RRPV:      1 2 1 (2)
-Signature: 4 7 0 (4)
-outcome:   1 1 1 (0)
-SHCT:      1 0 (1) 0 3 0 3 3 1 3
-
-143 100007 0 Replace 1
-RRPV:      2 (2) 2 3
-Signature: 4 (7) 0 4
-outcome:   1 (0) 1 0
-SHCT:      1 0 1 0 3 0 3 3 1 3
-
-144 100008 0 Hit 2
-RRPV:      2 2 (0) 3
-Signature: 4 7 0 4
-outcome:   1 0 (1) 0
-SHCT:      (2) 0 1 0 3 0 3 3 1 3
-
-145 100071 0 Hit 2
-RRPV:      2 2 (0) 3
-Signature: 4 7 0 4
-outcome:   1 0 (1) 0
-SHCT:      (3) 0 1 0 3 0 3 3 1 3
-
-146 100023 0 Hit 3
-RRPV:      2 2 0 (0)
-Signature: 4 7 0 4
-outcome:   1 0 1 (1)
-SHCT:      3 0 1 0 (3) 0 3 3 1 3
-
-147 100044 0 Hit 2
-RRPV:      2 2 (0) 0
-Signature: 4 7 0 4
-outcome:   1 0 (1) 1
-SHCT:      (3) 0 1 0 3 0 3 3 1 3
-
-148 100080 0 Hit 3
-RRPV:      2 2 0 (0)
-Signature: 4 7 0 4
-outcome:   1 0 1 (1)
-SHCT:      3 0 1 0 (3) 0 3 3 1 3
-
-149 100087 0 Hit 2
-RRPV:      2 2 (0) 0
-Signature: 4 7 0 4
-outcome:   1 0 (1) 1
-SHCT:      (3) 0 1 0 3 0 3 3 1 3
-
-150 100058 0 Replace 0
-RRPV:      (2) 3 1 1
-Signature: (8) 7 0 4
-outcome:   (0) 0 1 1
-SHCT:      3 0 1 0 3 0 3 3 1 3
-
-151 100075 0 Hit 2
-RRPV:      2 3 (0) 1
-Signature: 8 7 0 4
-outcome:   0 0 (1) 1
-SHCT:      (3) 0 1 0 3 0 3 3 1 3
-
-152 100037 0 Replace 1
-RRPV:      2 (2) 0 1
-Signature: 8 (7) 0 4
-outcome:   0 (0) 1 1
-SHCT:      3 0 1 0 3 0 3 (2) 1 3
-
-153 100083 0 Replace 0
-RRPV:      (3) 3 1 2
-Signature: (3) 7 0 4
-outcome:   (0) 0 1 1
-SHCT:      3 0 1 0 3 0 3 2 (0) 3
-
-154 100088 0 Replace 0
-RRPV:      (3) 3 1 2
-Signature: (8) 7 0 4
-outcome:   (0) 0 1 1
-SHCT:      3 0 1 (0) 3 0 3 2 0 3
-
-155 100067 0 Hit 3
-RRPV:      3 3 1 (0)
-Signature: 8 7 0 4
-outcome:   0 0 1 (1)
-SHCT:      3 0 1 0 (3) 0 3 2 0 3
-
-156 100093 0 Replace 0
-RRPV:      (3) 3 1 0
-Signature: (3) 7 0 4
-outcome:   (0) 0 1 1
-SHCT:      3 0 1 0 3 0 3 2 (0) 3
-
-157 100098 0 Hit 1
-RRPV:      3 (0) 1 0
-Signature: 3 7 0 4
-outcome:   0 (1) 1 1
-SHCT:      3 0 1 0 3 0 3 (3) 0 3
-
-158 100011 0 Hit 2
-RRPV:      3 0 (0) 0
-Signature: 3 7 0 4
-outcome:   0 1 (1) 1
-SHCT:      (3) 0 1 0 3 0 3 3 0 3
-
-159 100079 0 Replace 0
-RRPV:      (2) 0 0 0
-Signature: (9) 7 0 4
-outcome:   (0) 1 1 1
-SHCT:      3 0 1 (0) 3 0 3 3 0 3
-
-160 100024 0 Hit 3
-RRPV:      2 0 0 (0)
-Signature: 9 7 0 4
-outcome:   0 1 1 (1)
-SHCT:      3 0 1 0 (3) 0 3 3 0 3
-
-161 100040 0 Replace 0
-RRPV:      (2) 1 1 1
-Signature: (0) 7 0 4
-outcome:   (0) 1 1 1
-SHCT:      3 0 1 0 3 0 3 3 0 (2)
-
-162 100071 0 Hit 3
-RRPV:      2 1 1 (0)
-Signature: 0 7 0 4
-outcome:   0 1 1 (1)
-SHCT:      3 0 1 0 (3) 0 3 3 0 2
-
-163 100030 0 Hit 3
-RRPV:      2 1 1 (0)
-Signature: 0 7 0 4
-outcome:   0 1 1 (1)
-SHCT:      3 0 1 0 (3) 0 3 3 0 2
-
-164 100052 0 Replace 0
-RRPV:      (2) 2 2 1
-Signature: (2) 7 0 4
-outcome:   (0) 1 1 1
-SHCT:      (2) 0 1 0 3 0 3 3 0 2
-
-165 100014 0 Replace 0
-RRPV:      (2) 3 3 2
-Signature: (4) 7 0 4
-outcome:   (0) 1 1 1
-SHCT:      2 0 (0) 0 3 0 3 3 0 2
-
-166 100067 0 Replace 1
-RRPV:      2 (2) 3 2
-Signature: 4 (7) 0 4
-outcome:   0 (0) 1 1
-SHCT:      2 0 0 0 3 0 3 3 0 2
-
-167 100095 0 Hit 0
-RRPV:      (0) 2 3 2
-Signature: 4 7 0 4
-outcome:   (1) 0 1 1
-SHCT:      2 0 0 0 (3) 0 3 3 0 2
-
-168 100078 0 Replace 2
-RRPV:      0 2 (3) 2
-Signature: 4 7 (8) 4
-outcome:   1 0 (0) 1
-SHCT:      2 0 0 0 3 0 3 3 0 2
-
-169 100024 0 Hit 0
-RRPV:      (0) 2 3 2
-Signature: 4 7 8 4
-outcome:   (1) 0 0 1
-SHCT:      2 0 0 0 (3) 0 3 3 0 2
-
-170 100014 0 Hit 2
-RRPV:      0 2 (0) 2
-Signature: 4 7 8 4
-outcome:   1 0 (1) 1
-SHCT:      2 0 0 0 3 0 3 3 (1) 2
-
-171 100030 0 Replace 1
-RRPV:      1 (2) 1 3
-Signature: 4 (0) 8 4
-outcome:   1 (0) 1 1
-SHCT:      2 0 0 0 3 0 3 (2) 1 2
-
-172 100002 0 Replace 3
-RRPV:      1 2 1 (3)
-Signature: 4 0 8 (2)
-outcome:   1 0 1 (0)
-SHCT:      2 0 0 0 3 0 3 2 1 2
-
-173 100053 0 Hit 2
-RRPV:      1 2 (0) 3
-Signature: 4 0 8 2
-outcome:   1 0 (1) 0
-SHCT:      2 0 0 0 3 0 3 2 (2) 2
-
-174 100071 0 Replace 3
-RRPV:      1 2 0 (3)
-Signature: 4 0 8 (1)
-outcome:   1 0 1 (0)
-SHCT:      2 0 (0) 0 3 0 3 2 2 2
-
-175 100050 0 Replace 3
-RRPV:      1 2 0 (2)
-Signature: 4 0 8 (0)
-outcome:   1 0 1 (0)
-SHCT:      2 (0) 0 0 3 0 3 2 2 2
-
-176 100070 0 Replace 1
-RRPV:      2 (2) 1 3
-Signature: 4 (0) 8 0
-outcome:   1 (0) 1 0
-SHCT:      (1) 0 0 0 3 0 3 2 2 2
-
-177 100001 0 Replace 3
-RRPV:      2 2 1 (3)
-Signature: 4 0 8 (1)
-outcome:   1 0 1 (0)
-SHCT:      (0) 0 0 0 3 0 3 2 2 2
-
-178 100092 0 Replace 3
-RRPV:      2 2 1 (3)
-Signature: 4 0 8 (2)
-outcome:   1 0 1 (0)
-SHCT:      0 (0) 0 0 3 0 3 2 2 2
-
-179 100080 0 Hit 2
-RRPV:      2 2 (0) 3
-Signature: 4 0 8 2
-outcome:   1 0 (1) 0
-SHCT:      0 0 0 0 3 0 3 2 (3) 2
-
-180 100071 0 Hit 0
-RRPV:      (0) 2 0 3
-Signature: 4 0 8 2
-outcome:   (1) 0 1 0
-SHCT:      0 0 0 0 (3) 0 3 2 3 2
-
-181 100077 0 Hit 2
-RRPV:      0 2 (0) 3
-Signature: 4 0 8 2
-outcome:   1 0 (1) 0
-SHCT:      0 0 0 0 3 0 3 2 (3) 2
-
-182 100074 0 Hit 2
-RRPV:      0 2 (0) 3
-Signature: 4 0 8 2
-outcome:   1 0 (1) 0
-SHCT:      0 0 0 0 3 0 3 2 (3) 2
-
-183 100058 0 Hit 0
-RRPV:      (0) 2 0 3
-Signature: 4 0 8 2
-outcome:   (1) 0 1 0
-SHCT:      0 0 0 0 (3) 0 3 2 3 2
-
-184 100088 0 Replace 3
-RRPV:      0 2 0 (2)
-Signature: 4 0 8 (8)
-outcome:   1 0 1 (0)
-SHCT:      0 0 (0) 0 3 0 3 2 3 2
-
-185 100076 0 Replace 1
-RRPV:      1 (2) 1 3
-Signature: 4 (6) 8 8
-outcome:   1 (0) 1 0
-SHCT:      (0) 0 0 0 3 0 3 2 3 2
-
-186 100058 0 Hit 3
-RRPV:      1 2 1 (0)
-Signature: 4 6 8 8
-outcome:   1 0 1 (1)
-SHCT:      0 0 0 0 3 0 3 2 (3) 2
-
-187 100074 0 Replace 1
-RRPV:      2 (2) 2 1
-Signature: 4 (4) 8 8
-outcome:   1 (0) 1 1
-SHCT:      0 0 0 0 3 0 (2) 2 3 2
-
-188 100041 0 Replace 0
-RRPV:      (3) 3 3 2
-Signature: (1) 4 8 8
-outcome:   (0) 0 1 1
-SHCT:      0 0 0 0 3 0 2 2 3 2
-
-189 100053 0 Hit 2
-RRPV:      3 3 (0) 2
-Signature: 1 4 8 8
-outcome:   0 0 (1) 1
-SHCT:      0 0 0 0 3 0 2 2 (3) 2
-
-190 100014 0 Replace 0
-RRPV:      (2) 3 0 2
-Signature: (4) 4 8 8
-outcome:   (0) 0 1 1
-SHCT:      0 (0) 0 0 3 0 2 2 3 2
-
-191 100020 0 Replace 1
-RRPV:      2 (3) 0 2
-Signature: 4 (0) 8 8
-outcome:   0 (0) 1 1
-SHCT:      0 0 0 0 (2) 0 2 2 3 2
-
-192 100038 0 Hit 0
-RRPV:      (0) 3 0 2
-Signature: 4 0 8 8
-outcome:   (1) 0 1 1
-SHCT:      0 0 0 0 (3) 0 2 2 3 2
-
-193 100030 0 Replace 1
-RRPV:      0 (3) 0 2
-Signature: 4 (0) 8 8
-outcome:   1 (0) 1 1
-SHCT:      (0) 0 0 0 3 0 2 2 3 2
-
-194 100079 0 Hit 0
-RRPV:      (0) 3 0 2
-Signature: 4 0 8 8
-outcome:   (1) 0 1 1
-SHCT:      0 0 0 0 (3) 0 2 2 3 2
-
-195 100069 0 Hit 0
-RRPV:      (0) 3 0 2
-Signature: 4 0 8 8
-outcome:   (1) 0 1 1
-SHCT:      0 0 0 0 (3) 0 2 2 3 2
-
-196 100015 0 Hit 3
-RRPV:      0 3 0 (0)
-Signature: 4 0 8 8
-outcome:   1 0 1 (1)
-SHCT:      0 0 0 0 3 0 2 2 (3) 2
-
-197 100027 0 Replace 1
-RRPV:      0 (2) 0 0
-Signature: 4 (7) 8 8
-outcome:   1 (0) 1 1
-SHCT:      (0) 0 0 0 3 0 2 2 3 2
-
-198 100049 0 Hit 0
-RRPV:      (0) 2 0 0
-Signature: 4 7 8 8
-outcome:   (1) 0 1 1
-SHCT:      0 0 0 0 (3) 0 2 2 3 2
-
-199 100095 0 Replace 1
-RRPV:      1 (3) 1 1
-Signature: 4 (5) 8 8
-outcome:   1 (0) 1 1
-SHCT:      0 0 0 0 3 0 2 (1) 3 2
-
-200 100063 0 Replace 1
-RRPV:      1 (3) 1 1
-Signature: 4 (3) 8 8
-outcome:   1 (0) 1 1
-SHCT:      0 0 0 0 3 (0) 2 1 3 2
-
-201 100090 0 Replace 1
-RRPV:      1 (3) 1 1
-Signature: 4 (0) 8 8
-outcome:   1 (0) 1 1
-SHCT:      0 0 0 (0) 3 0 2 1 3 2
-
-202 100068 0 Replace 1
-RRPV:      1 (2) 1 1
-Signature: 4 (8) 8 8
-outcome:   1 (0) 1 1
-SHCT:      (0) 0 0 0 3 0 2 1 3 2
-
-203 100053 0 Hit 2
-RRPV:      1 2 (0) 1
-Signature: 4 8 8 8
-outcome:   1 0 (1) 1
-SHCT:      0 0 0 0 3 0 2 1 (3) 2
-
-204 100093 0 Hit 3
-RRPV:      1 2 0 (0)
-Signature: 4 8 8 8
-outcome:   1 0 1 (1)
-SHCT:      0 0 0 0 3 0 2 1 (3) 2
-
-205 100056 0 Replace 1
-RRPV:      2 (2) 1 1
-Signature: 4 (6) 8 8
-outcome:   1 (0) 1 1
-SHCT:      0 0 0 0 3 0 2 1 (2) 2
-
-206 100096 0 Hit 0
-RRPV:      (0) 2 1 1
-Signature: 4 6 8 8
-outcome:   (1) 0 1 1
-SHCT:      0 0 0 0 (3) 0 2 1 2 2
-
-207 100002 0 Hit 3
-RRPV:      0 2 1 (0)
-Signature: 4 6 8 8
-outcome:   1 0 1 (1)
-SHCT:      0 0 0 0 3 0 2 1 (3) 2
-
-208 100076 0 Hit 1
-RRPV:      0 (0) 1 0
-Signature: 4 6 8 8
-outcome:   1 (1) 1 1
-SHCT:      0 0 0 0 3 0 (3) 1 3 2
-
-209 100030 0 Hit 3
-RRPV:      0 0 1 (0)
-Signature: 4 6 8 8
-outcome:   1 1 1 (1)
-SHCT:      0 0 0 0 3 0 3 1 (3) 2
-
-210 100028 0 Replace 2
-RRPV:      2 2 (2) 2
-Signature: 4 6 (8) 8
-outcome:   1 1 (0) 1
-SHCT:      0 0 0 0 3 0 3 1 3 2
-
-211 100043 0 Hit 0
-RRPV:      (0) 2 2 2
-Signature: 4 6 8 8
-outcome:   (1) 1 0 1
-SHCT:      0 0 0 0 (3) 0 3 1 3 2
-
-212 100091 0 Replace 1
-RRPV:      1 (3) 3 3
-Signature: 4 (1) 8 8
-outcome:   1 (0) 0 1
-SHCT:      0 0 0 0 3 0 3 1 3 2
-
-213 100012 0 Replace 1
-RRPV:      1 (3) 3 3
-Signature: 4 (2) 8 8
-outcome:   1 (0) 0 1
-SHCT:      0 (0) 0 0 3 0 3 1 3 2
-
-214 100029 0 Replace 1
-RRPV:      1 (2) 3 3
-Signature: 4 (9) 8 8
-outcome:   1 (0) 0 1
-SHCT:      0 0 (0) 0 3 0 3 1 3 2
-
-215 100016 0 Replace 2
-RRPV:      1 2 (2) 3
-Signature: 4 9 (6) 8
-outcome:   1 0 (0) 1
-SHCT:      0 0 0 0 3 0 3 1 (2) 2
-
-216 100066 0 Replace 3
-RRPV:      1 2 2 (2)
-Signature: 4 9 6 (6)
-outcome:   1 0 0 (0)
-SHCT:      0 0 0 0 3 0 3 1 2 2
-
-217 100029 0 Hit 1
-RRPV:      1 (0) 2 2
-Signature: 4 9 6 6
-outcome:   1 (1) 0 0
-SHCT:      0 0 0 0 3 0 3 1 2 (3)
-
-218 100071 0 Replace 2
-RRPV:      2 1 (3) 3
-Signature: 4 9 (1) 6
-outcome:   1 1 (0) 0
-SHCT:      0 0 0 0 3 0 (2) 1 2 3
-
-219 100061 0 Hit 1
-RRPV:      2 (0) 3 3
-Signature: 4 9 1 6
-outcome:   1 (1) 0 0
-SHCT:      0 0 0 0 3 0 2 1 2 (3)
-
-220 100056 0 Replace 2
-RRPV:      2 0 (2) 3
-Signature: 4 9 (6) 6
-outcome:   1 1 (0) 0
-SHCT:      0 (0) 0 0 3 0 2 1 2 3
-
-221 100083 0 Replace 3
-RRPV:      2 0 2 (3)
-Signature: 4 9 6 (3)
-outcome:   1 1 0 (0)
-SHCT:      0 0 0 0 3 0 (1) 1 2 3
-
-222 100003 0 Replace 3
-RRPV:      2 0 2 (3)
-Signature: 4 9 6 (3)
-outcome:   1 1 0 (0)
-SHCT:      0 0 0 (0) 3 0 1 1 2 3
-
-223 100060 0 Replace 3
-RRPV:      2 0 2 (3)
-Signature: 4 9 6 (0)
-outcome:   1 1 0 (0)
-SHCT:      0 0 0 (0) 3 0 1 1 2 3
-
-224 100036 0 Hit 3
-RRPV:      2 0 2 (0)
-Signature: 4 9 6 0
-outcome:   1 1 0 (1)
-SHCT:      (1) 0 0 0 3 0 1 1 2 3
-
-225 100000 0 Replace 0
-RRPV:      (2) 1 3 1
-Signature: (0) 9 6 0
-outcome:   (0) 1 0 1
-SHCT:      1 0 0 0 3 0 1 1 2 3
-
-226 100087 0 Hit 1
-RRPV:      2 (0) 3 1
-Signature: 0 9 6 0
-outcome:   0 (1) 0 1
-SHCT:      1 0 0 0 3 0 1 1 2 (3)
-
-227 100007 0 Hit 0
-RRPV:      (0) 0 3 1
-Signature: 0 9 6 0
-outcome:   (1) 1 0 1
-SHCT:      (2) 0 0 0 3 0 1 1 2 3
-
-228 100046 0 Replace 2
-RRPV:      0 0 (3) 1
-Signature: 0 9 (6) 0
-outcome:   1 1 (0) 1
-SHCT:      2 0 0 0 3 0 (0) 1 2 3
-
-229 100003 0 Replace 2
-RRPV:      0 0 (3) 1
-Signature: 0 9 (3) 0
-outcome:   1 1 (0) 1
-SHCT:      2 0 0 0 3 0 (0) 1 2 3
-
-230 100071 0 Replace 2
-RRPV:      0 0 (3) 1
-Signature: 0 9 (1) 0
-outcome:   1 1 (0) 1
-SHCT:      2 0 0 (0) 3 0 0 1 2 3
-
-231 100013 0 Replace 2
-RRPV:      0 0 (3) 1
-Signature: 0 9 (3) 0
-outcome:   1 1 (0) 1
-SHCT:      2 (0) 0 0 3 0 0 1 2 3
-
-232 100060 0 Replace 2
-RRPV:      0 0 (2) 1
-Signature: 0 9 (0) 0
-outcome:   1 1 (0) 1
-SHCT:      2 0 0 (0) 3 0 0 1 2 3
-
-233 100065 0 Replace 2
-RRPV:      1 1 (3) 2
-Signature: 0 9 (5) 0
-outcome:   1 1 (0) 1
-SHCT:      (1) 0 0 0 3 0 0 1 2 3
-
-234 100071 0 Hit 3
-RRPV:      1 1 3 (0)
-Signature: 0 9 5 0
-outcome:   1 1 0 (1)
-SHCT:      (2) 0 0 0 3 0 0 1 2 3
-
-235 100023 0 Replace 2
-RRPV:      1 1 (3) 0
-Signature: 0 9 (3) 0
-outcome:   1 1 (0) 1
-SHCT:      2 0 0 0 3 (0) 0 1 2 3
-
-236 100093 0 Hit 0
-RRPV:      (0) 1 3 0
-Signature: 0 9 3 0
-outcome:   (1) 1 0 1
-SHCT:      (3) 0 0 0 3 0 0 1 2 3
-
-237 100053 0 Hit 2
-RRPV:      0 1 (0) 0
-Signature: 0 9 3 0
-outcome:   1 1 (1) 1
-SHCT:      3 0 0 (1) 3 0 0 1 2 3
-
-238 100053 0 Hit 1
-RRPV:      0 (0) 0 0
-Signature: 0 9 3 0
-outcome:   1 (1) 1 1
-SHCT:      3 0 0 1 3 0 0 1 2 (3)
-
-239 100070 0 Hit 1
-RRPV:      0 (0) 0 0
-Signature: 0 9 3 0
-outcome:   1 (1) 1 1
-SHCT:      3 0 0 1 3 0 0 1 2 (3)
-
-240 100050 0 Replace 0
-RRPV:      (2) 3 3 3
-Signature: (0) 9 3 0
-outcome:   (0) 1 1 1
-SHCT:      3 0 0 1 3 0 0 1 2 3
-
-241 100099 0 Hit 1
-RRPV:      2 (0) 3 3
-Signature: 0 9 3 0
-outcome:   0 (1) 1 1
-SHCT:      3 0 0 1 3 0 0 1 2 (3)
-
-242 100054 0 Hit 0
-RRPV:      (0) 0 3 3
-Signature: 0 9 3 0
-outcome:   (1) 1 1 1
-SHCT:      (3) 0 0 1 3 0 0 1 2 3
-
-243 100076 0 Replace 2
-RRPV:      0 0 (3) 3
-Signature: 0 9 (6) 0
-outcome:   1 1 (0) 1
-SHCT:      3 0 0 1 3 0 0 1 2 3
-
-244 100074 0 Hit 2
-RRPV:      0 0 (0) 3
-Signature: 0 9 6 0
-outcome:   1 1 (1) 1
-SHCT:      3 0 0 1 3 0 (1) 1 2 3
-
-245 100061 0 Replace 3
-RRPV:      0 0 0 (3)
-Signature: 0 9 6 (1)
-outcome:   1 1 1 (0)
-SHCT:      3 0 0 1 3 0 1 1 2 3
-
-246 100072 0 Hit 1
-RRPV:      0 (0) 0 3
-Signature: 0 9 6 1
-outcome:   1 (1) 1 0
-SHCT:      3 0 0 1 3 0 1 1 2 (3)
-
-247 100000 0 Hit 3
-RRPV:      0 0 0 (0)
-Signature: 0 9 6 1
-outcome:   1 1 1 (1)
-SHCT:      3 (1) 0 1 3 0 1 1 2 3
-
-248 100039 0 Replace 0
-RRPV:      (2) 3 3 3
-Signature: (9) 9 6 1
-outcome:   (0) 1 1 1
-SHCT:      3 1 0 1 3 0 1 1 2 3
-
-249 100077 0 Hit 0
-RRPV:      (0) 3 3 3
-Signature: 9 9 6 1
-outcome:   (1) 1 1 1
-SHCT:      3 1 0 1 3 0 1 1 2 (3)
-
-250 100053 0 Hit 3
-RRPV:      0 3 3 (0)
-Signature: 9 9 6 1
-outcome:   1 1 1 (1)
-SHCT:      3 (2) 0 1 3 0 1 1 2 3
-
-251 100093 0 Hit 3
-RRPV:      0 3 3 (0)
-Signature: 9 9 6 1
-outcome:   1 1 1 (1)
-SHCT:      3 (3) 0 1 3 0 1 1 2 3
-
-252 100050 0 Hit 1
-RRPV:      0 (0) 3 0
-Signature: 9 9 6 1
-outcome:   1 (1) 1 1
-SHCT:      3 3 0 1 3 0 1 1 2 (3)
-
-253 100069 0 Hit 0
-RRPV:      (0) 0 3 0
-Signature: 9 9 6 1
-outcome:   (1) 1 1 1
-SHCT:      3 3 0 1 3 0 1 1 2 (3)
-
-254 100038 0 Replace 2
-RRPV:      0 0 (2) 0
-Signature: 9 9 (8) 1
-outcome:   1 1 (0) 1
-SHCT:      3 3 0 1 3 0 1 1 2 3
-
-255 100003 0 Replace 2
-RRPV:      1 1 (2) 1
-Signature: 9 9 (3) 1
-outcome:   1 1 (0) 1
-SHCT:      3 3 0 1 3 0 1 1 (1) 3
-
-256 100027 0 Hit 2
-RRPV:      1 1 (0) 1
-Signature: 9 9 3 1
-outcome:   1 1 (1) 1
-SHCT:      3 3 0 (2) 3 0 1 1 1 3
-
-257 100090 0 Replace 0
-RRPV:      (2) 3 2 3
-Signature: (0) 9 3 1
-outcome:   (0) 1 1 1
-SHCT:      3 3 0 2 3 0 1 1 1 3
-
-258 100076 0 Replace 1
-RRPV:      2 (2) 2 3
-Signature: 0 (6) 3 1
-outcome:   0 (0) 1 1
-SHCT:      3 3 0 2 3 0 1 1 1 3
-
-259 100081 0 Replace 3
-RRPV:      2 2 2 (2)
-Signature: 0 6 3 (1)
-outcome:   0 0 1 (0)
-SHCT:      3 3 0 2 3 0 1 1 1 3
-
-260 100027 0 Hit 1
-RRPV:      2 (0) 2 2
-Signature: 0 6 3 1
-outcome:   0 (1) 1 0
-SHCT:      3 3 0 2 3 0 (2) 1 1 3
-
-261 100022 0 Replace 0
-RRPV:      (3) 1 3 3
-Signature: (2) 6 3 1
-outcome:   (0) 1 1 0
-SHCT:      (2) 3 0 2 3 0 2 1 1 3
-
-262 100013 0 Hit 1
-RRPV:      3 (0) 3 3
-Signature: 2 6 3 1
-outcome:   0 (1) 1 0
-SHCT:      2 3 0 2 3 0 (3) 1 1 3
-
-263 100064 0 Replace 0
-RRPV:      (2) 0 3 3
-Signature: (4) 6 3 1
-outcome:   (0) 1 1 0
-SHCT:      2 3 (0) 2 3 0 3 1 1 3
-
-264 100068 0 Hit 1
-RRPV:      2 (0) 3 3
-Signature: 4 6 3 1
-outcome:   0 (1) 1 0
-SHCT:      2 3 0 2 3 0 (3) 1 1 3
-
-265 100099 0 Hit 0
-RRPV:      (0) 0 3 3
-Signature: 4 6 3 1
-outcome:   (1) 1 1 0
-SHCT:      2 3 0 2 (3) 0 3 1 1 3
-
-266 100092 0 Replace 2
-RRPV:      0 0 (3) 3
-Signature: 4 6 (2) 1
-outcome:   1 1 (0) 0
-SHCT:      2 3 0 2 3 0 3 1 1 3
-
-267 100085 0 Replace 2
-RRPV:      0 0 (3) 3
-Signature: 4 6 (5) 1
-outcome:   1 1 (0) 0
-SHCT:      2 3 (0) 2 3 0 3 1 1 3
-
-268 100060 0 Replace 2
-RRPV:      0 0 (2) 3
-Signature: 4 6 (0) 1
-outcome:   1 1 (0) 0
-SHCT:      2 3 0 2 3 (0) 3 1 1 3
-
-269 100001 0 Hit 0
-RRPV:      (0) 0 2 3
-Signature: 4 6 0 1
-outcome:   (1) 1 0 0
-SHCT:      2 3 0 2 (3) 0 3 1 1 3
-
-270 100033 0 Hit 2
-RRPV:      0 0 (0) 3
-Signature: 4 6 0 1
-outcome:   1 1 (1) 0
-SHCT:      (3) 3 0 2 3 0 3 1 1 3
-
-271 100038 0 Hit 2
-RRPV:      0 0 (0) 3
-Signature: 4 6 0 1
-outcome:   1 1 (1) 0
-SHCT:      (3) 3 0 2 3 0 3 1 1 3
-
-272 100043 0 Replace 3
-RRPV:      0 0 0 (2)
-Signature: 4 6 0 (3)
-outcome:   1 1 1 (0)
-SHCT:      3 (2) 0 2 3 0 3 1 1 3
-
-273 100095 0 Replace 3
-RRPV:      1 1 1 (3)
-Signature: 4 6 0 (5)
-outcome:   1 1 1 (0)
-SHCT:      3 2 0 (1) 3 0 3 1 1 3
-
-274 100018 0 Replace 3
-RRPV:      1 1 1 (2)
-Signature: 4 6 0 (8)
-outcome:   1 1 1 (0)
-SHCT:      3 2 0 1 3 (0) 3 1 1 3
-
-275 100081 0 Replace 3
-RRPV:      2 2 2 (2)
-Signature: 4 6 0 (1)
-outcome:   1 1 1 (0)
-SHCT:      3 2 0 1 3 0 3 1 (0) 3
-
-276 100011 0 Hit 3
-RRPV:      2 2 2 (0)
-Signature: 4 6 0 1
-outcome:   1 1 1 (1)
-SHCT:      3 (3) 0 1 3 0 3 1 0 3
-
-277 100081 0 Replace 0
-RRPV:      (2) 3 3 1
-Signature: (1) 6 0 1
-outcome:   (0) 1 1 1
-SHCT:      3 3 0 1 3 0 3 1 0 3
-
-278 100080 0 Hit 3
-RRPV:      2 3 3 (0)
-Signature: 1 6 0 1
-outcome:   0 1 1 (1)
-SHCT:      3 (3) 0 1 3 0 3 1 0 3
-
-279 100056 0 Hit 2
-RRPV:      2 3 (0) 0
-Signature: 1 6 0 1
-outcome:   0 1 (1) 1
-SHCT:      (3) 3 0 1 3 0 3 1 0 3
-
-280 100082 0 Replace 1
-RRPV:      2 (3) 0 0
-Signature: 1 (2) 0 1
-outcome:   0 (0) 1 1
-SHCT:      3 3 0 1 3 0 3 1 0 3
-
-281 100036 0 Replace 1
-RRPV:      2 (2) 0 0
-Signature: 1 (6) 0 1
-outcome:   0 (0) 1 1
-SHCT:      3 3 (0) 1 3 0 3 1 0 3
-
-282 100076 0 Hit 0
-RRPV:      (0) 2 0 0
-Signature: 1 6 0 1
-outcome:   (1) 0 1 1
-SHCT:      3 (3) 0 1 3 0 3 1 0 3
-
-283 100073 0 Hit 0
-RRPV:      (0) 2 0 0
-Signature: 1 6 0 1
-outcome:   (1) 0 1 1
-SHCT:      3 (3) 0 1 3 0 3 1 0 3
-
-284 100051 0 Hit 1
-RRPV:      0 (0) 0 0
-Signature: 1 6 0 1
-outcome:   1 (1) 1 1
-SHCT:      3 3 0 1 3 0 (3) 1 0 3
-
-285 100018 0 Replace 0
-RRPV:      (3) 3 3 3
-Signature: (8) 6 0 1
-outcome:   (0) 1 1 1
-SHCT:      3 3 0 1 3 0 3 1 0 3
-
-286 100051 0 Hit 3
-RRPV:      3 3 3 (0)
-Signature: 8 6 0 1
-outcome:   0 1 1 (1)
-SHCT:      3 (3) 0 1 3 0 3 1 0 3
-
-287 100051 0 Replace 0
-RRPV:      (2) 3 3 0
-Signature: (1) 6 0 1
-outcome:   (0) 1 1 1
-SHCT:      3 3 0 1 3 0 3 1 (0) 3
-
-288 100075 0 Replace 1
-RRPV:      2 (3) 3 0
-Signature: 1 (5) 0 1
-outcome:   0 (0) 1 1
-SHCT:      3 3 0 1 3 0 3 1 0 3
-
-289 100093 0 Replace 1
-RRPV:      2 (2) 3 0
-Signature: 1 (3) 0 1
-outcome:   0 (0) 1 1
-SHCT:      3 3 0 1 3 (0) 3 1 0 3
-
-290 100042 0 Hit 2
-RRPV:      2 2 (0) 0
-Signature: 1 3 0 1
-outcome:   0 0 (1) 1
-SHCT:      (3) 3 0 1 3 0 3 1 0 3
-
-291 100060 0 Replace 0
-RRPV:      (2) 3 1 1
-Signature: (0) 3 0 1
-outcome:   (0) 0 1 1
-SHCT:      3 (2) 0 1 3 0 3 1 0 3
-
-292 100023 0 Replace 1
-RRPV:      2 (3) 1 1
-Signature: 0 (3) 0 1
-outcome:   0 (0) 1 1
-SHCT:      3 2 0 (0) 3 0 3 1 0 3
-
-293 100035 0 Replace 1
-RRPV:      2 (3) 1 1
-Signature: 0 (5) 0 1
-outcome:   0 (0) 1 1
-SHCT:      3 2 0 (0) 3 0 3 1 0 3
-
-294 100061 0 Hit 1
-RRPV:      2 (0) 1 1
-Signature: 0 5 0 1
-outcome:   0 (1) 1 1
-SHCT:      3 2 0 0 3 (1) 3 1 0 3
-
-295 100001 0 Replace 0
-RRPV:      (2) 1 2 2
-Signature: (1) 5 0 1
-outcome:   (0) 1 1 1
-SHCT:      (2) 2 0 0 3 1 3 1 0 3
-
-296 100025 0 Replace 0
-RRPV:      (2) 2 3 3
-Signature: (5) 5 0 1
-outcome:   (0) 1 1 1
-SHCT:      2 (1) 0 0 3 1 3 1 0 3
-
-297 100082 0 Hit 2
-RRPV:      2 2 (0) 3
-Signature: 5 5 0 1
-outcome:   0 1 (1) 1
-SHCT:      (3) 1 0 0 3 1 3 1 0 3
-
-298 100082 0 Replace 3
-RRPV:      2 2 0 (3)
-Signature: 5 5 0 (2)
-outcome:   0 1 1 (0)
-SHCT:      3 1 0 0 3 1 3 1 0 3
-
-299 100022 0 Replace 3
-RRPV:      2 2 0 (3)
-Signature: 5 5 0 (2)
-outcome:   0 1 1 (0)
-SHCT:      3 1 (0) 0 3 1 3 1 0 3
-
-300 100040 0 Replace 3
-RRPV:      2 2 0 (2)
-Signature: 5 5 0 (0)
-outcome:   0 1 1 (0)
-SHCT:      3 1 (0) 0 3 1 3 1 0 3
-
-301 100068 0 Replace 0
-RRPV:      (3) 3 1 3
-Signature: (8) 5 0 0
-outcome:   (0) 1 1 0
-SHCT:      3 1 0 0 3 (0) 3 1 0 3
-
-302 100015 0 Replace 0
-RRPV:      (3) 3 1 3
-Signature: (5) 5 0 0
-outcome:   (0) 1 1 0
-SHCT:      3 1 0 0 3 0 3 1 (0) 3
-
-303 100079 0 Hit 0
-RRPV:      (0) 3 1 3
-Signature: 5 5 0 0
-outcome:   (1) 1 1 0
-SHCT:      3 1 0 0 3 (1) 3 1 0 3
-
-304 100096 0 Hit 0
-RRPV:      (0) 3 1 3
-Signature: 5 5 0 0
-outcome:   (1) 1 1 0
-SHCT:      3 1 0 0 3 (2) 3 1 0 3
-
-305 100056 0 Replace 1
-RRPV:      0 (2) 1 3
-Signature: 5 (6) 0 0
-outcome:   1 (0) 1 0
-SHCT:      3 1 0 0 3 2 3 1 0 3
-
-306 100060 0 Replace 3
-RRPV:      0 2 1 (2)
-Signature: 5 6 0 (0)
-outcome:   1 0 1 (0)
-SHCT:      (2) 1 0 0 3 2 3 1 0 3
-
-307 100050 0 Replace 1
-RRPV:      1 (2) 2 3
-Signature: 5 (0) 0 0
-outcome:   1 (0) 1 0
-SHCT:      2 1 0 0 3 2 (2) 1 0 3
-
-308 100004 0 Replace 3
-RRPV:      1 2 2 (2)
-Signature: 5 0 0 (4)
-outcome:   1 0 1 (0)
-SHCT:      (1) 1 0 0 3 2 2 1 0 3
-
-309 100003 0 Replace 1
-RRPV:      2 (3) 3 3
-Signature: 5 (3) 0 4
-outcome:   1 (0) 1 0
-SHCT:      (0) 1 0 0 3 2 2 1 0 3
-
-310 100028 0 Replace 1
-RRPV:      2 (3) 3 3
-Signature: 5 (8) 0 4
-outcome:   1 (0) 1 0
-SHCT:      0 1 0 (0) 3 2 2 1 0 3
-
-311 100081 0 Hit 3
-RRPV:      2 3 3 (0)
-Signature: 5 8 0 4
-outcome:   1 0 1 (1)
-SHCT:      0 1 0 0 (3) 2 2 1 0 3
-
-312 100085 0 Hit 3
-RRPV:      2 3 3 (0)
-Signature: 5 8 0 4
-outcome:   1 0 1 (1)
-SHCT:      0 1 0 0 (3) 2 2 1 0 3
-
-313 100059 0 Hit 2
-RRPV:      2 3 (0) 0
-Signature: 5 8 0 4
-outcome:   1 0 (1) 1
-SHCT:      (1) 1 0 0 3 2 2 1 0 3
-
-314 100029 0 Replace 1
-RRPV:      2 (2) 0 0
-Signature: 5 (9) 0 4
-outcome:   1 (0) 1 1
-SHCT:      1 1 0 0 3 2 2 1 (0) 3
-
-315 100071 0 Hit 3
-RRPV:      2 2 0 (0)
-Signature: 5 9 0 4
-outcome:   1 0 1 (1)
-SHCT:      1 1 0 0 (3) 2 2 1 0 3
-
-316 100007 0 Hit 2
-RRPV:      2 2 (0) 0
-Signature: 5 9 0 4
-outcome:   1 0 (1) 1
-SHCT:      (2) 1 0 0 3 2 2 1 0 3
-
-317 100042 0 Replace 0
-RRPV:      (3) 3 1 1
-Signature: (2) 9 0 4
-outcome:   (0) 0 1 1
-SHCT:      2 1 0 0 3 2 2 1 0 3
-
-318 100079 0 Hit 3
-RRPV:      3 3 1 (0)
-Signature: 2 9 0 4
-outcome:   0 0 1 (1)
-SHCT:      2 1 0 0 (3) 2 2 1 0 3
-
-319 100001 0 Replace 0
-RRPV:      (2) 3 1 0
-Signature: (1) 9 0 4
-outcome:   (0) 0 1 1
-SHCT:      2 1 (0) 0 3 2 2 1 0 3
-
-320 100033 0 Replace 1
-RRPV:      2 (3) 1 0
-Signature: 1 (3) 0 4
-outcome:   0 (0) 1 1
-SHCT:      2 1 0 0 3 2 2 1 0 (2)
-
-321 100093 0 Replace 1
-RRPV:      2 (3) 1 0
-Signature: 1 (3) 0 4
-outcome:   0 (0) 1 1
-SHCT:      2 1 0 (0) 3 2 2 1 0 2
-
-322 100036 0 Hit 1
-RRPV:      2 (0) 1 0
-Signature: 1 3 0 4
-outcome:   0 (1) 1 1
-SHCT:      2 1 0 (1) 3 2 2 1 0 2
-
-323 100032 0 Replace 0
-RRPV:      (3) 1 2 1
-Signature: (2) 3 0 4
-outcome:   (0) 1 1 1
-SHCT:      2 (0) 0 1 3 2 2 1 0 2
-
-324 100070 0 Hit 0
-RRPV:      (0) 1 2 1
-Signature: 2 3 0 4
-outcome:   (1) 1 1 1
-SHCT:      2 0 (1) 1 3 2 2 1 0 2
-
-325 100067 0 Replace 2
-RRPV:      1 2 (2) 2
-Signature: 2 3 (7) 4
-outcome:   1 1 (0) 1
-SHCT:      2 0 1 1 3 2 2 1 0 2
-
-326 100086 0 Replace 1
-RRPV:      2 (2) 3 3
-Signature: 2 (6) 7 4
-outcome:   1 (0) 0 1
-SHCT:      2 0 1 1 3 2 2 1 0 2
-
-327 100089 0 Replace 2
-RRPV:      2 2 (2) 3
-Signature: 2 6 (9) 4
-outcome:   1 0 (0) 1
-SHCT:      2 0 1 1 3 2 2 (0) 0 2
-
-328 100030 0 Replace 3
-RRPV:      2 2 2 (2)
-Signature: 2 6 9 (0)
-outcome:   1 0 0 (0)
-SHCT:      2 0 1 1 3 2 2 0 0 2
-
-329 100021 0 Replace 0
-RRPV:      (3) 3 3 3
-Signature: (1) 6 9 0
-outcome:   (0) 0 0 0
-SHCT:      2 0 1 1 3 2 2 0 0 2
-
-330 100031 0 Hit 3
-RRPV:      3 3 3 (0)
-Signature: 1 6 9 0
-outcome:   0 0 0 (1)
-SHCT:      (3) 0 1 1 3 2 2 0 0 2
-
-331 100006 0 Replace 0
-RRPV:      (2) 3 3 0
-Signature: (6) 6 9 0
-outcome:   (0) 0 0 1
-SHCT:      3 (0) 1 1 3 2 2 0 0 2
-
-332 100031 0 Hit 1
-RRPV:      2 (0) 3 0
-Signature: 6 6 9 0
-outcome:   0 (1) 0 1
-SHCT:      3 0 1 1 3 2 (3) 0 0 2
-
-333 100037 0 Replace 2
-RRPV:      2 0 (3) 0
-Signature: 6 6 (7) 0
-outcome:   0 1 (0) 1
-SHCT:      3 0 1 1 3 2 3 0 0 (1)
-
-334 100004 0 Hit 3
-RRPV:      2 0 3 (0)
-Signature: 6 6 7 0
-outcome:   0 1 0 (1)
-SHCT:      (3) 0 1 1 3 2 3 0 0 1
-
-335 100068 0 Replace 2
-RRPV:      2 0 (3) 0
-Signature: 6 6 (8) 0
-outcome:   0 1 (0) 1
-SHCT:      3 0 1 1 3 2 3 (0) 0 1
-
-336 100027 0 Replace 2
-RRPV:      2 0 (3) 0
-Signature: 6 6 (7) 0
-outcome:   0 1 (0) 1
-SHCT:      3 0 1 1 3 2 3 0 (0) 1
-
-337 100037 0 Replace 2
-RRPV:      2 0 (3) 0
-Signature: 6 6 (7) 0
-outcome:   0 1 (0) 1
-SHCT:      3 0 1 1 3 2 3 (0) 0 1
-
-338 100058 0 Replace 2
-RRPV:      2 0 (3) 0
-Signature: 6 6 (8) 0
-outcome:   0 1 (0) 1
-SHCT:      3 0 1 1 3 2 3 (0) 0 1
-
-339 100010 0 Replace 2
-RRPV:      2 0 (2) 0
-Signature: 6 6 (0) 0
-outcome:   0 1 (0) 1
-SHCT:      3 0 1 1 3 2 3 0 (0) 1
-
-340 100000 0 Replace 0
-RRPV:      (2) 1 3 1
-Signature: (0) 6 0 0
-outcome:   (0) 1 0 1
-SHCT:      3 0 1 1 3 2 (2) 0 0 1
-
-341 100078 0 Replace 2
-RRPV:      2 1 (3) 1
-Signature: 0 6 (8) 0
-outcome:   0 1 (0) 1
-SHCT:      (2) 0 1 1 3 2 2 0 0 1
-
-342 100078 0 Hit 0
-RRPV:      (0) 1 3 1
-Signature: 0 6 8 0
-outcome:   (1) 1 0 1
-SHCT:      (3) 0 1 1 3 2 2 0 0 1
-
-343 100042 0 Hit 0
-RRPV:      (0) 1 3 1
-Signature: 0 6 8 0
-outcome:   (1) 1 0 1
-SHCT:      (3) 0 1 1 3 2 2 0 0 1
-
-344 100007 0 Replace 2
-RRPV:      0 1 (3) 1
-Signature: 0 6 (7) 0
-outcome:   1 1 (0) 1
-SHCT:      3 0 1 1 3 2 2 0 (0) 1
-
-345 100064 0 Hit 0
-RRPV:      (0) 1 3 1
-Signature: 0 6 7 0
-outcome:   (1) 1 0 1
-SHCT:      (3) 0 1 1 3 2 2 0 0 1
-
-346 100009 0 Hit 0
-RRPV:      (0) 1 3 1
-Signature: 0 6 7 0
-outcome:   (1) 1 0 1
-SHCT:      (3) 0 1 1 3 2 2 0 0 1
-
-347 100067 0 Replace 2
-RRPV:      0 1 (3) 1
-Signature: 0 6 (7) 0
-outcome:   1 1 (0) 1
-SHCT:      3 0 1 1 3 2 2 (0) 0 1
-
-348 100010 0 Hit 2
-RRPV:      0 1 (0) 1
-Signature: 0 6 7 0
-outcome:   1 1 (1) 1
-SHCT:      3 0 1 1 3 2 2 (1) 0 1
-
-349 100022 0 Replace 1
-RRPV:      2 (2) 2 3
-Signature: 0 (2) 7 0
-outcome:   1 (0) 1 1
-SHCT:      3 0 1 1 3 2 2 1 0 1
-
-350 100020 0 Replace 3
-RRPV:      2 2 2 (2)
-Signature: 0 2 7 (0)
-outcome:   1 0 1 (0)
-SHCT:      3 0 1 1 3 2 2 1 0 1
-
-351 100016 0 Hit 1
-RRPV:      2 (0) 2 2
-Signature: 0 2 7 0
-outcome:   1 (1) 1 0
-SHCT:      3 0 (2) 1 3 2 2 1 0 1
-
-352 100083 0 Replace 0
-RRPV:      (2) 1 3 3
-Signature: (3) 2 7 0
-outcome:   (0) 1 1 0
-SHCT:      3 0 2 1 3 2 2 1 0 1
-
-353 100050 0 Replace 2
-RRPV:      2 1 (2) 3
-Signature: 3 2 (0) 0
-outcome:   0 1 (0) 0
-SHCT:      3 0 2 1 3 2 2 1 0 1
-
-354 100038 0 Replace 3
-RRPV:      2 1 2 (3)
-Signature: 3 2 0 (8)
-outcome:   0 1 0 (0)
-SHCT:      (2) 0 2 1 3 2 2 1 0 1
-
-355 100000 0 Replace 3
-RRPV:      2 1 2 (2)
-Signature: 3 2 0 (0)
-outcome:   0 1 0 (0)
-SHCT:      2 0 2 1 3 2 2 1 (0) 1
-
-356 100006 0 Replace 0
-RRPV:      (2) 2 3 3
-Signature: (6) 2 0 0
-outcome:   (0) 1 0 0
-SHCT:      2 0 2 (0) 3 2 2 1 0 1
-
-357 100059 0 Hit 2
-RRPV:      2 2 (0) 3
-Signature: 6 2 0 0
-outcome:   0 1 (1) 0
-SHCT:      (3) 0 2 0 3 2 2 1 0 1
-
-358 100010 0 Replace 3
-RRPV:      2 2 0 (2)
-Signature: 6 2 0 (0)
-outcome:   0 1 1 (0)
-SHCT:      (2) 0 2 0 3 2 2 1 0 1
-
-359 100088 0 Replace 0
-RRPV:      (3) 3 1 3
-Signature: (8) 2 0 0
-outcome:   (0) 1 1 0
-SHCT:      2 0 2 0 3 2 (1) 1 0 1
-
-360 100020 0 Replace 0
-RRPV:      (2) 3 1 3
-Signature: (0) 2 0 0
-outcome:   (0) 1 1 0
-SHCT:      2 0 2 0 3 2 1 1 (0) 1
-
-361 100046 0 Replace 1
-RRPV:      2 (2) 1 3
-Signature: 0 (6) 0 0
-outcome:   0 (0) 1 0
-SHCT:      2 0 2 0 3 2 1 1 0 1
-
-362 100054 0 Hit 1
-RRPV:      2 (0) 1 3
-Signature: 0 6 0 0
-outcome:   0 (1) 1 0
-SHCT:      2 0 2 0 3 2 (2) 1 0 1
-
-363 100059 0 Replace 3
-RRPV:      2 0 1 (2)
-Signature: 0 6 0 (9)
-outcome:   0 1 1 (0)
-SHCT:      (1) 0 2 0 3 2 2 1 0 1
-
-364 100062 0 Replace 0
-RRPV:      (2) 1 2 3
-Signature: (2) 6 0 9
-outcome:   (0) 1 1 0
-SHCT:      (0) 0 2 0 3 2 2 1 0 1
-
-365 100013 0 Hit 2
-RRPV:      2 1 (0) 3
-Signature: 2 6 0 9
-outcome:   0 1 (1) 0
-SHCT:      (1) 0 2 0 3 2 2 1 0 1
-
-366 100026 0 Replace 3
-RRPV:      2 1 0 (2)
-Signature: 2 6 0 (6)
-outcome:   0 1 1 (0)
-SHCT:      1 0 2 0 3 2 2 1 0 (0)
-
-367 100089 0 Hit 0
-RRPV:      (0) 1 0 2
-Signature: 2 6 0 6
-outcome:   (1) 1 1 0
-SHCT:      1 0 (3) 0 3 2 2 1 0 0
-
-368 100043 0 Hit 2
-RRPV:      0 1 (0) 2
-Signature: 2 6 0 6
-outcome:   1 1 (1) 0
-SHCT:      (2) 0 3 0 3 2 2 1 0 0
-
-369 100091 0 Replace 3
-RRPV:      1 2 1 (3)
-Signature: 2 6 0 (1)
-outcome:   1 1 1 (0)
-SHCT:      2 0 3 0 3 2 (1) 1 0 0
-
-370 100038 0 Replace 3
-RRPV:      1 2 1 (3)
-Signature: 2 6 0 (8)
-outcome:   1 1 1 (0)
-SHCT:      2 (0) 3 0 3 2 1 1 0 0
-
-371 100008 0 Hit 2
-RRPV:      1 2 (0) 3
-Signature: 2 6 0 8
-outcome:   1 1 (1) 0
-SHCT:      (3) 0 3 0 3 2 1 1 0 0
-
-372 100046 0 Replace 3
-RRPV:      1 2 0 (2)
-Signature: 2 6 0 (6)
-outcome:   1 1 1 (0)
-SHCT:      3 0 3 0 3 2 1 1 (0) 0
-
-373 100097 0 Hit 2
-RRPV:      1 2 (0) 2
-Signature: 2 6 0 6
-outcome:   1 1 (1) 0
-SHCT:      (3) 0 3 0 3 2 1 1 0 0
-
-374 100075 0 Hit 3
-RRPV:      1 2 0 (0)
-Signature: 2 6 0 6
-outcome:   1 1 1 (1)
-SHCT:      3 0 3 0 3 2 (2) 1 0 0
-
-375 100076 0 Replace 1
-RRPV:      2 (2) 1 1
-Signature: 2 (6) 0 6
-outcome:   1 (0) 1 1
-SHCT:      3 0 3 0 3 2 2 1 0 0
-
-376 100047 0 Hit 2
-RRPV:      2 2 (0) 1
-Signature: 2 6 0 6
-outcome:   1 0 (1) 1
-SHCT:      (3) 0 3 0 3 2 2 1 0 0
-
-377 100092 0 Replace 0
-RRPV:      (2) 3 1 2
-Signature: (2) 6 0 6
-outcome:   (0) 0 1 1
-SHCT:      3 0 3 0 3 2 2 1 0 0
-
-378 100072 0 Replace 1
-RRPV:      2 (2) 1 2
-Signature: 2 (2) 0 6
-outcome:   0 (0) 1 1
-SHCT:      3 0 3 0 3 2 (1) 1 0 0
-
-379 100069 0 Hit 3
-RRPV:      2 2 1 (0)
-Signature: 2 2 0 6
-outcome:   0 0 1 (1)
-SHCT:      3 0 3 0 3 2 (2) 1 0 0
-
-380 100062 0 Hit 2
-RRPV:      2 2 (0) 0
-Signature: 2 2 0 6
-outcome:   0 0 (1) 1
-SHCT:      (3) 0 3 0 3 2 2 1 0 0
-
-381 100052 0 Replace 0
-RRPV:      (2) 3 1 1
-Signature: (2) 2 0 6
-outcome:   (0) 0 1 1
-SHCT:      3 0 (2) 0 3 2 2 1 0 0
-
-382 100092 0 Hit 2
-RRPV:      2 3 (0) 1
-Signature: 2 2 0 6
-outcome:   0 0 (1) 1
-SHCT:      (3) 0 2 0 3 2 2 1 0 0
-
-383 100070 0 Hit 3
-RRPV:      2 3 0 (0)
-Signature: 2 2 0 6
-outcome:   0 0 1 (1)
-SHCT:      3 0 2 0 3 2 (3) 1 0 0
-
-384 100084 0 Replace 1
-RRPV:      2 (2) 0 0
-Signature: 2 (4) 0 6
-outcome:   0 (0) 1 1
-SHCT:      3 0 (1) 0 3 2 3 1 0 0
-
-385 100004 0 Replace 0
-RRPV:      (2) 3 1 1
-Signature: (4) 4 0 6
-outcome:   (0) 0 1 1
-SHCT:      3 0 (0) 0 3 2 3 1 0 0
-
-386 100042 0 Hit 3
-RRPV:      2 3 1 (0)
-Signature: 4 4 0 6
-outcome:   0 0 1 (1)
-SHCT:      3 0 0 0 3 2 (3) 1 0 0
-
-387 100017 0 Hit 0
-RRPV:      (0) 3 1 0
-Signature: 4 4 0 6
-outcome:   (1) 0 1 1
-SHCT:      3 0 0 0 (3) 2 3 1 0 0
-
-388 100016 0 Replace 1
-RRPV:      0 (2) 1 0
-Signature: 4 (6) 0 6
-outcome:   1 (0) 1 1
-SHCT:      3 0 0 0 (2) 2 3 1 0 0
-
-389 100098 0 Hit 2
-RRPV:      0 2 (0) 0
-Signature: 4 6 0 6
-outcome:   1 0 (1) 1
-SHCT:      (3) 0 0 0 2 2 3 1 0 0
-
-390 100025 0 Hit 3
-RRPV:      0 2 0 (0)
-Signature: 4 6 0 6
-outcome:   1 0 1 (1)
-SHCT:      3 0 0 0 2 2 (3) 1 0 0
-
-391 100003 0 Hit 2
-RRPV:      0 2 (0) 0
-Signature: 4 6 0 6
-outcome:   1 0 (1) 1
-SHCT:      (3) 0 0 0 2 2 3 1 0 0
-
-392 100073 0 Replace 1
-RRPV:      1 (3) 1 1
-Signature: 4 (3) 0 6
-outcome:   1 (0) 1 1
-SHCT:      3 0 0 0 2 2 (2) 1 0 0
-
-393 100093 0 Replace 1
-RRPV:      1 (3) 1 1
-Signature: 4 (3) 0 6
-outcome:   1 (0) 1 1
-SHCT:      3 0 0 (0) 2 2 2 1 0 0
-
-394 100032 0 Hit 2
-RRPV:      1 3 (0) 1
-Signature: 4 3 0 6
-outcome:   1 0 (1) 1
-SHCT:      (3) 0 0 0 2 2 2 1 0 0
-
-395 100063 0 Hit 1
-RRPV:      1 (0) 0 1
-Signature: 4 3 0 6
-outcome:   1 (1) 1 1
-SHCT:      3 0 0 (1) 2 2 2 1 0 0
-
-396 100006 0 Hit 3
-RRPV:      1 0 0 (0)
-Signature: 4 3 0 6
-outcome:   1 1 1 (1)
-SHCT:      3 0 0 1 2 2 (3) 1 0 0
-
-397 100005 0 Hit 2
-RRPV:      1 0 (0) 0
-Signature: 4 3 0 6
-outcome:   1 1 (1) 1
-SHCT:      (3) 0 0 1 2 2 3 1 0 0
-
-398 100086 0 Hit 1
-RRPV:      1 (0) 0 0
-Signature: 4 3 0 6
-outcome:   1 (1) 1 1
-SHCT:      3 0 0 (2) 2 2 3 1 0 0
-
-399 100048 0 Hit 1
-RRPV:      1 (0) 0 0
-Signature: 4 3 0 6
-outcome:   1 (1) 1 1
-SHCT:      3 0 0 (3) 2 2 3 1 0 0
-
-400 100069 0 Hit 1
-RRPV:      1 (0) 0 0
-Signature: 4 3 0 6
-outcome:   1 (1) 1 1
-SHCT:      3 0 0 (3) 2 2 3 1 0 0
-
-401 100005 0 Replace 0
-RRPV:      (2) 2 2 2
-Signature: (5) 3 0 6
-outcome:   (0) 1 1 1
-SHCT:      3 0 0 3 2 2 3 1 0 0
-
-402 100079 0 Replace 0
-RRPV:      (3) 3 3 3
-Signature: (9) 3 0 6
-outcome:   (0) 1 1 1
-SHCT:      3 0 0 3 2 (1) 3 1 0 0
-
-403 100004 0 Replace 0
-RRPV:      (2) 3 3 3
-Signature: (4) 3 0 6
-outcome:   (0) 1 1 1
-SHCT:      3 0 0 3 2 1 3 1 0 (0)
-
-404 100049 0 Hit 2
-RRPV:      2 3 (0) 3
-Signature: 4 3 0 6
-outcome:   0 1 (1) 1
-SHCT:      (3) 0 0 3 2 1 3 1 0 0
-
-405 100098 0 Replace 1
-RRPV:      2 (3) 0 3
-Signature: 4 (8) 0 6
-outcome:   0 (0) 1 1
-SHCT:      3 0 0 3 2 1 3 1 0 0
-
-406 100059 0 Hit 2
-RRPV:      2 3 (0) 3
-Signature: 4 8 0 6
-outcome:   0 0 (1) 1
-SHCT:      (3) 0 0 3 2 1 3 1 0 0
-
-407 100090 0 Replace 1
-RRPV:      2 (2) 0 3
-Signature: 4 (0) 0 6
-outcome:   0 (0) 1 1
-SHCT:      3 0 0 3 2 1 3 1 (0) 0
-
-408 100037 0 Hit 1
-RRPV:      2 (0) 0 3
-Signature: 4 0 0 6
-outcome:   0 (1) 1 1
-SHCT:      (3) 0 0 3 2 1 3 1 0 0
-
-409 100034 0 Hit 0
-RRPV:      (0) 0 0 3
-Signature: 4 0 0 6
-outcome:   (1) 1 1 1
-SHCT:      3 0 0 3 (3) 1 3 1 0 0
-
-410 100090 0 Hit 3
-RRPV:      0 0 0 (0)
-Signature: 4 0 0 6
-outcome:   1 1 1 (1)
-SHCT:      3 0 0 3 3 1 (3) 1 0 0
-
-411 100090 0 Replace 0
-RRPV:      (2) 3 3 3
-Signature: (0) 0 0 6
-outcome:   (0) 1 1 1
-SHCT:      3 0 0 3 3 1 3 1 0 0
-
-412 100082 0 Replace 1
-RRPV:      2 (3) 3 3
-Signature: 0 (2) 0 6
-outcome:   0 (0) 1 1
-SHCT:      3 0 0 3 3 1 3 1 0 0
-
-413 100035 0 Hit 1
-RRPV:      2 (0) 3 3
-Signature: 0 2 0 6
-outcome:   0 (1) 1 1
-SHCT:      3 0 (1) 3 3 1 3 1 0 0
-
-414 100047 0 Replace 2
-RRPV:      2 0 (2) 3
-Signature: 0 2 (7) 6
-outcome:   0 1 (0) 1
-SHCT:      3 0 1 3 3 1 3 1 0 0
-
-415 100031 0 Replace 3
-RRPV:      2 0 2 (3)
-Signature: 0 2 7 (1)
-outcome:   0 1 0 (0)
-SHCT:      3 0 1 3 3 1 3 1 0 0
-
-416 100055 0 Replace 3
-RRPV:      2 0 2 (2)
-Signature: 0 2 7 (5)
-outcome:   0 1 0 (0)
-SHCT:      3 (0) 1 3 3 1 3 1 0 0
-
-417 100063 0 Replace 0
-RRPV:      (2) 1 3 3
-Signature: (3) 2 7 5
-outcome:   (0) 1 0 0
-SHCT:      (2) 0 1 3 3 1 3 1 0 0
-
-418 100038 0 Replace 2
-RRPV:      2 1 (3) 3
-Signature: 3 2 (8) 5
-outcome:   0 1 (0) 0
-SHCT:      2 0 1 3 3 1 3 (0) 0 0
-
-419 100054 0 Hit 2
-RRPV:      2 1 (0) 3
-Signature: 3 2 8 5
-outcome:   0 1 (1) 0
-SHCT:      2 0 1 3 3 1 3 0 (1) 0
-
-420 100065 0 Hit 0
-RRPV:      (0) 1 0 3
-Signature: 3 2 8 5
-outcome:   (1) 1 1 0
-SHCT:      2 0 1 (3) 3 1 3 0 1 0
-
-421 100080 0 Replace 3
-RRPV:      0 1 0 (2)
-Signature: 3 2 8 (0)
-outcome:   1 1 1 (0)
-SHCT:      2 0 1 3 3 (0) 3 0 1 0
-
-422 100057 0 Replace 3
-RRPV:      1 2 1 (3)
-Signature: 3 2 8 (7)
-outcome:   1 1 1 (0)
-SHCT:      (1) 0 1 3 3 0 3 0 1 0
-
-423 100047 0 Hit 0
-RRPV:      (0) 2 1 3
-Signature: 3 2 8 7
-outcome:   (1) 1 1 0
-SHCT:      1 0 1 (3) 3 0 3 0 1 0
-
-424 100075 0 Hit 0
-RRPV:      (0) 2 1 3
-Signature: 3 2 8 7
-outcome:   (1) 1 1 0
-SHCT:      1 0 1 (3) 3 0 3 0 1 0
-
-425 100090 0 Replace 3
-RRPV:      0 2 1 (2)
-Signature: 3 2 8 (0)
-outcome:   1 1 1 (0)
-SHCT:      1 0 1 3 3 0 3 (0) 1 0
-
-426 100098 0 Hit 0
-RRPV:      (0) 2 1 2
-Signature: 3 2 8 0
-outcome:   (1) 1 1 0
-SHCT:      1 0 1 (3) 3 0 3 0 1 0
-
-427 100021 0 Replace 1
-RRPV:      1 (3) 2 3
-Signature: 3 (1) 8 0
-outcome:   1 (0) 1 0
-SHCT:      1 0 1 3 3 0 3 0 1 0
-
-428 100064 0 Replace 1
-RRPV:      1 (2) 2 3
-Signature: 3 (4) 8 0
-outcome:   1 (0) 1 0
-SHCT:      1 (0) 1 3 3 0 3 0 1 0
-
-429 100063 0 Replace 3
-RRPV:      1 2 2 (2)
-Signature: 3 4 8 (3)
-outcome:   1 0 1 (0)
-SHCT:      (0) 0 1 3 3 0 3 0 1 0
-
-430 100072 0 Replace 1
-RRPV:      2 (2) 3 3
-Signature: 3 (2) 8 3
-outcome:   1 (0) 1 0
-SHCT:      0 0 1 3 (2) 0 3 0 1 0
-
-431 100002 0 Hit 3
-RRPV:      2 2 3 (0)
-Signature: 3 2 8 3
-outcome:   1 0 1 (1)
-SHCT:      0 0 1 (3) 2 0 3 0 1 0
-
-432 100057 0 Replace 2
-RRPV:      2 2 (3) 0
-Signature: 3 2 (7) 3
-outcome:   1 0 (0) 1
-SHCT:      0 0 1 3 2 0 3 0 1 0
-
-433 100072 0 Replace 2
-RRPV:      2 2 (2) 0
-Signature: 3 2 (2) 3
-outcome:   1 0 (0) 1
-SHCT:      0 0 1 3 2 0 3 (0) 1 0
-
-434 100063 0 Hit 1
-RRPV:      2 (0) 2 0
-Signature: 3 2 2 3
-outcome:   1 (1) 0 1
-SHCT:      0 0 (2) 3 2 0 3 0 1 0
-
-435 100026 0 Hit 1
-RRPV:      2 (0) 2 0
-Signature: 3 2 2 3
-outcome:   1 (1) 0 1
-SHCT:      0 0 (3) 3 2 0 3 0 1 0
-
-436 100041 0 Replace 0
-RRPV:      (3) 1 3 1
-Signature: (1) 2 2 3
-outcome:   (0) 1 0 1
-SHCT:      0 0 3 3 2 0 3 0 1 0
-
-437 100089 0 Replace 0
-RRPV:      (3) 1 3 1
-Signature: (9) 2 2 3
-outcome:   (0) 1 0 1
-SHCT:      0 (0) 3 3 2 0 3 0 1 0
-
-438 100089 0 Replace 0
-RRPV:      (3) 1 3 1
-Signature: (9) 2 2 3
-outcome:   (0) 1 0 1
-SHCT:      0 0 3 3 2 0 3 0 1 (0)
-
-439 100054 0 Replace 0
-RRPV:      (2) 1 3 1
-Signature: (4) 2 2 3
-outcome:   (0) 1 0 1
-SHCT:      0 0 3 3 2 0 3 0 1 (0)
-
-440 100006 0 Hit 1
-RRPV:      2 (0) 3 1
-Signature: 4 2 2 3
-outcome:   0 (1) 0 1
-SHCT:      0 0 (3) 3 2 0 3 0 1 0
-
-441 100062 0 Hit 1
-RRPV:      2 (0) 3 1
-Signature: 4 2 2 3
-outcome:   0 (1) 0 1
-SHCT:      0 0 (3) 3 2 0 3 0 1 0
-
-442 100037 0 Hit 1
-RRPV:      2 (0) 3 1
-Signature: 4 2 2 3
-outcome:   0 (1) 0 1
-SHCT:      0 0 (3) 3 2 0 3 0 1 0
-
-443 100010 0 Hit 0
-RRPV:      (0) 0 3 1
-Signature: 4 2 2 3
-outcome:   (1) 1 0 1
-SHCT:      0 0 3 3 (3) 0 3 0 1 0
-
-444 100089 0 Hit 3
-RRPV:      0 0 3 (0)
-Signature: 4 2 2 3
-outcome:   1 1 0 (1)
-SHCT:      0 0 3 (3) 3 0 3 0 1 0
-
-445 100096 0 Replace 2
-RRPV:      0 0 (2) 0
-Signature: 4 2 (6) 3
-outcome:   1 1 (0) 1
-SHCT:      0 0 (2) 3 3 0 3 0 1 0
-
-446 100018 0 Replace 2
-RRPV:      1 1 (2) 1
-Signature: 4 2 (8) 3
-outcome:   1 1 (0) 1
-SHCT:      0 0 2 3 3 0 (2) 0 1 0
-
-447 100099 0 Replace 2
-RRPV:      2 2 (3) 2
-Signature: 4 2 (9) 3
-outcome:   1 1 (0) 1
-SHCT:      0 0 2 3 3 0 2 0 (0) 0
-
-448 100078 0 Replace 2
-RRPV:      2 2 (3) 2
-Signature: 4 2 (8) 3
-outcome:   1 1 (0) 1
-SHCT:      0 0 2 3 3 0 2 0 0 (0)
-
-449 100006 0 Replace 2
-RRPV:      2 2 (2) 2
-Signature: 4 2 (6) 3
-outcome:   1 1 (0) 1
-SHCT:      0 0 2 3 3 0 2 0 (0) 0
-
-450 100047 0 Hit 3
-RRPV:      2 2 2 (0)
-Signature: 4 2 6 3
-outcome:   1 1 0 (1)
-SHCT:      0 0 2 (3) 3 0 2 0 0 0
-
-451 100081 0 Replace 0
-RRPV:      (3) 3 3 1
-Signature: (1) 2 6 3
-outcome:   (0) 1 0 1
-SHCT:      0 0 2 3 3 0 2 0 0 0
-
-452 100005 0 Hit 0
-RRPV:      (0) 3 3 1
-Signature: 1 2 6 3
-outcome:   (1) 1 0 1
-SHCT:      0 (1) 2 3 3 0 2 0 0 0
-
-453 100022 0 Replace 1
-RRPV:      0 (2) 3 1
-Signature: 1 (2) 6 3
-outcome:   1 (0) 0 1
-SHCT:      0 1 2 3 3 0 2 0 0 0
-
-454 100000 0 Replace 2
-RRPV:      0 2 (3) 1
-Signature: 1 2 (0) 3
-outcome:   1 0 (0) 1
-SHCT:      0 1 2 3 3 0 (1) 0 0 0
-
-455 100006 0 Replace 2
-RRPV:      0 2 (2) 1
-Signature: 1 2 (6) 3
-outcome:   1 0 (0) 1
-SHCT:      (0) 1 2 3 3 0 1 0 0 0
-
-456 100014 0 Replace 1
-RRPV:      1 (2) 3 2
-Signature: 1 (4) 6 3
-outcome:   1 (0) 0 1
-SHCT:      0 1 (1) 3 3 0 1 0 0 0
-
-457 100046 0 Hit 2
-RRPV:      1 2 (0) 2
-Signature: 1 4 6 3
-outcome:   1 0 (1) 1
-SHCT:      0 1 1 3 3 0 (2) 0 0 0
-
-458 100097 0 Hit 3
-RRPV:      1 2 0 (0)
-Signature: 1 4 6 3
-outcome:   1 0 1 (1)
-SHCT:      0 1 1 (3) 3 0 2 0 0 0
-
-459 100061 0 Hit 1
-RRPV:      1 (0) 0 0
-Signature: 1 4 6 3
-outcome:   1 (1) 1 1
-SHCT:      0 1 1 3 (3) 0 2 0 0 0
-
-460 100010 0 Replace 0
-RRPV:      (3) 2 2 2
-Signature: (0) 4 6 3
-outcome:   (0) 1 1 1
-SHCT:      0 1 1 3 3 0 2 0 0 0
-
-461 100026 0 Hit 3
-RRPV:      3 2 2 (0)
-Signature: 0 4 6 3
-outcome:   0 1 1 (1)
-SHCT:      0 1 1 (3) 3 0 2 0 0 0
-
-462 100091 0 Hit 3
-RRPV:      3 2 2 (0)
-Signature: 0 4 6 3
-outcome:   0 1 1 (1)
-SHCT:      0 1 1 (3) 3 0 2 0 0 0
-
-463 100051 0 Replace 0
-RRPV:      (2) 2 2 0
-Signature: (1) 4 6 3
-outcome:   (0) 1 1 1
-SHCT:      (0) 1 1 3 3 0 2 0 0 0
-
-464 100043 0 Replace 0
-RRPV:      (2) 3 3 1
-Signature: (3) 4 6 3
-outcome:   (0) 1 1 1
-SHCT:      0 (0) 1 3 3 0 2 0 0 0
-
-465 100042 0 Replace 1
-RRPV:      2 (2) 3 1
-Signature: 3 (2) 6 3
-outcome:   0 (0) 1 1
-SHCT:      0 0 1 3 3 0 2 0 0 0
-
-466 100012 0 Replace 2
-RRPV:      2 2 (2) 1
-Signature: 3 2 (2) 3
-outcome:   0 0 (0) 1
-SHCT:      0 0 1 3 3 0 2 0 0 0
-
-467 100017 0 Hit 2
-RRPV:      2 2 (0) 1
-Signature: 3 2 2 3
-outcome:   0 0 (1) 1
-SHCT:      0 0 (2) 3 3 0 2 0 0 0
-
-468 100078 0 Hit 2
-RRPV:      2 2 (0) 1
-Signature: 3 2 2 3
-outcome:   0 0 (1) 1
-SHCT:      0 0 (3) 3 3 0 2 0 0 0
-
-469 100039 0 Replace 0
-RRPV:      (3) 3 1 2
-Signature: (9) 2 2 3
-outcome:   (0) 0 1 1
-SHCT:      0 0 3 (2) 3 0 2 0 0 0
-
-470 100088 0 Replace 0
-RRPV:      (3) 3 1 2
-Signature: (8) 2 2 3
-outcome:   (0) 0 1 1
-SHCT:      0 0 3 2 3 0 2 0 0 (0)
-
-471 100042 0 Replace 0
-RRPV:      (2) 3 1 2
-Signature: (2) 2 2 3
-outcome:   (0) 0 1 1
-SHCT:      0 0 3 2 3 0 2 0 (0) 0
-
-472 100011 0 Replace 1
-RRPV:      2 (3) 1 2
-Signature: 2 (1) 2 3
-outcome:   0 (0) 1 1
-SHCT:      0 0 (2) 2 3 0 2 0 0 0
-
-473 100055 0 Hit 3
-RRPV:      2 3 1 (0)
-Signature: 2 1 2 3
-outcome:   0 0 1 (1)
-SHCT:      0 0 2 (3) 3 0 2 0 0 0
-
-474 100004 0 Hit 1
-RRPV:      2 (0) 1 0
-Signature: 2 1 2 3
-outcome:   0 (1) 1 1
-SHCT:      0 (1) 2 3 3 0 2 0 0 0
-
-475 100048 0 Hit 2
-RRPV:      2 0 (0) 0
-Signature: 2 1 2 3
-outcome:   0 1 (1) 1
-SHCT:      0 1 (3) 3 3 0 2 0 0 0
-
-476 100016 0 Replace 0
-RRPV:      (2) 1 1 1
-Signature: (6) 1 2 3
-outcome:   (0) 1 1 1
-SHCT:      0 1 (2) 3 3 0 2 0 0 0
-
-477 100066 0 Replace 0
-RRPV:      (2) 2 2 2
-Signature: (6) 1 2 3
-outcome:   (0) 1 1 1
-SHCT:      0 1 2 3 3 0 (1) 0 0 0
-
-478 100020 0 Hit 1
-RRPV:      2 (0) 2 2
-Signature: 6 1 2 3
-outcome:   0 (1) 1 1
-SHCT:      0 (2) 2 3 3 0 1 0 0 0
-
-479 100065 0 Hit 0
-RRPV:      (0) 0 2 2
-Signature: 6 1 2 3
-outcome:   (1) 1 1 1
-SHCT:      0 2 2 3 3 0 (2) 0 0 0
-
-480 100051 0 Hit 0
-RRPV:      (0) 0 2 2
-Signature: 6 1 2 3
-outcome:   (1) 1 1 1
-SHCT:      0 2 2 3 3 0 (3) 0 0 0
-
-481 100020 0 Replace 2
-RRPV:      1 1 (3) 3
-Signature: 6 1 (0) 3
-outcome:   1 1 (0) 1
-SHCT:      0 2 2 3 3 0 3 0 0 0
-
-482 100067 0 Replace 2
-RRPV:      1 1 (3) 3
-Signature: 6 1 (7) 3
-outcome:   1 1 (0) 1
-SHCT:      (0) 2 2 3 3 0 3 0 0 0
-
-483 100093 0 Hit 2
-RRPV:      1 1 (0) 3
-Signature: 6 1 7 3
-outcome:   1 1 (1) 1
-SHCT:      0 2 2 3 3 0 3 (1) 0 0
-
-484 100020 0 Hit 3
-RRPV:      1 1 0 (0)
-Signature: 6 1 7 3
-outcome:   1 1 1 (1)
-SHCT:      0 2 2 (3) 3 0 3 1 0 0
-
-485 100084 0 Hit 3
-RRPV:      1 1 0 (0)
-Signature: 6 1 7 3
-outcome:   1 1 1 (1)
-SHCT:      0 2 2 (3) 3 0 3 1 0 0
-
-486 100051 0 Hit 1
-RRPV:      1 (0) 0 0
-Signature: 6 1 7 3
-outcome:   1 (1) 1 1
-SHCT:      0 (3) 2 3 3 0 3 1 0 0
-
-487 100093 0 Replace 0
-RRPV:      (2) 2 2 2
-Signature: (3) 1 7 3
-outcome:   (0) 1 1 1
-SHCT:      0 3 2 3 3 0 3 1 0 0
-
-488 100007 0 Replace 0
-RRPV:      (2) 3 3 3
-Signature: (7) 1 7 3
-outcome:   (0) 1 1 1
-SHCT:      0 3 2 (2) 3 0 3 1 0 0
-
-489 100061 0 Replace 1
-RRPV:      2 (2) 3 3
-Signature: 7 (1) 7 3
-outcome:   0 (0) 1 1
-SHCT:      0 3 2 2 3 0 3 1 0 0
-
-490 100008 0 Replace 2
-RRPV:      2 2 (3) 3
-Signature: 7 1 (8) 3
-outcome:   0 0 (0) 1
-SHCT:      0 3 2 2 3 0 3 1 0 0
-
-491 100088 0 Hit 3
-RRPV:      2 2 3 (0)
-Signature: 7 1 8 3
-outcome:   0 0 0 (1)
-SHCT:      0 3 2 (3) 3 0 3 1 0 0
-
-492 100099 0 Replace 2
-RRPV:      2 2 (3) 0
-Signature: 7 1 (9) 3
-outcome:   0 0 (0) 1
-SHCT:      0 3 2 3 3 0 3 1 (0) 0
-
-493 100046 0 Replace 2
-RRPV:      2 2 (2) 0
-Signature: 7 1 (6) 3
-outcome:   0 0 (0) 1
-SHCT:      0 3 2 3 3 0 3 1 0 (0)
-
-494 100050 0 Replace 0
-RRPV:      (3) 3 3 1
-Signature: (0) 1 6 3
-outcome:   (0) 0 0 1
-SHCT:      0 3 2 3 3 0 3 (0) 0 0
-
-495 100087 0 Hit 2
-RRPV:      3 3 (0) 1
-Signature: 0 1 6 3
-outcome:   0 0 (1) 1
-SHCT:      0 3 2 3 3 0 (3) 0 0 0
-
-496 100046 0 Hit 3
-RRPV:      3 3 0 (0)
-Signature: 0 1 6 3
-outcome:   0 0 1 (1)
-SHCT:      0 3 2 (3) 3 0 3 0 0 0
-
-497 100009 0 Hit 2
-RRPV:      3 3 (0) 0
-Signature: 0 1 6 3
-outcome:   0 0 (1) 1
-SHCT:      0 3 2 3 3 0 (3) 0 0 0
-
-498 100001 0 Hit 2
-RRPV:      3 3 (0) 0
-Signature: 0 1 6 3
-outcome:   0 0 (1) 1
-SHCT:      0 3 2 3 3 0 (3) 0 0 0
-
-499 100062 0 Replace 0
-RRPV:      (2) 3 0 0
-Signature: (2) 1 6 3
-outcome:   (0) 0 1 1
-SHCT:      (0) 3 2 3 3 0 3 0 0 0
+0 0 Miss Replace 0
+Line address: 0
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 -1 -1 -1
+
+1 0 Miss Replace 1
+Line address: 64
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 -1 -1
+
+2 0 Miss Replace 2
+Line address: 128
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 -1
+
+3 0 Miss Replace 3
+Line address: 192
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0
+
+4 0 Hit 0
+Line address: 0
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 0 0 0
+
+5 0 Hit 2
+Line address: 128
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 0 15 0
+
+6 0 Miss Replace 1
+Line address: 0
+Line reuse:   2 0 0 0 0 0
+Way scores:   15 15 15 0
+
+7 0 Hit 3
+Line address: 192
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 15 15 15
+
+8 0 Hit 0
+Line address: 0
+Line reuse:   3 0 0 0 0 0
+Way scores:   15 15 15 15
+
+9 0 Hit 1
+Line address: 0
+Line reuse:   4 0 0 0 0 0
+Way scores:   15 15 0 15
+
+10 0 Miss Replace 2
+Line address: 49280
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 0 15
+
+11 0 Hit 1
+Line address: 0
+Line reuse:   5 0 0 0 0 0
+Way scores:   15 15 0 0
+
+12 0 Miss Replace 2
+Line address: 192
+Line reuse:   1 1 0 0 0 0
+Way scores:   15 15 14 14
+
+13 0 Miss Replace 2
+Line address: 16384
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 0 14
+
+14 0 Hit 0
+Line address: 0
+Line reuse:   6 0 0 0 0 0
+Way scores:   15 15 0 14
+
+15 0 Hit 3
+Line address: 192
+Line reuse:   2 1 0 0 0 0
+Way scores:   15 15 0 14
+
+16 0 Miss Replace 2
+Line address: 0
+Line reuse:   7 0 0 0 0 0
+Way scores:   15 15 15 14
+
+17 0 Miss Replace 3
+Line address: 49344
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 15 0
+
+18 0 Hit 0
+Line address: 0
+Line reuse:   8 0 0 0 0 0
+Way scores:   15 15 15 0
+
+19 0 Hit 0
+Line address: 0
+Line reuse:   9 0 0 0 0 0
+Way scores:   15 15 15 0
+
+20 0 Hit 1
+Line address: 0
+Line reuse:   10 0 0 0 0 0
+Way scores:   15 15 15 0
+
+21 0 Hit 2
+Line address: 0
+Line reuse:   11 0 0 0 0 0
+Way scores:   15 15 15 0
+
+22 0 Hit 0
+Line address: 0
+Line reuse:   12 0 0 0 0 0
+Way scores:   15 15 15 0
+
+23 0 Miss Replace 3
+Line address: 49280
+Line reuse:   0 0 1 0 0 0
+Way scores:   15 15 15 12
+
+24 0 Miss Replace 3
+Line address: 192
+Line reuse:   2 1 1 0 0 0
+Way scores:   15 15 15 14
+
+25 0 Miss Replace 3
+Line address: 16576
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 15 0
+
+26 0 Miss Replace 3
+Line address: 16512
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 0 0
+
+27 0 Hit 3
+Line address: 16512
+Line reuse:   1 0 0 0 0 0
+Way scores:   0 0 0 15
+
+28 0 Miss Replace 0
+Line address: 0
+Line reuse:   12 1 0 0 0 0
+Way scores:   14 14 14 15
+
+29 0 Miss Replace 0
+Line address: 32832
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 14 15
+
+30 0 Miss Replace 0
+Line address: 16512
+Line reuse:   2 0 0 0 0 0
+Way scores:   15 14 14 15
+
+31 0 Miss Replace 1
+Line address: 0
+Line reuse:   13 1 0 0 0 0
+Way scores:   15 14 14 15
+
+32 0 Miss Replace 1
+Line address: 0
+Line reuse:   14 1 0 0 0 0
+Way scores:   15 14 14 15
+
+33 0 Miss Replace 1
+Line address: 16448
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 0 14 15
+
+34 0 Miss Replace 1
+Line address: 32960
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 0 14 0
+
+35 0 Hit 2
+Line address: 0
+Line reuse:   15 1 0 0 0 0
+Way scores:   0 0 14 0
+
+36 0 Miss Replace 0
+Line address: 49344
+Line reuse:   0 0 0 1 0 0
+Way scores:   10 0 14 0
+
+37 0 Miss Replace 1
+Line address: 49344
+Line reuse:   1 0 0 1 0 0
+Way scores:   12 12 14 0
+
+38 0 Miss Replace 3
+Line address: 32832
+Line reuse:   0 0 1 0 0 0
+Way scores:   12 12 14 12
+
+39 0 Miss Replace 0
+Line address: 0
+Line reuse:   8 0 0 0 0 0
+Way scores:   15 12 15 12
+
+40 0 Miss Replace 1
+Line address: 0
+Line reuse:   9 0 0 0 0 0
+Way scores:   15 15 15 12
+
+41 0 Hit 3
+Line address: 32832
+Line reuse:   1 0 1 0 0 0
+Way scores:   15 15 15 13
+
+42 0 Miss Replace 3
+Line address: 49216
+Line reuse:   0 0 0 0 0 0
+Way scores:   15 15 15 0
+
+43 0 Hit 0
+Line address: 0
+Line reuse:   10 0 0 0 0 0
+Way scores:   15 15 15 0
+
+44 0 Miss Replace 3
+Line address: 16384
+Line reuse:   0 0 0 1 0 0
+Way scores:   15 15 15 10
+
+45 0 Miss Replace 3
+Line address: 128
+Line reuse:   1 0 0 0 1 0
+Way scores:   15 15 15 12
+
+46 0 Miss Replace 3
+Line address: 49216
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 15 15 15
+
+47 0 Miss Replace 0
+Line address: 0
+Line reuse:   11 0 0 0 0 0
+Way scores:   15 15 15 15
+
+48 0 Hit 1
+Line address: 0
+Line reuse:   12 0 0 0 0 0
+Way scores:   15 15 15 15
+
+49 0 Miss Replace 0
+Line address: 49216
+Line reuse:   2 0 0 0 0 0
+Way scores:   15 15 15 15
+
+50 0 Miss Replace 0
+Line address: 16384
+Line reuse:   0 1 0 1 0 0
+Way scores:   12 15 15 15
+
+51 0 Hit 1
+Line address: 0
+Line reuse:   13 0 0 0 0 0
+Way scores:   12 15 15 15
+
+52 0 Miss Replace 0
+Line address: 0
+Line reuse:   14 0 0 0 0 0
+Way scores:   15 15 15 15
+
+53 0 Miss Replace 0
+Line address: 49152
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 15 15 0
+
+54 0 Miss Replace 0
+Line address: 128
+Line reuse:   1 0 1 0 1 0
+Way scores:   12 15 15 0
+
+55 0 Hit 1
+Line address: 0
+Line reuse:   15 0 0 0 0 0
+Way scores:   12 15 15 0
+
+56 0 Hit 0
+Line address: 128
+Line reuse:   2 0 1 0 1 0
+Way scores:   12 15 15 0
+
+57 0 Hit 2
+Line address: 0
+Line reuse:   8 0 0 0 0 0
+Way scores:   12 15 15 0
+
+58 0 Hit 1
+Line address: 0
+Line reuse:   9 0 0 0 0 0
+Way scores:   12 15 15 0
+
+59 0 Hit 2
+Line address: 0
+Line reuse:   10 0 0 0 0 0
+Way scores:   12 15 15 0
+
+60 0 Miss Replace 3
+Line address: 16384
+Line reuse:   0 1 1 1 0 0
+Way scores:   10 15 15 12
+
+61 0 Miss Replace 0
+Line address: 32960
+Line reuse:   0 0 0 1 0 0
+Way scores:   10 15 15 12
+
+62 0 Miss Replace 0
+Line address: 64
+Line reuse:   0 0 0 0 1 0
+Way scores:   9 15 15 12
+
+63 0 Hit 1
+Line address: 0
+Line reuse:   11 0 0 0 0 0
+Way scores:   9 15 15 12
+
+64 0 Miss Replace 0
+Line address: 49152
+Line reuse:   0 0 1 0 0 0
+Way scores:   12 15 15 12
+
+65 0 Miss Replace 0
+Line address: 32832
+Line reuse:   1 0 1 1 0 0
+Way scores:   12 15 15 12
+
+66 0 Hit 3
+Line address: 16384
+Line reuse:   0 2 1 1 0 0
+Way scores:   12 15 15 12
+
+67 0 Hit 3
+Line address: 16384
+Line reuse:   1 2 1 1 0 0
+Way scores:   12 0 0 13
+
+68 0 Miss Replace 1
+Line address: 49344
+Line reuse:   1 0 0 2 0 0
+Way scores:   12 11 0 13
+
+69 0 Miss Replace 2
+Line address: 49152
+Line reuse:   0 1 1 0 0 0
+Way scores:   11 11 13 13
+
+70 0 Miss Replace 0
+Line address: 16576
+Line reuse:   0 0 0 0 1 0
+Way scores:   9 11 13 13
+
+71 0 Miss Replace 0
+Line address: 16448
+Line reuse:   0 0 0 0 1 0
+Way scores:   9 11 13 12
+
+72 0 Miss Replace 0
+Line address: 49152
+Line reuse:   1 1 1 0 0 0
+Way scores:   13 10 13 12
+
+73 0 Hit 2
+Line address: 49152
+Line reuse:   2 1 1 0 0 0
+Way scores:   14 10 14 12
+
+74 0 Hit 1
+Line address: 49344
+Line reuse:   1 1 0 2 0 0
+Way scores:   14 12 14 12
+
+75 0 Miss Replace 1
+Line address: 16512
+Line reuse:   2 0 0 0 1 0
+Way scores:   14 13 14 11
+
+76 0 Hit 0
+Line address: 49152
+Line reuse:   3 1 1 0 0 0
+Way scores:   14 13 14 11
+
+77 0 Miss Replace 3
+Line address: 32768
+Line reuse:   0 0 0 0 0 0
+Way scores:   14 13 14 0
+
+78 0 Hit 3
+Line address: 32768
+Line reuse:   1 0 0 0 0 0
+Way scores:   14 13 14 15
+
+79 0 Hit 0
+Line address: 49152
+Line reuse:   4 1 1 0 0 0
+Way scores:   14 9 14 15
+
+80 0 Hit 3
+Line address: 32768
+Line reuse:   2 0 0 0 0 0
+Way scores:   14 9 14 15
+
+81 0 Hit 2
+Line address: 49152
+Line reuse:   5 1 1 0 0 0
+Way scores:   14 9 14 15
+
+82 0 Miss Replace 1
+Line address: 16512
+Line reuse:   2 1 0 0 1 0
+Way scores:   14 13 14 15
+
+83 0 Hit 2
+Line address: 49152
+Line reuse:   6 1 1 0 0 0
+Way scores:   14 13 14 15
+
+84 0 Hit 2
+Line address: 49152
+Line reuse:   7 1 1 0 0 0
+Way scores:   14 13 14 0
+
+85 0 Miss Replace 3
+Line address: 192
+Line reuse:   2 1 1 0 1 0
+Way scores:   14 13 14 13
+
+86 0 Hit 2
+Line address: 49152
+Line reuse:   8 1 1 0 0 0
+Way scores:   14 11 14 13
+
+87 0 Hit 1
+Line address: 16512
+Line reuse:   2 2 0 0 1 0
+Way scores:   14 13 14 13
+
+88 0 Hit 1
+Line address: 16512
+Line reuse:   3 2 0 0 1 0
+Way scores:   14 13 14 13
+
+89 0 Hit 3
+Line address: 192
+Line reuse:   3 1 1 0 1 0
+Way scores:   14 13 14 13
+
+90 0 Miss Replace 1
+Line address: 128
+Line reuse:   2 0 1 0 2 0
+Way scores:   13 12 13 13
+
+91 0 Hit 0
+Line address: 49152
+Line reuse:   8 2 1 0 0 0
+Way scores:   14 12 14 13
+
+92 0 Miss Replace 1
+Line address: 32832
+Line reuse:   1 0 1 2 0 0
+Way scores:   14 11 14 13
+
+93 0 Hit 3
+Line address: 192
+Line reuse:   4 1 1 0 1 0
+Way scores:   14 11 14 13
+
+94 0 Miss Replace 1
+Line address: 16384
+Line reuse:   1 2 1 2 0 0
+Way scores:   14 12 14 13
+
+95 0 Miss Replace 1
+Line address: 128
+Line reuse:   2 1 1 0 2 0
+Way scores:   13 12 13 13
+
+96 0 Hit 2
+Line address: 49152
+Line reuse:   8 3 1 0 0 0
+Way scores:   14 12 14 13
+
+97 0 Miss Replace 1
+Line address: 16512
+Line reuse:   3 2 1 0 1 0
+Way scores:   14 13 14 11
+
+98 0 Hit 2
+Line address: 49152
+Line reuse:   9 3 1 0 0 0
+Way scores:   14 13 14 11
+
+99 0 Hit 2
+Line address: 49152
+Line reuse:   10 3 1 0 0 0
+Way scores:   14 13 14 11
+
+100 0 Miss Replace 3
+Line address: 49280
+Line reuse:   0 0 1 0 0 1
+Way scores:   14 13 14 6
+
+101 0 Miss Replace 3
+Line address: 16576
+Line reuse:   0 0 0 1 1 0
+Way scores:   14 12 14 9
+
+102 0 Miss Replace 3
+Line address: 16576
+Line reuse:   1 0 0 1 1 0
+Way scores:   14 12 14 11
+
+103 0 Miss Replace 3
+Line address: 49280
+Line reuse:   1 0 1 0 0 1
+Way scores:   13 12 13 9
+
+104 0 Miss Replace 3
+Line address: 16448
+Line reuse:   0 0 0 0 2 0
+Way scores:   13 12 13 9
+
+105 0 Miss Replace 3
+Line address: 32768
+Line reuse:   2 0 0 1 0 0
+Way scores:   13 10 13 13
+
+106 0 Hit 1
+Line address: 16512
+Line reuse:   3 2 2 0 1 0
+Way scores:   13 13 13 13
+
+107 0 Hit 2
+Line address: 49152
+Line reuse:   10 4 1 0 0 0
+Way scores:   14 13 14 13
+
+108 0 Hit 0
+Line address: 49152
+Line reuse:   11 4 1 0 0 0
+Way scores:   14 13 14 13
+
+109 0 Miss Replace 1
+Line address: 32768
+Line reuse:   3 0 0 1 0 0
+Way scores:   14 13 14 13
+
+110 0 Miss Replace 1
+Line address: 49344
+Line reuse:   1 1 0 2 1 0
+Way scores:   14 11 14 13
+
+111 0 Hit 3
+Line address: 32768
+Line reuse:   4 0 0 1 0 0
+Way scores:   14 11 14 14
+
+112 0 Miss Replace 1
+Line address: 32960
+Line reuse:   0 0 0 1 1 0
+Way scores:   13 9 13 14
+
+113 0 Miss Replace 1
+Line address: 49280
+Line reuse:   1 0 2 0 0 1
+Way scores:   13 10 13 14
+
+114 0 Hit 3
+Line address: 32768
+Line reuse:   5 0 0 1 0 0
+Way scores:   13 10 13 14
+
+115 0 Hit 2
+Line address: 49152
+Line reuse:   11 5 1 0 0 0
+Way scores:   14 10 14 14
+
+116 0 Miss Replace 1
+Line address: 16448
+Line reuse:   0 0 1 0 2 0
+Way scores:   14 10 14 14
+
+117 0 Miss Replace 1
+Line address: 0
+Line reuse:   11 0 0 0 1 0
+Way scores:   14 14 14 14
+
+118 0 Miss Replace 0
+Line address: 128
+Line reuse:   2 1 1 1 2 0
+Way scores:   12 14 14 10
+
+119 0 Miss Replace 3
+Line address: 49280
+Line reuse:   1 1 2 0 0 1
+Way scores:   12 14 13 10
+
+120 0 Hit 2
+Line address: 49152
+Line reuse:   11 6 1 0 0 0
+Way scores:   12 14 14 10
+
+121 0 Miss Replace 3
+Line address: 32960
+Line reuse:   0 0 1 1 1 0
+Way scores:   12 9 14 10
+
+122 0 Hit 3
+Line address: 32960
+Line reuse:   1 0 1 1 1 0
+Way scores:   10 9 14 11
+
+123 0 Hit 1
+Line address: 0
+Line reuse:   11 1 0 0 1 0
+Way scores:   10 14 14 11
+
+124 0 Hit 3
+Line address: 32960
+Line reuse:   2 0 1 1 1 0
+Way scores:   10 14 13 12
+
+125 0 Hit 0
+Line address: 128
+Line reuse:   2 2 1 1 2 0
+Way scores:   12 14 13 12
+
+126 0 Hit 3
+Line address: 32960
+Line reuse:   3 0 1 1 1 0
+Way scores:   12 14 13 12
+
+127 0 Miss Replace 0
+Line address: 49152
+Line reuse:   11 7 1 0 0 0
+Way scores:   14 11 14 12
+
+128 0 Hit 2
+Line address: 49152
+Line reuse:   12 7 1 0 0 0
+Way scores:   14 11 14 12
+
+129 0 Hit 2
+Line address: 49152
+Line reuse:   13 7 1 0 0 0
+Way scores:   14 11 14 12
+
+130 0 Miss Replace 1
+Line address: 0
+Line reuse:   11 2 0 0 1 0
+Way scores:   14 14 14 10
+
+131 0 Miss Replace 3
+Line address: 0
+Line reuse:   12 2 0 0 1 0
+Way scores:   14 14 14 14
+
+132 0 Miss Replace 0
+Line address: 16512
+Line reuse:   3 2 2 1 1 0
+Way scores:   12 14 14 14
+
+133 0 Hit 2
+Line address: 49152
+Line reuse:   14 7 1 0 0 0
+Way scores:   12 14 14 14
+
+134 0 Hit 1
+Line address: 0
+Line reuse:   13 2 0 0 1 0
+Way scores:   12 14 14 14
+
+135 0 Hit 1
+Line address: 0
+Line reuse:   14 2 0 0 1 0
+Way scores:   12 14 14 14
+
+136 0 Hit 3
+Line address: 0
+Line reuse:   15 2 0 0 1 0
+Way scores:   11 14 14 14
+
+137 0 Hit 2
+Line address: 49152
+Line reuse:   15 7 1 0 0 0
+Way scores:   11 14 14 14
+
+138 0 Hit 0
+Line address: 16512
+Line reuse:   3 3 2 1 1 0
+Way scores:   13 14 14 14
+
+139 0 Hit 1
+Line address: 0
+Line reuse:   8 1 0 0 0 0
+Way scores:   13 14 14 14
+
+140 0 Miss Replace 0
+Line address: 16576
+Line reuse:   1 0 0 1 2 0
+Way scores:   10 14 14 14
+
+141 0 Miss Replace 0
+Line address: 16512
+Line reuse:   4 3 2 1 1 0
+Way scores:   13 14 13 14
+
+142 0 Hit 1
+Line address: 0
+Line reuse:   9 1 0 0 0 0
+Way scores:   13 14 13 14
+
+143 0 Miss Replace 0
+Line address: 32896
+Line reuse:   0 0 0 0 0 0
+Way scores:   0 14 13 14
+
+144 0 Hit 3
+Line address: 0
+Line reuse:   10 1 0 0 0 0
+Way scores:   0 14 13 14
+
+145 0 Hit 0
+Line address: 32896
+Line reuse:   1 0 0 0 0 0
+Way scores:   15 14 12 14
+
+146 0 Hit 3
+Line address: 0
+Line reuse:   11 1 0 0 0 0
+Way scores:   15 14 12 14
+
+147 0 Miss Replace 2
+Line address: 16576
+Line reuse:   1 1 0 1 2 0
+Way scores:   15 14 11 14
+
+148 0 Miss Replace 2
+Line address: 49152
+Line reuse:   15 7 2 0 0 0
+Way scores:   15 14 14 14
+
+149 0 Miss Replace 1
+Line address: 49344
+Line reuse:   1 1 0 2 2 0
+Way scores:   0 11 14 14
+
+150 0 Miss Replace 0
+Line address: 32768
+Line reuse:   5 0 0 1 1 0
+Way scores:   13 11 14 14
+
+151 0 Miss Replace 1
+Line address: 32896
+Line reuse:   1 1 0 0 0 0
+Way scores:   13 14 14 14
+
+152 0 Hit 1
+Line address: 32896
+Line reuse:   2 1 0 0 0 0
+Way scores:   13 14 13 14
+
+153 0 Hit 1
+Line address: 32896
+Line reuse:   3 1 0 0 0 0
+Way scores:   13 14 13 14
+
+154 0 Hit 0
+Line address: 32768
+Line reuse:   6 0 0 1 1 0
+Way scores:   13 14 13 0
+
+155 0 Miss Replace 3
+Line address: 49280
+Line reuse:   1 1 2 0 1 1
+Way scores:   13 14 13 10
+
+156 0 Miss Replace 3
+Line address: 16448
+Line reuse:   0 0 1 0 3 0
+Way scores:   13 14 12 9
+
+157 0 Miss Replace 3
+Line address: 32960
+Line reuse:   3 0 1 2 1 0
+Way scores:   13 14 12 12
+
+158 0 Hit 0
+Line address: 32768
+Line reuse:   7 0 0 1 1 0
+Way scores:   13 14 12 12
+
+159 0 Hit 3
+Line address: 32960
+Line reuse:   4 0 1 2 1 0
+Way scores:   13 14 12 12
+
+160 0 Miss Replace 2
+Line address: 49152
+Line reuse:   15 7 3 0 0 0
+Way scores:   13 14 14 12
+
+161 0 Miss Replace 3
+Line address: 49280
+Line reuse:   1 2 2 0 1 1
+Way scores:   13 0 14 11
+
+162 0 Hit 2
+Line address: 49152
+Line reuse:   8 3 1 0 0 0
+Way scores:   9 0 14 11
+
+163 0 Hit 2
+Line address: 49152
+Line reuse:   9 3 1 0 0 0
+Way scores:   9 0 14 11
+
+164 0 Miss Replace 1
+Line address: 16448
+Line reuse:   0 1 1 0 3 0
+Way scores:   9 10 14 11
+
+165 0 Miss Replace 0
+Line address: 32768
+Line reuse:   7 1 0 1 1 0
+Way scores:   13 10 14 10
+
+166 0 Miss Replace 1
+Line address: 32896
+Line reuse:   3 1 1 0 0 0
+Way scores:   13 14 14 10
+
+167 0 Hit 1
+Line address: 32896
+Line reuse:   4 1 1 0 0 0
+Way scores:   13 14 13 10
+
+168 0 Hit 2
+Line address: 49152
+Line reuse:   9 4 1 0 0 0
+Way scores:   13 14 14 10
+
+169 0 Miss Replace 3
+Line address: 49216
+Line reuse:   2 0 0 0 0 1
+Way scores:   11 14 14 10
+
+170 0 Hit 0
+Line address: 32768
+Line reuse:   7 2 0 1 1 0
+Way scores:   13 14 14 10
+
+171 0 Hit 3
+Line address: 49216
+Line reuse:   3 0 0 0 0 1
+Way scores:   13 13 14 11
+
+172 0 Miss Replace 3
+Line address: 49344
+Line reuse:   1 1 0 3 2 0
+Way scores:   13 13 13 11
+
+173 0 Hit 3
+Line address: 49344
+Line reuse:   2 1 0 3 2 0
+Way scores:   13 13 13 11
+
+174 0 Miss Replace 3
+Line address: 49280
+Line reuse:   1 2 3 0 1 1
+Way scores:   11 13 13 11
+
+175 0 Hit 3
+Line address: 49280
+Line reuse:   2 2 3 0 1 1
+Way scores:   11 12 13 11
+
+176 0 Miss Replace 0
+Line address: 64
+Line reuse:   0 0 0 0 1 1
+Way scores:   5 12 12 11
+
+177 0 Hit 1
+Line address: 32896
+Line reuse:   4 1 2 0 0 0
+Way scores:   5 14 12 11
+
+178 0 Miss Replace 0
+Line address: 32832
+Line reuse:   1 0 1 2 0 1
+Way scores:   9 14 12 11
+
+179 0 Miss Replace 0
+Line address: 192
+Line reuse:   4 1 1 0 1 1
+Way scores:   12 14 12 10
+
+180 0 Hit 1
+Line address: 32896
+Line reuse:   5 1 2 0 0 0
+Way scores:   12 14 12 10
+
+181 0 Hit 3
+Line address: 49280
+Line reuse:   2 3 3 0 1 1
+Way scores:   12 14 12 11
+
+182 0 Hit 0
+Line address: 192
+Line reuse:   5 1 1 0 1 1
+Way scores:   12 14 12 11
+
+183 0 Miss Replace 3
+Line address: 64
+Line reuse:   0 1 0 0 1 1
+Way scores:   12 14 12 8
+
+184 0 Miss Replace 3
+Line address: 32896
+Line reuse:   6 1 2 0 0 0
+Way scores:   12 14 0 14
+
+185 0 Miss Replace 2
+Line address: 64
+Line reuse:   1 1 0 0 1 1
+Way scores:   12 14 9 14
+
+186 0 Hit 2
+Line address: 64
+Line reuse:   2 1 0 0 1 1
+Way scores:   9 14 10 14
+
+187 0 Hit 3
+Line address: 32896
+Line reuse:   7 1 2 0 0 0
+Way scores:   9 14 10 14
+
+188 0 Miss Replace 0
+Line address: 49152
+Line reuse:   9 4 1 1 0 0
+Way scores:   14 14 10 14
+
+189 0 Miss Replace 2
+Line address: 32768
+Line reuse:   7 2 0 2 1 0
+Way scores:   14 14 13 14
+
+190 0 Hit 3
+Line address: 32896
+Line reuse:   8 1 2 0 0 0
+Way scores:   14 14 13 14
+
+191 0 Hit 3
+Line address: 32896
+Line reuse:   9 1 2 0 0 0
+Way scores:   14 14 13 14
+
+192 0 Hit 2
+Line address: 32768
+Line reuse:   8 2 0 2 1 0
+Way scores:   13 14 13 14
+
+193 0 Hit 2
+Line address: 32768
+Line reuse:   9 2 0 2 1 0
+Way scores:   13 14 13 14
+
+194 0 Hit 2
+Line address: 32768
+Line reuse:   10 2 0 2 1 0
+Way scores:   13 14 13 14
+
+195 0 Miss Replace 0
+Line address: 49344
+Line reuse:   2 1 0 4 2 0
+Way scores:   11 12 13 12
+
+196 0 Hit 2
+Line address: 32768
+Line reuse:   11 2 0 2 1 0
+Way scores:   11 12 13 12
+
+197 0 Miss Replace 0
+Line address: 49152
+Line reuse:   9 4 2 1 0 0
+Way scores:   14 12 13 12
+
+198 0 Hit 3
+Line address: 32896
+Line reuse:   9 2 2 0 0 0
+Way scores:   14 14 13 14
+
+199 0 Miss Replace 2
+Line address: 32768
+Line reuse:   12 2 0 2 1 0
+Way scores:   14 14 13 14
+
+200 0 Miss Replace 2
+Line address: 64
+Line reuse:   2 1 1 0 1 1
+Way scores:   14 14 11 14
+
+201 0 Miss Replace 2
+Line address: 64
+Line reuse:   3 1 1 0 1 1
+Way scores:   12 14 11 14
+
+202 0 Hit 2
+Line address: 64
+Line reuse:   4 1 1 0 1 1
+Way scores:   12 13 12 13
+
+203 0 Hit 3
+Line address: 32896
+Line reuse:   9 3 2 0 0 0
+Way scores:   12 14 12 14
+
+204 0 Hit 3
+Line address: 32896
+Line reuse:   10 3 2 0 0 0
+Way scores:   12 14 12 14
+
+205 0 Miss Replace 0
+Line address: 49152
+Line reuse:   9 5 2 1 0 0
+Way scores:   14 14 12 14
+
+206 0 Miss Replace 2
+Line address: 32768
+Line reuse:   12 3 0 2 1 0
+Way scores:   14 14 13 14
+
+207 0 Miss Replace 2
+Line address: 192
+Line reuse:   5 1 1 1 1 1
+Way scores:   14 14 12 14
+
+208 0 Miss Replace 2
+Line address: 49280
+Line reuse:   2 3 3 1 1 1
+Way scores:   14 13 11 13
+
+209 0 Miss Replace 2
+Line address: 16512
+Line reuse:   4 3 2 1 1 1
+Way scores:   13 13 12 13
+
+210 0 Hit 0
+Line address: 49152
+Line reuse:   9 6 2 1 0 0
+Way scores:   14 13 12 13
+
+211 0 Miss Replace 2
+Line address: 192
+Line reuse:   6 1 1 1 1 1
+Way scores:   14 13 12 13
+
+212 0 Miss Replace 2
+Line address: 32832
+Line reuse:   1 0 1 2 1 1
+Way scores:   14 12 9 12
+
+213 0 Miss Replace 2
+Line address: 0
+Line reuse:   11 1 0 0 0 1
+Way scores:   14 12 13 12
+
+214 0 Miss Replace 1
+Line address: 16512
+Line reuse:   4 4 2 1 1 1
+Way scores:   13 12 13 12
+
+215 0 Miss Replace 1
+Line address: 16448
+Line reuse:   0 1 1 0 4 0
+Way scores:   13 10 13 12
+
+216 0 Miss Replace 1
+Line address: 16576
+Line reuse:   1 1 0 1 2 1
+Way scores:   13 9 13 12
+
+217 0 Miss Replace 1
+Line address: 64
+Line reuse:   4 1 2 0 1 1
+Way scores:   13 12 7 12
+
+218 0 Hit 3
+Line address: 32896
+Line reuse:   10 3 3 0 0 0
+Way scores:   11 12 7 14
+
+219 0 Hit 0
+Line address: 49152
+Line reuse:   9 6 3 1 0 0
+Way scores:   13 12 7 14
+
+220 0 Miss Replace 2
+Line address: 192
+Line reuse:   6 1 2 1 1 1
+Way scores:   13 12 12 14
+
+221 0 Miss Replace 1
+Line address: 32832
+Line reuse:   1 0 2 2 1 1
+Way scores:   13 9 12 14
+
+222 0 Hit 2
+Line address: 192
+Line reuse:   7 1 2 1 1 1
+Way scores:   13 9 12 13
+
+223 0 Miss Replace 1
+Line address: 49280
+Line reuse:   2 3 4 1 1 1
+Way scores:   13 11 12 13
+
+224 0 Hit 3
+Line address: 32896
+Line reuse:   10 4 3 0 0 0
+Way scores:   13 11 12 14
+
+225 0 Miss Replace 1
+Line address: 49216
+Line reuse:   3 0 0 0 1 1
+Way scores:   13 11 12 14
+
+226 0 Hit 0
+Line address: 49152
+Line reuse:   9 7 3 1 0 0
+Way scores:   13 11 9 14
+
+227 0 Hit 3
+Line address: 32896
+Line reuse:   11 4 3 0 0 0
+Way scores:   13 11 9 14
+
+228 0 Miss Replace 2
+Line address: 192
+Line reuse:   7 2 2 1 1 1
+Way scores:   13 11 12 14
+
+229 0 Miss Replace 1
+Line address: 32832
+Line reuse:   1 1 2 2 1 1
+Way scores:   13 10 12 14
+
+230 0 Miss Replace 1
+Line address: 16448
+Line reuse:   0 1 2 0 4 0
+Way scores:   13 10 12 14
+
+231 0 Hit 3
+Line address: 32896
+Line reuse:   12 4 3 0 0 0
+Way scores:   13 10 12 14
+
+232 0 Hit 3
+Line address: 32896
+Line reuse:   13 4 3 0 0 0
+Way scores:   13 10 10 14
+
+233 0 Hit 0
+Line address: 49152
+Line reuse:   9 8 3 1 0 0
+Way scores:   13 10 10 14
+
+234 0 Miss Replace 1
+Line address: 49216
+Line reuse:   3 0 1 0 1 1
+Way scores:   13 11 10 14
+
+235 0 Hit 2
+Line address: 192
+Line reuse:   7 3 2 1 1 1
+Way scores:   13 11 12 14
+
+236 0 Hit 3
+Line address: 32896
+Line reuse:   14 4 3 0 0 0
+Way scores:   13 11 12 14
+
+237 0 Miss Replace 1
+Line address: 16384
+Line reuse:   1 2 1 2 0 1
+Way scores:   13 10 12 14
+
+238 0 Miss Replace 1
+Line address: 49216
+Line reuse:   4 0 1 0 1 1
+Way scores:   13 11 12 14
+
+239 0 Miss Replace 1
+Line address: 49344
+Line reuse:   2 1 0 4 3 0
+Way scores:   13 11 10 14
+
+240 0 Hit 0
+Line address: 49152
+Line reuse:   9 9 3 1 0 0
+Way scores:   13 11 10 13
+
+241 0 Miss Replace 2
+Line address: 64
+Line reuse:   4 1 2 1 1 1
+Way scores:   13 11 11 13
+
+242 0 Hit 0
+Line address: 49152
+Line reuse:   10 9 3 1 0 0
+Way scores:   14 11 11 13
+
+243 0 Miss Replace 1
+Line address: 192
+Line reuse:   7 4 2 1 1 1
+Way scores:   14 12 11 13
+
+244 0 Miss Replace 2
+Line address: 49344
+Line reuse:   2 2 0 4 3 0
+Way scores:   14 12 11 12
+
+245 0 Hit 1
+Line address: 192
+Line reuse:   8 4 2 1 1 1
+Way scores:   14 12 11 12
+
+246 0 Hit 3
+Line address: 32896
+Line reuse:   14 4 4 0 0 0
+Way scores:   13 12 11 14
+
+247 0 Miss Replace 2
+Line address: 128
+Line reuse:   2 2 1 1 2 1
+Way scores:   13 12 11 14
+
+248 0 Hit 2
+Line address: 128
+Line reuse:   3 2 1 1 2 1
+Way scores:   13 12 11 14
+
+249 0 Hit 2
+Line address: 128
+Line reuse:   4 2 1 1 2 1
+Way scores:   13 11 11 14
+
+250 0 Miss Replace 1
+Line address: 16512
+Line reuse:   4 4 2 1 2 1
+Way scores:   11 12 11 13
+
+251 0 Miss Replace 0
+Line address: 0
+Line reuse:   11 1 0 0 1 1
+Way scores:   13 12 11 13
+
+252 0 Miss Replace 2
+Line address: 49280
+Line reuse:   2 3 4 2 1 1
+Way scores:   13 12 11 13
+
+253 0 Hit 1
+Line address: 16512
+Line reuse:   5 4 2 1 2 1
+Way scores:   13 12 11 13
+
+254 0 Miss Replace 2
+Line address: 16384
+Line reuse:   1 2 1 3 0 1
+Way scores:   13 12 10 12
+
+255 0 Miss Replace 2
+Line address: 64
+Line reuse:   4 1 3 1 1 1
+Way scores:   8 12 11 12
+
+256 0 Miss Replace 0
+Line address: 192
+Line reuse:   8 4 3 1 1 1
+Way scores:   12 12 11 12
+
+257 0 Hit 1
+Line address: 16512
+Line reuse:   6 4 2 1 2 1
+Way scores:   12 12 11 12
+
+258 0 Miss Replace 2
+Line address: 32768
+Line reuse:   12 3 0 2 2 0
+Way scores:   12 12 13 12
+
+259 0 Miss Replace 0
+Line address: 16384
+Line reuse:   1 3 1 3 0 1
+Way scores:   11 12 13 12
+
+260 0 Miss Replace 0
+Line address: 16448
+Line reuse:   0 1 2 1 4 0
+Way scores:   10 12 13 12
+
+261 0 Miss Replace 0
+Line address: 32832
+Line reuse:   1 1 2 3 1 1
+Way scores:   10 10 13 12
+
+262 0 Miss Replace 0
+Line address: 49344
+Line reuse:   2 2 0 5 3 0
+Way scores:   11 10 11 0
+
+263 0 Miss Replace 3
+Line address: 128
+Line reuse:   4 2 2 1 2 1
+Way scores:   11 10 11 11
+
+264 0 Hit 3
+Line address: 128
+Line reuse:   5 2 2 1 2 1
+Way scores:   11 10 11 12
+
+265 0 Miss Replace 1
+Line address: 32896
+Line reuse:   14 4 4 1 0 0
+Way scores:   11 14 11 12
+
+266 0 Hit 0
+Line address: 49344
+Line reuse:   3 2 0 5 3 0
+Way scores:   11 14 9 12
+
+267 0 Miss Replace 2
+Line address: 16384
+Line reuse:   1 4 1 3 0 1
+Way scores:   11 14 11 12
+
+268 0 Hit 2
+Line address: 16384
+Line reuse:   2 4 1 3 0 1
+Way scores:   11 14 11 10
+
+269 0 Miss Replace 3
+Line address: 49152
+Line reuse:   10 9 3 2 0 0
+Way scores:   11 12 11 13
+
+270 0 Hit 0
+Line address: 49344
+Line reuse:   4 2 0 5 3 0
+Way scores:   11 12 11 13
+
+271 0 Miss Replace 0
+Line address: 192
+Line reuse:   8 4 4 1 1 1
+Way scores:   12 12 11 13
+
+272 0 Miss Replace 2
+Line address: 49216
+Line reuse:   4 0 1 0 2 1
+Way scores:   12 12 11 13
+
+273 0 Miss Replace 2
+Line address: 49152
+Line reuse:   11 9 3 2 0 0
+Way scores:   12 11 13 13
+
+274 0 Miss Replace 1
+Line address: 32896
+Line reuse:   14 4 5 1 0 0
+Way scores:   12 14 13 13
+
+275 0 Miss Replace 0
+Line address: 16512
+Line reuse:   6 4 2 2 2 1
+Way scores:   12 14 13 13
+
+276 0 Hit 1
+Line address: 32896
+Line reuse:   15 4 5 1 0 0
+Way scores:   12 14 13 13
+
+277 0 Miss Replace 0
+Line address: 16576
+Line reuse:   1 1 0 1 3 1
+Way scores:   9 14 13 13
+
+278 0 Miss Replace 0
+Line address: 32768
+Line reuse:   12 3 0 3 2 0
+Way scores:   13 14 13 13
+
+279 0 Miss Replace 0
+Line address: 49280
+Line reuse:   2 3 4 3 1 1
+Way scores:   11 14 13 13
+
+280 0 Miss Replace 0
+Line address: 32960
+Line reuse:   4 0 1 2 1 1
+Way scores:   11 12 13 13
+
+281 0 Hit 1
+Line address: 32896
+Line reuse:   15 5 5 1 0 0
+Way scores:   11 14 11 11
+
+282 0 Miss Replace 0
+Line address: 49152
+Line reuse:   11 9 4 2 0 0
+Way scores:   13 14 13 13
+
+283 0 Miss Replace 0
+Line address: 49280
+Line reuse:   3 3 4 3 1 1
+Way scores:   11 14 13 13
+
+284 0 Hit 3
+Line address: 49152
+Line reuse:   12 9 4 2 0 0
+Way scores:   11 14 13 13
+
+285 0 Miss Replace 0
+Line address: 32832
+Line reuse:   1 1 2 4 1 1
+Way scores:   10 12 13 13
+
+286 0 Hit 1
+Line address: 32896
+Line reuse:   15 6 5 1 0 0
+Way scores:   10 14 13 13
+
+287 0 Miss Replace 0
+Line address: 16512
+Line reuse:   6 4 3 2 2 1
+Way scores:   12 14 13 13
+
+288 0 Hit 3
+Line address: 49152
+Line reuse:   13 9 4 2 0 0
+Way scores:   12 14 13 13
+
+289 0 Hit 3
+Line address: 49152
+Line reuse:   14 9 4 2 0 0
+Way scores:   12 14 13 13
+
+290 0 Hit 1
+Line address: 32896
+Line reuse:   8 3 2 0 0 0
+Way scores:   12 14 13 13
+
+291 0 Hit 0
+Line address: 16512
+Line reuse:   7 4 3 2 2 1
+Way scores:   12 14 13 13
+
+292 0 Hit 3
+Line address: 49152
+Line reuse:   15 9 4 2 0 0
+Way scores:   12 14 13 13
+
+293 0 Hit 2
+Line address: 49152
+Line reuse:   8 4 2 1 0 0
+Way scores:   12 14 14 14
+
+294 0 Miss Replace 0
+Line address: 192
+Line reuse:   8 4 4 2 1 1
+Way scores:   12 13 14 14
+
+295 0 Miss Replace 0
+Line address: 49216
+Line reuse:   4 0 1 1 2 1
+Way scores:   11 13 14 14
+
+296 0 Hit 0
+Line address: 49216
+Line reuse:   5 0 1 1 2 1
+Way scores:   11 13 14 14
+
+297 0 Miss Replace 0
+Line address: 49152
+Line reuse:   9 4 2 1 0 0
+Way scores:   14 13 14 14
+
+298 0 Hit 1
+Line address: 32896
+Line reuse:   8 4 2 0 0 0
+Way scores:   14 14 14 14
+
+299 0 Miss Replace 0
+Line address: 32832
+Line reuse:   1 1 3 4 1 1
+Way scores:   10 14 14 14
+
+300 0 Hit 1
+Line address: 32896
+Line reuse:   9 4 2 0 0 0
+Way scores:   10 14 14 14
+
+301 0 Hit 1
+Line address: 32896
+Line reuse:   10 4 2 0 0 0
+Way scores:   10 14 12 12
+
+302 0 Miss Replace 0
+Line address: 0
+Line reuse:   11 1 0 0 2 1
+Way scores:   13 14 12 12
+
+303 0 Hit 2
+Line address: 49152
+Line reuse:   9 5 2 1 0 0
+Way scores:   13 14 14 14
+
+304 0 Hit 1
+Line address: 32896
+Line reuse:   11 4 2 0 0 0
+Way scores:   13 14 14 14
+
+305 0 Miss Replace 0
+Line address: 64
+Line reuse:   4 1 3 1 2 1
+Way scores:   11 14 14 14
+
+306 0 Miss Replace 0
+Line address: 49216
+Line reuse:   5 0 2 1 2 1
+Way scores:   11 14 14 14
+
+307 0 Hit 3
+Line address: 49152
+Line reuse:   10 5 2 1 0 0
+Way scores:   11 14 14 14
+
+308 0 Hit 3
+Line address: 49152
+Line reuse:   11 5 2 1 0 0
+Way scores:   11 13 14 14
+
+309 0 Hit 3
+Line address: 49152
+Line reuse:   12 5 2 1 0 0
+Way scores:   11 13 14 14
+
+310 0 Hit 3
+Line address: 49152
+Line reuse:   13 5 2 1 0 0
+Way scores:   8 13 14 14
+
+311 0 Hit 3
+Line address: 49152
+Line reuse:   14 5 2 1 0 0
+Way scores:   8 13 14 14
+
+312 0 Hit 0
+Line address: 49216
+Line reuse:   5 1 2 1 2 1
+Way scores:   11 12 14 14
+
+313 0 Miss Replace 0
+Line address: 32896
+Line reuse:   11 4 3 0 0 0
+Way scores:   14 14 14 14
+
+314 0 Miss Replace 0
+Line address: 49152
+Line reuse:   15 5 2 1 0 0
+Way scores:   14 14 14 14
+
+315 0 Hit 2
+Line address: 49152
+Line reuse:   8 2 1 0 0 0
+Way scores:   14 14 14 14
+
+316 0 Hit 2
+Line address: 49152
+Line reuse:   9 2 1 0 0 0
+Way scores:   14 14 14 14
+
+317 0 Hit 0
+Line address: 49152
+Line reuse:   10 2 1 0 0 0
+Way scores:   14 13 14 14
+
+318 0 Miss Replace 1
+Line address: 49152
+Line reuse:   11 2 1 0 0 0
+Way scores:   14 14 14 14
+
+319 0 Miss Replace 0
+Line address: 32896
+Line reuse:   11 5 3 0 0 0
+Way scores:   14 14 14 14
+
+320 0 Miss Replace 0
+Line address: 32896
+Line reuse:   12 5 3 0 0 0
+Way scores:   14 14 14 14
+
+321 0 Hit 1
+Line address: 49152
+Line reuse:   12 2 1 0 0 0
+Way scores:   14 14 14 14
+
+322 0 Hit 2
+Line address: 49152
+Line reuse:   13 2 1 0 0 0
+Way scores:   14 14 14 14
+
+323 0 Hit 1
+Line address: 49152
+Line reuse:   14 2 1 0 0 0
+Way scores:   14 14 14 14
+
+324 0 Miss Replace 0
+Line address: 49152
+Line reuse:   15 2 1 0 0 0
+Way scores:   14 14 14 14
+
+325 0 Miss Replace 0
+Line address: 32768
+Line reuse:   12 3 0 3 3 0
+Way scores:   13 14 14 14
+
+326 0 Hit 0
+Line address: 32768
+Line reuse:   13 3 0 3 3 0
+Way scores:   13 14 14 14
+
+327 0 Miss Replace 0
+Line address: 49280
+Line reuse:   3 3 4 3 2 1
+Way scores:   11 14 14 14
+
+328 0 Miss Replace 0
+Line address: 32768
+Line reuse:   14 3 0 3 3 0
+Way scores:   13 13 13 13
+
+329 0 Miss Replace 0
+Line address: 32768
+Line reuse:   15 3 0 3 3 0
+Way scores:   13 13 13 13
+
+330 0 Miss Replace 0
+Line address: 0
+Line reuse:   11 1 0 1 2 1
+Way scores:   13 13 13 13
+
+331 0 Miss Replace 0
+Line address: 32832
+Line reuse:   1 1 3 5 1 1
+Way scores:   10 13 13 13
+
+332 0 Miss Replace 0
+Line address: 49344
+Line reuse:   4 2 0 5 4 0
+Way scores:   11 12 12 12
+
+333 0 Hit 2
+Line address: 49152
+Line reuse:   15 2 2 0 0 0
+Way scores:   11 14 14 14
+
+334 0 Miss Replace 0
+Line address: 64
+Line reuse:   4 1 3 2 2 1
+Way scores:   11 14 14 14
+
+335 0 Miss Replace 0
+Line address: 16512
+Line reuse:   7 4 3 2 3 1
+Way scores:   12 14 14 14
+
+336 0 Miss Replace 0
+Line address: 16512
+Line reuse:   8 4 3 2 3 1
+Way scores:   12 14 14 14
+
+337 0 Hit 2
+Line address: 49152
+Line reuse:   8 1 1 0 0 0
+Way scores:   12 14 14 14
+
+338 0 Hit 3
+Line address: 49152
+Line reuse:   9 1 1 0 0 0
+Way scores:   12 14 14 14
+
+339 0 Hit 3
+Line address: 49152
+Line reuse:   10 1 1 0 0 0
+Way scores:   12 14 14 14
+
+340 0 Hit 0
+Line address: 16512
+Line reuse:   9 4 3 2 3 1
+Way scores:   12 14 14 14
+
+341 0 Miss Replace 0
+Line address: 49152
+Line reuse:   11 1 1 0 0 0
+Way scores:   14 14 14 14
+
+342 0 Miss Replace 0
+Line address: 32768
+Line reuse:   15 3 1 3 3 0
+Way scores:   13 14 14 14
+
+343 0 Miss Replace 0
+Line address: 16448
+Line reuse:   0 1 2 1 4 1
+Way scores:   9 14 14 14
+
+344 0 Miss Replace 0
+Line address: 32832
+Line reuse:   1 1 4 5 1 1
+Way scores:   10 14 14 14
+
+345 0 Miss Replace 0
+Line address: 16448
+Line reuse:   1 1 2 1 4 1
+Way scores:   10 13 13 13
+
+346 0 Hit 3
+Line address: 49152
+Line reuse:   11 2 1 0 0 0
+Way scores:   10 14 14 14
+
+347 0 Miss Replace 0
+Line address: 49152
+Line reuse:   12 2 1 0 0 0
+Way scores:   14 14 14 14
+
+348 0 Hit 2
+Line address: 49152
+Line reuse:   13 2 1 0 0 0
+Way scores:   14 14 14 14
+
+349 0 Hit 1
+Line address: 49152
+Line reuse:   14 2 1 0 0 0
+Way scores:   14 14 14 14
+
+350 0 Miss Replace 0
+Line address: 16512
+Line reuse:   9 4 4 2 3 1
+Way scores:   12 14 14 14
+
+351 0 Miss Replace 0
+Line address: 32896
+Line reuse:   12 5 3 1 0 0
+Way scores:   14 14 14 14
+
+352 0 Miss Replace 0
+Line address: 16576
+Line reuse:   1 1 0 1 3 2
+Way scores:   8 14 14 14
+
+353 0 Miss Replace 0
+Line address: 16576
+Line reuse:   2 1 0 1 3 2
+Way scores:   9 13 13 13
+
+354 0 Miss Replace 0
+Line address: 32896
+Line reuse:   13 5 3 1 0 0
+Way scores:   14 13 13 13
+
+355 0 Hit 2
+Line address: 49152
+Line reuse:   14 3 1 0 0 0
+Way scores:   14 14 14 14
+
+356 0 Hit 0
+Line address: 32896
+Line reuse:   14 5 3 1 0 0
+Way scores:   14 14 14 14
+
+357 0 Hit 3
+Line address: 49152
+Line reuse:   15 3 1 0 0 0
+Way scores:   14 14 14 14
+
+358 0 Miss Replace 0
+Line address: 16448
+Line reuse:   1 1 3 1 4 1
+Way scores:   10 14 14 14
+
+359 0 Miss Replace 0
+Line address: 192
+Line reuse:   8 4 4 2 1 2
+Way scores:   12 14 14 14
+
+360 0 Miss Replace 0
+Line address: 16384
+Line reuse:   2 4 1 3 0 2
+Way scores:   10 14 14 14
+
+361 0 Miss Replace 0
+Line address: 32768
+Line reuse:   15 3 1 4 3 0
+Way scores:   13 13 13 13
+
+362 0 Miss Replace 0
+Line address: 192
+Line reuse:   9 4 4 2 1 2
+Way scores:   12 13 13 13
+
+363 0 Miss Replace 0
+Line address: 16384
+Line reuse:   3 4 1 3 0 2
+Way scores:   11 13 13 13
+
+364 0 Miss Replace 0
+Line address: 49280
+Line reuse:   3 3 4 3 3 1
+Way scores:   11 13 13 13
+
+365 0 Miss Replace 0
+Line address: 16512
+Line reuse:   9 4 5 2 3 1
+Way scores:   12 12 12 12
+
+366 0 Miss Replace 0
+Line address: 49344
+Line reuse:   4 2 0 5 5 0
+Way scores:   11 12 12 12
+
+367 0 Hit 2
+Line address: 49152
+Line reuse:   15 3 2 0 0 0
+Way scores:   11 14 14 14
+
+368 0 Miss Replace 0
+Line address: 64
+Line reuse:   4 1 3 2 3 1
+Way scores:   11 14 14 14
+
+369 0 Miss Replace 0
+Line address: 32832
+Line reuse:   1 1 4 6 1 1
+Way scores:   10 14 14 14
+
+370 0 Hit 2
+Line address: 49152
+Line reuse:   8 1 1 0 0 0
+Way scores:   10 14 14 14
+
+371 0 Miss Replace 0
+Line address: 49152
+Line reuse:   9 1 1 0 0 0
+Way scores:   14 14 14 14
+
+372 0 Miss Replace 0
+Line address: 32832
+Line reuse:   2 1 4 6 1 1
+Way scores:   10 14 14 14
+
+373 0 Miss Replace 0
+Line address: 64
+Line reuse:   4 2 3 2 3 1
+Way scores:   11 14 14 14
+
+374 0 Miss Replace 0
+Line address: 16512
+Line reuse:   9 4 6 2 3 1
+Way scores:   12 14 14 14
+
+375 0 Miss Replace 0
+Line address: 128
+Line reuse:   5 2 2 1 2 2
+Way scores:   11 13 13 13
+
+376 0 Miss Replace 0
+Line address: 128
+Line reuse:   6 2 2 1 2 2
+Way scores:   11 13 13 13
+
+377 0 Hit 3
+Line address: 49152
+Line reuse:   9 2 1 0 0 0
+Way scores:   11 14 14 14
+
+378 0 Miss Replace 0
+Line address: 16512
+Line reuse:   10 4 6 2 3 1
+Way scores:   12 14 14 14
+
+379 0 Hit 3
+Line address: 49152
+Line reuse:   10 2 1 0 0 0
+Way scores:   12 14 14 14
+
+380 0 Miss Replace 0
+Line address: 32960
+Line reuse:   4 0 1 2 1 2
+Way scores:   10 14 14 14
+
+381 0 Hit 0
+Line address: 32960
+Line reuse:   5 0 1 2 1 2
+Way scores:   10 14 14 14
+
+382 0 Hit 3
+Line address: 49152
+Line reuse:   11 2 1 0 0 0
+Way scores:   10 14 14 14
+
+383 0 Miss Replace 0
+Line address: 16576
+Line reuse:   2 1 0 2 3 2
+Way scores:   9 14 14 14
+
+384 0 Hit 2
+Line address: 49152
+Line reuse:   12 2 1 0 0 0
+Way scores:   9 14 14 14
+
+385 0 Hit 1
+Line address: 49152
+Line reuse:   13 2 1 0 0 0
+Way scores:   9 14 14 14
+
+386 0 Miss Replace 0
+Line address: 32768
+Line reuse:   15 3 1 5 3 0
+Way scores:   13 14 14 14
+
+387 0 Miss Replace 0
+Line address: 16384
+Line reuse:   3 4 1 4 0 2
+Way scores:   11 14 14 14
+
+388 0 Miss Replace 0
+Line address: 64
+Line reuse:   4 2 4 2 3 1
+Way scores:   11 14 14 14
+
+389 0 Miss Replace 0
+Line address: 32896
+Line reuse:   14 5 3 1 1 0
+Way scores:   13 13 13 13
+
+390 0 Miss Replace 0
+Line address: 32768
+Line reuse:   8 1 0 2 1 0
+Way scores:   13 13 13 13
+
+391 0 Miss Replace 0
+Line address: 49280
+Line reuse:   3 3 4 4 3 1
+Way scores:   11 13 13 13
+
+392 0 Hit 0
+Line address: 49280
+Line reuse:   4 3 4 4 3 1
+Way scores:   11 13 13 13
+
+393 0 Hit 1
+Line address: 49152
+Line reuse:   13 3 1 0 0 0
+Way scores:   11 14 14 14
+
+394 0 Miss Replace 0
+Line address: 32768
+Line reuse:   9 1 0 2 1 0
+Way scores:   13 14 14 14
+
+395 0 Hit 2
+Line address: 49152
+Line reuse:   14 3 1 0 0 0
+Way scores:   13 14 14 14
+
+396 0 Hit 0
+Line address: 32768
+Line reuse:   10 1 0 2 1 0
+Way scores:   13 14 14 14
+
+397 0 Hit 3
+Line address: 49152
+Line reuse:   15 3 1 0 0 0
+Way scores:   13 14 14 14
+
+398 0 Hit 0
+Line address: 32768
+Line reuse:   11 1 0 2 1 0
+Way scores:   13 14 14 14
+
+399 0 Hit 2
+Line address: 49152
+Line reuse:   8 1 0 0 0 0
+Way scores:   13 14 14 14
+
+400 0 Miss Replace 0
+Line address: 49280
+Line reuse:   4 4 4 4 3 1
+Way scores:   11 14 14 14
+
+401 0 Hit 2
+Line address: 49152
+Line reuse:   9 1 0 0 0 0
+Way scores:   11 14 14 14
+
+402 0 Miss Replace 0
+Line address: 192
+Line reuse:   9 4 4 2 2 2
+Way scores:   12 14 14 14
+
+403 0 Miss Replace 0
+Line address: 49152
+Line reuse:   10 1 0 0 0 0
+Way scores:   14 14 14 14
+
+404 0 Miss Replace 0
+Line address: 49280
+Line reuse:   5 4 4 4 3 1
+Way scores:   11 14 14 14
+
+405 0 Miss Replace 0
+Line address: 32832
+Line reuse:   2 1 4 6 2 1
+Way scores:   10 14 14 14
+
+406 0 Miss Replace 0
+Line address: 49216
+Line reuse:   5 1 2 1 2 2
+Way scores:   11 14 14 14
+
+407 0 Miss Replace 0
+Line address: 128
+Line reuse:   6 2 2 2 2 2
+Way scores:   11 14 14 14
+
+408 0 Miss Replace 0
+Line address: 49152
+Line reuse:   10 2 0 0 0 0
+Way scores:   14 14 14 14
+
+409 0 Hit 3
+Line address: 49152
+Line reuse:   11 2 0 0 0 0
+Way scores:   14 14 14 14
+
+410 0 Hit 1
+Line address: 49152
+Line reuse:   12 2 0 0 0 0
+Way scores:   14 14 14 14
+
+411 0 Hit 3
+Line address: 49152
+Line reuse:   13 2 0 0 0 0
+Way scores:   14 14 14 14
+
+412 0 Hit 3
+Line address: 49152
+Line reuse:   14 2 0 0 0 0
+Way scores:   14 14 14 14
+
+413 0 Hit 0
+Line address: 49152
+Line reuse:   15 2 0 0 0 0
+Way scores:   14 14 14 14
+
+414 0 Hit 2
+Line address: 49152
+Line reuse:   8 1 0 0 0 0
+Way scores:   14 14 14 14
+
+415 0 Hit 3
+Line address: 49152
+Line reuse:   9 1 0 0 0 0
+Way scores:   14 14 14 14
+
+416 0 Miss Replace 0
+Line address: 49152
+Line reuse:   10 1 0 0 0 0
+Way scores:   14 14 14 14
+
+417 0 Hit 2
+Line address: 49152
+Line reuse:   11 1 0 0 0 0
+Way scores:   14 14 14 14
+
+418 0 Hit 2
+Line address: 49152
+Line reuse:   12 1 0 0 0 0
+Way scores:   14 14 14 14
+
+419 0 Hit 3
+Line address: 49152
+Line reuse:   13 1 0 0 0 0
+Way scores:   14 14 14 14
+
+420 0 Hit 0
+Line address: 49152
+Line reuse:   14 1 0 0 0 0
+Way scores:   14 14 14 14
+
+421 0 Hit 2
+Line address: 49152
+Line reuse:   15 1 0 0 0 0
+Way scores:   14 14 14 14
+
+422 0 Miss Replace 0
+Line address: 32960
+Line reuse:   5 0 1 2 2 2
+Way scores:   10 14 14 14
+
+423 0 Hit 3
+Line address: 49152
+Line reuse:   8 0 0 0 0 0
+Way scores:   10 15 15 15
+
+424 0 Hit 2
+Line address: 49152
+Line reuse:   9 0 0 0 0 0
+Way scores:   10 15 15 15
+
+425 0 Miss Replace 0
+Line address: 128
+Line reuse:   6 2 2 3 2 2
+Way scores:   11 15 15 15
+
+426 0 Miss Replace 0
+Line address: 16576
+Line reuse:   2 1 0 2 4 2
+Way scores:   9 15 15 15
+
+427 0 Miss Replace 0
+Line address: 49216
+Line reuse:   5 1 2 2 2 2
+Way scores:   10 15 15 15
+
+428 0 Hit 2
+Line address: 49152
+Line reuse:   10 0 0 0 0 0
+Way scores:   10 15 15 15
+
+429 0 Hit 0
+Line address: 49216
+Line reuse:   6 1 2 2 2 2
+Way scores:   11 15 15 15
+
+430 0 Miss Replace 0
+Line address: 49344
+Line reuse:   4 2 0 5 6 0
+Way scores:   11 15 15 15
+
+431 0 Miss Replace 0
+Line address: 16384
+Line reuse:   3 4 1 4 1 2
+Way scores:   10 15 15 15
+
+432 0 Hit 2
+Line address: 49152
+Line reuse:   11 0 0 0 0 0
+Way scores:   10 15 15 15
+
+433 0 Hit 2
+Line address: 49152
+Line reuse:   12 0 0 0 0 0
+Way scores:   10 15 15 15
+
+434 0 Miss Replace 0
+Line address: 192
+Line reuse:   9 4 4 3 2 2
+Way scores:   12 15 15 15
+
+435 0 Hit 0
+Line address: 192
+Line reuse:   10 4 4 3 2 2
+Way scores:   12 15 15 15
+
+436 0 Hit 3
+Line address: 49152
+Line reuse:   13 0 0 0 0 0
+Way scores:   12 15 15 15
+
+437 0 Miss Replace 0
+Line address: 192
+Line reuse:   11 4 4 3 2 2
+Way scores:   12 15 15 15
+
+438 0 Hit 2
+Line address: 49152
+Line reuse:   14 0 0 0 0 0
+Way scores:   12 15 15 15
+
+439 0 Miss Replace 0
+Line address: 49152
+Line reuse:   15 0 0 0 0 0
+Way scores:   15 15 15 15
+
+440 0 Miss Replace 0
+Line address: 0
+Line reuse:   11 1 0 1 2 2
+Way scores:   12 15 15 15
+
+441 0 Miss Replace 0
+Line address: 0
+Line reuse:   12 1 0 1 2 2
+Way scores:   12 15 15 15
+
+442 0 Miss Replace 0
+Line address: 49216
+Line reuse:   6 1 3 2 2 2
+Way scores:   11 15 15 15
+
+443 0 Miss Replace 0
+Line address: 128
+Line reuse:   6 2 2 4 2 2
+Way scores:   11 0 0 0
+
+444 0 Hit 0
+Line address: 128
+Line reuse:   7 2 2 4 2 2
+Way scores:   11 0 0 0
+
+445 0 Hit 2
+Line address: 49152
+Line reuse:   15 1 0 0 0 0
+Way scores:   11 14 14 14
+
+446 0 Hit 3
+Line address: 49152
+Line reuse:   8 0 0 0 0 0
+Way scores:   11 15 15 15
+
+447 0 Hit 2
+Line address: 49152
+Line reuse:   9 0 0 0 0 0
+Way scores:   11 15 15 15
+
+448 0 Miss Replace 0
+Line address: 192
+Line reuse:   11 4 5 3 2 2
+Way scores:   12 15 15 15
+
+449 0 Hit 2
+Line address: 49152
+Line reuse:   10 0 0 0 0 0
+Way scores:   12 15 15 15
+
+450 0 Miss Replace 0
+Line address: 49152
+Line reuse:   11 0 0 0 0 0
+Way scores:   15 15 15 15
+
+451 0 Hit 2
+Line address: 49152
+Line reuse:   12 0 0 0 0 0
+Way scores:   15 15 15 15
+
+452 0 Miss Replace 0
+Line address: 32960
+Line reuse:   5 0 1 3 2 2
+Way scores:   10 15 15 15
+
+453 0 Miss Replace 0
+Line address: 128
+Line reuse:   7 2 3 4 2 2
+Way scores:   11 15 15 15
+
+454 0 Hit 2
+Line address: 49152
+Line reuse:   13 0 0 0 0 0
+Way scores:   11 15 15 15
+
+455 0 Miss Replace 0
+Line address: 16576
+Line reuse:   2 1 0 3 4 2
+Way scores:   9 15 15 15
+
+456 0 Miss Replace 0
+Line address: 32960
+Line reuse:   6 0 1 3 2 2
+Way scores:   10 15 15 15
+
+457 0 Miss Replace 0
+Line address: 16576
+Line reuse:   3 1 0 3 4 2
+Way scores:   9 15 15 15
+
+458 0 Miss Replace 0
+Line address: 16448
+Line reuse:   1 1 3 1 4 2
+Way scores:   9 0 0 0
+
+459 0 Miss Replace 1
+Line address: 49344
+Line reuse:   4 2 0 6 6 0
+Way scores:   9 11 0 0
+
+460 0 Miss Replace 2
+Line address: 16448
+Line reuse:   2 1 3 1 4 2
+Way scores:   9 11 9 0
+
+461 0 Miss Replace 3
+Line address: 16576
+Line reuse:   4 1 0 3 4 2
+Way scores:   9 11 9 10
+
+462 0 Hit 0
+Line address: 16448
+Line reuse:   3 1 3 1 4 2
+Way scores:   10 11 10 10
+
+463 0 Miss Replace 0
+Line address: 16384
+Line reuse:   3 4 1 5 1 2
+Way scores:   10 10 10 10
+
+464 0 Miss Replace 0
+Line address: 128
+Line reuse:   7 2 4 4 2 2
+Way scores:   11 10 10 10
+
+465 0 Hit 1
+Line address: 49344
+Line reuse:   4 3 0 6 6 0
+Way scores:   11 11 10 8
+
+466 0 Hit 3
+Line address: 16576
+Line reuse:   4 2 0 3 4 2
+Way scores:   11 11 8 10
+
+467 0 Hit 2
+Line address: 16448
+Line reuse:   3 2 3 1 4 2
+Way scores:   11 11 10 10
+
+468 0 Miss Replace 2
+Line address: 128
+Line reuse:   8 2 4 4 2 2
+Way scores:   11 11 11 10
+
+469 0 Hit 0
+Line address: 128
+Line reuse:   9 2 4 4 2 2
+Way scores:   11 10 11 10
+
+470 0 Miss Replace 1
+Line address: 128
+Line reuse:   10 2 4 4 2 2
+Way scores:   11 11 11 8
+
+471 0 Hit 3
+Line address: 16576
+Line reuse:   4 3 0 3 4 2
+Way scores:   11 11 11 10
+
+472 0 Miss Replace 3
+Line address: 16512
+Line reuse:   10 4 6 2 3 2
+Way scores:   11 11 11 12
+
+473 0 Hit 2
+Line address: 128
+Line reuse:   11 2 4 4 2 2
+Way scores:   12 12 12 12
+
+474 0 Miss Replace 0
+Line address: 32896
+Line reuse:   14 5 3 1 1 1
+Way scores:   13 12 12 12
+
+475 0 Miss Replace 1
+Line address: 0
+Line reuse:   12 1 0 1 3 2
+Way scores:   13 12 12 12
+
+476 0 Miss Replace 1
+Line address: 128
+Line reuse:   12 2 4 4 2 2
+Way scores:   13 12 12 10
+
+477 0 Miss Replace 3
+Line address: 192
+Line reuse:   11 4 5 4 2 2
+Way scores:   13 12 12 12
+
+478 0 Miss Replace 1
+Line address: 49152
+Line reuse:   13 0 0 1 0 0
+Way scores:   11 14 12 12
+
+479 0 Miss Replace 0
+Line address: 49344
+Line reuse:   4 3 1 6 6 0
+Way scores:   11 14 12 12
+
+480 0 Miss Replace 0
+Line address: 32896
+Line reuse:   14 6 3 1 1 1
+Way scores:   13 14 9 12
+
+481 0 Hit 0
+Line address: 32896
+Line reuse:   15 6 3 1 1 1
+Way scores:   13 14 9 10
+
+482 0 Miss Replace 2
+Line address: 49216
+Line reuse:   6 1 3 2 3 2
+Way scores:   13 10 11 10
+
+483 0 Miss Replace 1
+Line address: 49344
+Line reuse:   5 3 1 6 6 0
+Way scores:   13 11 11 10
+
+484 0 Miss Replace 3
+Line address: 32896
+Line reuse:   8 3 1 0 0 0
+Way scores:   14 11 11 14
+
+485 0 Hit 1
+Line address: 49344
+Line reuse:   6 3 1 6 6 0
+Way scores:   14 11 11 14
+
+486 0 Hit 3
+Line address: 32896
+Line reuse:   9 3 1 0 0 0
+Way scores:   14 11 9 14
+
+487 0 Hit 2
+Line address: 49216
+Line reuse:   6 2 3 2 3 2
+Way scores:   14 11 11 14
+
+488 0 Hit 2
+Line address: 49216
+Line reuse:   7 2 3 2 3 2
+Way scores:   14 11 11 14
+
+489 0 Hit 3
+Line address: 32896
+Line reuse:   10 3 1 0 0 0
+Way scores:   14 10 11 14
+
+490 0 Miss Replace 1
+Line address: 49344
+Line reuse:   6 4 1 6 6 0
+Way scores:   14 11 11 14
+
+491 0 Hit 3
+Line address: 32896
+Line reuse:   11 3 1 0 0 0
+Way scores:   14 11 11 14
+
+492 0 Hit 0
+Line address: 32896
+Line reuse:   12 3 1 0 0 0
+Way scores:   14 11 9 14
+
+493 0 Miss Replace 2
+Line address: 16512
+Line reuse:   10 4 6 3 3 2
+Way scores:   14 11 12 14
+
+494 0 Miss Replace 1
+Line address: 16512
+Line reuse:   11 4 6 3 3 2
+Way scores:   14 12 12 14
+
+495 0 Miss Replace 1
+Line address: 32832
+Line reuse:   2 1 4 6 2 2
+Way scores:   14 10 12 14
+
+496 0 Miss Replace 1
+Line address: 32768
+Line reuse:   11 1 0 2 1 1
+Way scores:   13 13 12 13
+
+497 0 Miss Replace 2
+Line address: 32832
+Line reuse:   3 1 4 6 2 2
+Way scores:   13 13 10 13
+
+498 0 Miss Replace 2
+Line address: 32896
+Line reuse:   12 4 1 0 0 0
+Way scores:   14 13 14 14
+
+499 0 Hit 0
+Line address: 32896
+Line reuse:   13 4 1 0 0 0
+Way scores:   14 13 14 14

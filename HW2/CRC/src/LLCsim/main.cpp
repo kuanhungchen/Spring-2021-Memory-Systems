@@ -43,7 +43,7 @@ int main()
     if (i == 0) continue;
 
     if (_hit) {
-      cacheReplState->UpdateReplacementState(_set, _way, _pc, _hit);
+      cacheReplState->UpdateReplacementState(_set, _way, (Addr_t) 0, _hit);
     } else {
       _way = cacheReplState->GetVictimInSet(_set);
       cacheReplState->UpdateReplacementState(_set, _way, _pc, _hit);
