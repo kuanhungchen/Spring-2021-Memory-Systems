@@ -10,6 +10,7 @@ int main()
   cout << num_sets << endl << num_ways << endl << repl << endl << num_ops;
 
   CACHE_REPLACEMENT_STATE *cacheReplState = new CACHE_REPLACEMENT_STATE(num_sets, num_ways, repl);
+  cacheReplState->SetOJ(true);
 
   string s;
   bool _hit;

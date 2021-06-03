@@ -19,6 +19,7 @@
 #include <cstdlib>
 #include <cassert>
 #include <unordered_map>
+#include <set>
 #include "utils.h"
 #include "crc_cache_defs.h"
 
@@ -59,6 +60,7 @@ class CACHE_REPLACEMENT_STATE
     unordered_map<Addr_t, UINT32> *addr2age;
     unordered_map<Addr_t, UINT32> *addr2access;
     UINT32 *setTimers;
+    bool isOJ;
 
   public:
 
@@ -72,6 +74,7 @@ class CACHE_REPLACEMENT_STATE
 
     void   SetReplacementPolicy( UINT32 _pol ) { replPolicy = _pol; }
     void   IncrementTimer() { mytimer++; }
+    void   SetOJ(bool x) { isOJ = x; }
 
     INT32  GetVictimInSet(UINT32 setIndex);
     void   UpdateReplacementState( UINT32 setIndex, INT32 updateWayID, const LINE_STATE *currLine,
@@ -89,7 +92,8 @@ class CACHE_REPLACEMENT_STATE
 
     INT32  Get_PRP_Victim(UINT32 setIndex);
     void   UpdatePRP(UINT32 setIndex, INT32 updateWayID, Addr_t PC, bool cacheHit);
-    INT32 Compute_Importance(string dist, UINT32 age);
+    INT32  Compute_Importance(string dist, UINT32 age);
+    void   PrintResult(UINT32 setIndex, INT32 updateWayID, bool cacheHit);
 };
 
 #endif
