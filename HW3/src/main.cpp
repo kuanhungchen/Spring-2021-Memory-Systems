@@ -1,22 +1,18 @@
 #include <iostream>
-#include <sstream>
+#include <map>
 
 using namespace std;
 
-int NUM_PROC, NUM_BANK, QUEUE_SIZE;
-int POLICY, ROW_HIT_LAT, ROW_MISS_LAT, MARKING_CAP, NUM_REQ;
-
+void print_spaces(int x) {for (int i = 0; i < x; cout << " ", i++);}
 int num_digits(int x) {
+  if (x == 0) return 1;
   int digits = 0;
-  while (x) {
-    x /= 10;
-    digits++;
-  }
+  for (; x; x /= 10, digits++);
   return digits;
 }
-void print_spaces(int x) {
-  for (int i = 0; i < x; i++, cout << " ");
-}
+
+int NUM_PROC, NUM_BANK, QUEUE_SIZE;
+int POLICY, ROW_HIT_LAT, ROW_MISS_LAT, MARKING_CAP, NUM_REQ;
 
 struct Req {
   int id;
@@ -35,75 +31,103 @@ struct Bank {
 struct Queue {
   int size;
   Req *data;
+  string mask;
 } queue;
+
+void find_best_reqs(int bests[NUM_BANK], int t, Bank banks[NUM_BANK]) {
+  // find a req to handle for each bank if any
+  bool same_row = false;
+  for (int i = 0; i < NUM_BANK; bests[i] = -1, i++);
+  if (POLICY == 0) {
+    // first-come-first-serve
+    for (int i = 0; i < QUEUE_SIZE; i++) {
+      if (queue.mask[i] == '1' && queue.data[i].id != t) {
+        Req r = queue.data[i];
+        if (!banks[r.bank].occupied) {
+          // bank is able to handle a new req
+          if (bests[r.bank] == -1) {
+            bests[r.bank] = i;
+          } else {
+            if (r.id < queue.data[bests[r.bank]].id)
+              bests[r.bank] = i;
+          }
+        }
+      }
+    }
+  }
+}
 
 int main() {
   cin >> NUM_PROC >> NUM_BANK >> QUEUE_SIZE;
   cin >> POLICY >> ROW_HIT_LAT >> ROW_MISS_LAT >> MARKING_CAP >> NUM_REQ;
+  cout << NUM_PROC << endl << NUM_BANK << endl << QUEUE_SIZE << endl;
+  cout << POLICY << endl << ROW_HIT_LAT << endl << ROW_MISS_LAT << endl;
+  cout << MARKING_CAP << endl << NUM_REQ << endl;
 
-  // allocate memory space for queue
+  // initialize queue
+  queue.size = 0;
   queue.data = new Req [QUEUE_SIZE];
+  queue.mask = string(QUEUE_SIZE, '0');
   // initialize banks
   Bank banks[NUM_BANK];
+  for (int i = 0; i < NUM_BANK; banks[i].occupied = false, i++);
+  for (int i = 0; i < NUM_BANK; banks[i].current.row = -1, i++);
 
   // parse input
   Req reqs[NUM_REQ];
-  string s;
-  for (int i = 0, j = 0; i < NUM_REQ + 1; i++, j = 0) {
-    getline(cin, s);
-    stringstream ss(s);
-    while (1) {
-      int n;
-      ss >> n;
-      switch (j) {
-        case 0:
-          reqs[i].id = n;
-          break;
-        case 1:
-          reqs[i].proc = n;
-          break;
-        case 2:
-          reqs[i].bank = n;
-          break;
-        case 3:
-          reqs[i].row = n;
-          break;
-        default:
-          break;
-      }
-      j++;
-      if (!ss) break;
-    }
-  }
+  for (int i = 0; i < NUM_REQ; i++)
+    cin >> reqs[i].id >> reqs[i].proc >> reqs[i].bank >> reqs[i].row;
 
-  // start handling requests
-  int timestamp = 0;
-  int req_idx = 0;
   bool req_in;
   Req cur_req;
-  while ((queue.size != 0) || (req_idx < NUM_REQ)) {
+  int req_idx = 0;
+  bool not_done = true;
+  int bests[NUM_BANK];
+  for (int timestamp = 0; not_done; timestamp++) {
     req_in = false;
+    // check if current req finishes for each bank
+    for (int i = 0; i < NUM_BANK; i++) {
+      if (banks[i].occupied && timestamp > banks[i].etime)
+        banks[i].occupied = false;
+    }
+
     // insert a new request into queue
-    if (queue.size != QUEUE_SIZE) {
+    if (queue.size != QUEUE_SIZE && req_idx < NUM_REQ) {
       cur_req = reqs[req_idx];
       req_idx++;
-      queue.data[queue.size] = cur_req;
+      int idx = 0;
+      for (; queue.mask[idx] != '0'; idx++);
+      queue.data[idx] = cur_req;
+      queue.mask[idx] = '1';
       queue.size++;
       req_in = true;
     }
+
+    find_best_reqs(bests, timestamp, banks);
+    // handle the reqs found in queue
     for (int i = 0; i < NUM_BANK; i++) {
-      // check if finish current request
-      if (banks[i].occupied && timestamp > banks[i].etime)
-        banks[i].occupied = false;
-      // check if possible to handle a new request
       if (!banks[i].occupied) {
-        // TODO: select a best req to handle if any
-        // TODO: decide latency
-        banks[i].occupied;
-        banks[i].stime = timestamp;
-        // TODO: setup etime
+        if (bests[i] != -1) {
+          banks[i].occupied = true;
+          banks[i].stime = timestamp;
+          if (banks[i].etime == timestamp - 1 &&
+              banks[i].current.row == queue.data[bests[i]].row)
+            banks[i].etime = timestamp + ROW_HIT_LAT - 1;
+          else
+            banks[i].etime = timestamp + ROW_MISS_LAT - 1;
+          banks[i].current = queue.data[bests[i]];
+          queue.mask[bests[i]] = '0';
+          queue.size--;
+        }
       }
     }
+
+    not_done = queue.size != 0 || req_idx < NUM_REQ;
+    for (int i = 0; i < NUM_BANK; i++)
+      not_done = not_done || banks[i].occupied;
+    if (!not_done)
+      break;
+
     // print output for this timestamp
     cout << timestamp;
     print_spaces(7 - num_digits(timestamp));
@@ -142,59 +166,11 @@ int main() {
       } else {
         print_spaces(16);
       }
+      if (i != NUM_BANK - 1)
+        print_spaces(3);
     }
+    cout << endl;
 
-
-    timestamp++;
   }
-
   return 0;
 }
-
-/*
-
-   Bank records remaining time of current req(process, bank, row)
-   Queue contains `sz_q` elements, each with (entry time, process, bank, row)
-   Each timestamp:
-   - update remaining time of req in each bank
-   - if queue is not full, insert a new req into queue
-   - check each bank, if available then put req into it
-   - print for each bank
-
-   struct Bank {
-      bool occupied;
-      int entering_time;
-      req current;
-   };
-
-   reqs = [req1, req2, ...];
-
-   struct Queue {
-      int size;
-      req **data;
-      // queue.data[i][j]. i: idx of bank; j: idx of req
-   };
-
-   struct Req {
-      int entry;
-      int proc;
-      int bank;
-      int row;
-   };
-
-   while queue.size != 0 and req_idx != total_reqs:
-      // each iteration
-      for i in num_banks:
-          update_bank(i);
-      // at most insert one req
-      if queue.size != size_queue:
-          req = reqs[req_idx];
-          req_idx += 1;
-          queue.insert(req);
-          queue.size += 1;
-      for i in num_banks:
-          if not bank[i].occupied:
-
-              insert
-
-*/
