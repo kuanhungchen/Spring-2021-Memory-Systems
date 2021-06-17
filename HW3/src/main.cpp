@@ -1,5 +1,4 @@
 #include <iostream>
-#include <map>
 
 using namespace std;
 
@@ -34,23 +33,45 @@ struct Queue {
   string mask;
 } queue;
 
-void find_best_reqs(int bests[NUM_BANK], int t, Bank banks[NUM_BANK]) {
+void find_best_reqs(int *bests, int id, Bank *banks) {
   // find a req to handle for each bank if any
-  bool same_row = false;
   for (int i = 0; i < NUM_BANK; bests[i] = -1, i++);
   if (POLICY == 0) {
     // first-come-first-serve
     for (int i = 0; i < QUEUE_SIZE; i++) {
-      if (queue.mask[i] == '1' && queue.data[i].id != t) {
+      if (queue.mask[i] == '1' && queue.data[i].id != id) {
         Req r = queue.data[i];
         if (!banks[r.bank].occupied) {
           // bank is able to handle a new req
           if (bests[r.bank] == -1) {
             bests[r.bank] = i;
-          } else {
-            if (r.id < queue.data[bests[r.bank]].id)
-              bests[r.bank] = i;
+          } else if (r.id < queue.data[bests[r.bank]].id) {
+            bests[r.bank] = i;
           }
+        }
+      }
+    }
+  } else if (POLICY == 1) {
+    // fisrt-ready first-come-first-serve
+    bool same_row[NUM_BANK];
+    for (int i = 0; i < NUM_BANK; same_row[i] = false, i++);
+    for (int i = 0; i < QUEUE_SIZE; i++) {
+      if (queue.mask[i] == '1' && queue.data[i].id != id) {
+        Req r = queue.data[i];
+        if (!banks[r.bank].occupied) {
+          // bank is able to handle a new req
+          if (bests[r.bank] == -1) {
+            bests[r.bank] = i;
+          } else if (same_row[r.bank]) {
+            if (banks[r.bank].current.row == r.row &&
+                r.id < queue.data[bests[r.bank]].id)
+              bests[r.bank] = i;
+          } else if (banks[r.bank].current.row == r.row) {
+            bests[r.bank] = i;
+          } else if (r.id < queue.data[bests[r.bank]].id) {
+            bests[r.bank] = i;
+          }
+          same_row[r.bank] = queue.data[bests[r.bank]].row == banks[r.bank].current.row;
         }
       }
     }
@@ -70,8 +91,8 @@ int main() {
   queue.mask = string(QUEUE_SIZE, '0');
   // initialize banks
   Bank banks[NUM_BANK];
-  for (int i = 0; i < NUM_BANK; banks[i].occupied = false, i++);
-  for (int i = 0; i < NUM_BANK; banks[i].current.row = -1, i++);
+  for (int i = 0; i < NUM_BANK; banks[i].occupied = false,
+                                banks[i].current.row = -1, i++);
 
   // parse input
   Req reqs[NUM_REQ];
@@ -103,7 +124,12 @@ int main() {
       req_in = true;
     }
 
-    find_best_reqs(bests, timestamp, banks);
+    // find reqs to handle
+    if (req_in)
+      find_best_reqs(bests, cur_req.id, banks);
+    else
+      find_best_reqs(bests, -1, banks);
+
     // handle the reqs found in queue
     for (int i = 0; i < NUM_BANK; i++) {
       if (!banks[i].occupied) {
@@ -122,6 +148,7 @@ int main() {
       }
     }
 
+    // check if all reqs are handled
     not_done = queue.size != 0 || req_idx < NUM_REQ;
     for (int i = 0; i < NUM_BANK; i++)
       not_done = not_done || banks[i].occupied;
