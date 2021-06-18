@@ -104,8 +104,7 @@ int main() {
   int req_idx = 0;
   bool not_done = true;
   int bests[NUM_BANK];
-  for (int timestamp = 0; not_done; timestamp++) {
-    req_in = false;
+  for (int timestamp = 0; not_done; req_in = false, timestamp++) {
     // check if current req finishes for each bank
     for (int i = 0; i < NUM_BANK; i++) {
       if (banks[i].occupied && timestamp > banks[i].etime)
@@ -132,19 +131,16 @@ int main() {
 
     // handle the reqs found in queue
     for (int i = 0; i < NUM_BANK; i++) {
-      if (!banks[i].occupied) {
-        if (bests[i] != -1) {
+      if (!(banks[i].occupied) && bests[i] != -1) {
           banks[i].occupied = true;
           banks[i].stime = timestamp;
-          if (banks[i].etime == timestamp - 1 &&
-              banks[i].current.row == queue.data[bests[i]].row)
+          if (banks[i].current.row == queue.data[bests[i]].row)
             banks[i].etime = timestamp + ROW_HIT_LAT - 1;
           else
             banks[i].etime = timestamp + ROW_MISS_LAT - 1;
           banks[i].current = queue.data[bests[i]];
           queue.mask[bests[i]] = '0';
           queue.size--;
-        }
       }
     }
 
@@ -171,8 +167,8 @@ int main() {
     } else {
       print_spaces(16);
     }
-    print_spaces(3);
     for (int i = 0; i < NUM_BANK; i++) {
+      print_spaces(3);
       if (banks[i].occupied) {
         if (timestamp == banks[i].stime) {
           Req r = banks[i].current;
@@ -193,11 +189,9 @@ int main() {
       } else {
         print_spaces(16);
       }
-      if (i != NUM_BANK - 1)
-        print_spaces(3);
     }
     cout << endl;
-
   }
+
   return 0;
 }
