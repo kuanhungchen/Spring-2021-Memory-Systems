@@ -35,14 +35,11 @@ struct Queue {
   string mask;
 } req_queue;
 
-int form_new_batch(int *total_load, int *bank_load[NUM_BANK]) {
+int form_new_batch(int *proc_load[NUM_BANK]) {
+  for (int b = 0; b < NUM_BANK; b++)
+    for (int p = 0; p < NUM_PROC; p++)
+      proc_load[b][p] = 0;
   int batch_size = 0;
-  for (int p = 0; p < NUM_PROC; p++) {
-    total_load[p] = 0;
-    for (int b = 0; b < NUM_BANK; b++) {
-      bank_load[b][p] = 0;
-    }
-  }
   priority_queue<pair<int, int> > pq[NUM_BANK][NUM_PROC];
   for (int i = 0; i < QUEUE_SIZE; i++) {
     if (req_queue.mask[i] == '1') {
@@ -58,17 +55,16 @@ int form_new_batch(int *total_load, int *bank_load[NUM_BANK]) {
       while (!pq[b][p].empty()) {
         int i = pq[b][p].top().second;
         pq[b][p].pop();
-        total_load[p]++;
-        bank_load[b][p]++;
         req_queue.data[i].marked = true;
         batch_size++;
+        proc_load[b][p]++;
       }
     }
   }
   return batch_size;
 }
 
-void prioritize_reqs(int *bests, int *total_load, int *bank_load[NUM_BANK], Bank *banks) {
+void prioritize_reqs(int *bests, int *proc_load[NUM_BANK], Bank *banks) {
   bool is_marked[NUM_BANK], same_row[NUM_BANK];
   for (int i = 0; i < NUM_BANK; bests[i] = -1, is_marked[i] = false,
                                 same_row[i] = false, i++);
@@ -86,19 +82,23 @@ void prioritize_reqs(int *bests, int *total_load, int *bank_load[NUM_BANK], Bank
           bool cur_same_row = same_row[cur_r.bank];
           int cur_proc = cur_r.proc;
           int cur_id = cur_r.id;
-          int cur_total_load = total_load[cur_proc];
+          int cur_total_load = 0;
+          for (int b = 0; b < NUM_BANK; b++)
+            cur_total_load += proc_load[b][cur_proc];
           int cur_max_bank_load = 0;
           for (int b = 0; b < NUM_BANK; b++)
-            cur_max_bank_load = max(cur_max_bank_load, bank_load[b][cur_proc]);
+            cur_max_bank_load = max(cur_max_bank_load, proc_load[b][cur_proc]);
 
           bool new_is_marked = r.marked;
           bool new_same_row = r.row == banks[r.bank].current.row;
           int new_proc = r.proc;
           int new_id = r.id;
-          int new_total_load = total_load[new_proc];
+          int new_total_load = 0;
+          for (int b = 0; b < NUM_BANK; b++)
+            new_total_load += proc_load[b][new_proc];
           int new_max_bank_load = 0;
           for (int b = 0; b < NUM_BANK; b++)
-            new_max_bank_load = max(new_max_bank_load, bank_load[b][new_proc]);
+            new_max_bank_load = max(new_max_bank_load, proc_load[b][new_proc]);
 
           int cur_priority = 2 * cur_is_marked + 1 * cur_same_row;
           int new_priority = 2 * new_is_marked + 1 * new_same_row;
@@ -111,7 +111,7 @@ void prioritize_reqs(int *bests, int *total_load, int *bank_load[NUM_BANK], Bank
               if (cur_total_load > new_total_load) {
                 bests[r.bank] = i;
               } else if (cur_total_load == new_total_load) {
-                if (cur_proc < new_proc) {
+                if (cur_proc > new_proc) {
                   bests[r.bank] = i;
                 } else if (cur_proc == new_proc) {
                   if (cur_id > new_id) {
@@ -144,10 +144,14 @@ int main() {
   Bank banks[NUM_BANK];
   for (int i = 0; i < NUM_BANK; banks[i].occupied = false,
                                 banks[i].current.row = -1, i++);
-  // initialize max_bank_load and total_load
-  int total_load[NUM_PROC];
-  int *bank_load[NUM_BANK];
-  for (int i = 0; i < NUM_BANK; bank_load[i] = new int [NUM_PROC], i++);
+  // initialize process load
+  int *proc_load[NUM_BANK];
+  for (int b = 0; b < NUM_BANK; b++) {
+    proc_load[b] = new int [NUM_PROC];
+    for (int p = 0; p < NUM_PROC; p++) {
+      proc_load[b][p] = 0;
+    }
+  }
 
   // parse input
   Req reqs[NUM_REQ];
@@ -159,45 +163,39 @@ int main() {
   int req_idx = 0;
   bool not_done = true;
   int bests[NUM_BANK];
-  int cur_batch_size = 0;
+  int batch_size = 0;
   for (int timestamp = 0; not_done; req_in = false, timestamp++) {
     // check if current req finishes for each bank
-    for (int i = 0; i < NUM_BANK; i++) {
-      if (banks[i].occupied) {
-        if (timestamp > banks[i].etime) {
-          banks[i].occupied = false;
-          if (banks[i].current.marked) {
-            Req r = banks[i].current;
-            total_load[r.proc]--;
-            bank_load[r.bank][r.proc]--;
-            cur_batch_size--;
-          }
+    for (int b = 0; b < NUM_BANK; b++) {
+      if (banks[b].occupied) {
+        if (timestamp > banks[b].etime) {
+          banks[b].occupied = false;
         }
       }
     }
 
     // mark new batch if previous is done
-    bool batch_not_done = false;
-    for (int i = 0; i < QUEUE_SIZE; i++)
-      batch_not_done = batch_not_done || req_queue.data[i].marked;
-    if (!batch_not_done)
-      form_new_batch(total_load, bank_load);
+    if (batch_size == 0)
+      batch_size = form_new_batch(proc_load);
 
     // req prioritization
-    prioritize_reqs(bests, total_load, bank_load, banks);
+    prioritize_reqs(bests, proc_load, banks);
 
     // handle the reqs found in req_queue
-    for (int i = 0; i < NUM_BANK; i++) {
-      if (!(banks[i].occupied) && bests[i] != -1) {
-        banks[i].occupied = true;
-        banks[i].stime = timestamp;
-        if (banks[i].current.row == req_queue.data[bests[i]].row)
-          banks[i].etime = timestamp + ROW_HIT_LAT - 1;
+    for (int b = 0; b < NUM_BANK; b++) {
+      if (bests[b] != -1) {
+        banks[b].occupied = true;
+        banks[b].stime = timestamp;
+        if (banks[b].current.row == req_queue.data[bests[b]].row)
+          banks[b].etime = timestamp + ROW_HIT_LAT - 1;
         else
-          banks[i].etime = timestamp + ROW_MISS_LAT - 1;
-        banks[i].current = req_queue.data[bests[i]];
+          banks[b].etime = timestamp + ROW_MISS_LAT - 1;
+        banks[b].current = req_queue.data[bests[b]];
         // update information
-        req_queue.mask[bests[i]] = '0';
+        if (req_queue.data[bests[b]].marked) {
+          batch_size--;
+        }
+        req_queue.mask[bests[b]] = '0';
         req_queue.size--;
       }
     }
@@ -262,25 +260,8 @@ int main() {
         print_spaces(16);
       }
     }
-    /* cout << "  ["; */
-    /* for (int i = 0; i < QUEUE_SIZE; i++) { */
-    /*   if (req_queue.mask[i] == '2') */
-    /*     cout << req_queue.data[i].id << " "; */
-    /* } */
-    /* cout << "]"; */
-
     cout << endl;
   }
 
   return 0;
 }
-
-
-
-/*
-
-cur_marked, cur_row_hit, cur_score, cur_id
-new_marked
-
-
-*/
